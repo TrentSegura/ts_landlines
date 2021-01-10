@@ -1,0 +1,9 @@
+
+#pin-marker{
+  cursor: pointer;
+}
+
+#pin-marker::after{
+  content: "⚪";
+  font-size: 10px;
+}

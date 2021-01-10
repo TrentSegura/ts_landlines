@@ -1,0 +1,2119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Conejos County Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0145866,
+            37.0682267
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Creede Historical Society Museum & Library",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.9270182,
+            37.8524283
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Adams State University - Luther Bean Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8802,
+            37.47003
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Monte Vista Historical Society Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1452239,
+            37.5802683
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rio Grande County Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.3517466,
+            37.677862
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ryan Geology Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8806504,
+            37.4746242
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Saguache County Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1422211,
+            38.0865794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sanford Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.9052376,
+            37.2570629
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sangre de Cristo Heritage Center",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4250832,
+            37.1995721
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "San Luis Peoples Ditch",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4322236,
+            37.1982982
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Poncha Pass",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0869615,
+            38.4222204
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "UFO Watchtower",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8872121,
+            37.7885473
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Crestone Needle",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.5766752,
+            37.9647221
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Conejos County Library",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.967201,
+            37.2523465
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Our Lady of Guadalupe parish",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0201384,
+            37.0882914
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lafayette Head Compound",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.021131,
+            37.0895978
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "G6 Hamburgers (murder tour)",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0195233,
+            37.0889665
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Manassa Records",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.9383974,
+            37.1738101
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cumbres & Toltec Scenic Railroad Antonito Depot",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0120421,
+            37.0695753
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Natural Arch Trailhead",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.377438,
+            37.81153
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Penitente Canyon",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.2831855,
+            37.8853526
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Zapata Falls",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.5530687,
+            37.6188923
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "La Jara Trading Post",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.9543787,
+            37.2692066
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "La Jara Trading Post Mural",
+          "description": "By muralist, Fred Haberlein"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.9625843,
+            37.2673151
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Murals of Conejos Driving Tour ",
+          "description": "https://www.colorado.com/travel-information-services/conejos-county-museum-and-visitors-center"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0125112,
+            37.0665782
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sangre de Cristo National Heritage Area",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.866622,
+            37.4695302
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Saguache Crescent Linotype Newspaper",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1367344,
+            38.0869551
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cano's Castle",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0061045,
+            37.0813142
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Society Hall",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8699725,
+            37.469045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ute Mountain",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.6839004,
+            36.9375203
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Alamosa National Wildlife Refuge and Visitor Center",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8030248,
+            37.4387868
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Baca National Wildlife Refuge",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.7751294,
+            37.8610774
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Monte Vista National Wildlife Refuge",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1485448,
+            37.4859649
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "CSU Potato Ag Test Plots",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.144555,
+            37.7053787
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cielo Vista Ranch, north gate",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.3037139,
+            37.1708966
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "House of Tiva Trujillo",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1449116,
+            38.0872914
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Underground Mining Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.9280215,
+            37.8578061
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "San Luis Valley Museum | Alamosa",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.86434,
+            37.4690816
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Iglesia de San Francisco de Assisi",
+          "description": "Iglesia de San Francisco de Assisi is significant for Hispanic Heritage as the central gathering place for the community of San Francisco (La Valley). The church remains the location for ongoing cultural use and is a site of regular community gatherings. In the summer months a priest from the Sangre de Cristo Parish conducts a Mass, in Spanish, at each local mission church in the area. It is an example of vernacular church constructed for the San Luis Catholic mission churches after World War II and has Gothic and Mission Revival elements. It shows how after WWII they adopted modern building concrete block rather than adobe bricks.<br><br>https://www.sangreheritage.org/explore/#w2gm-listing-6089"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.34942,
+            37.1023933
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Iglesia de San Pedro y San Pablo",
+          "description": "Iglesia de San Pedro y San Pablo is significant for Hispanic Heritage as the communal gathering place for the communities of San Pedro and San Pablo. The 1933 church remains the location for ongoing cultural use and is a site of regular community gatherings.<br><br>https://www.sangreheritage.org/explore/#w2gm-listing-6096"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4017778,
+            37.161291
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Iglesia de la Inmaculada Concepción",
+          "description": "Iglesia de la Inmaculada Concepción was built in 1938 after the original church burned down in 1935. A community baseball team called the Chama Kitos sold game tickets to raise money under the direction of Father Onofre Martorell. It has a single-story cruciform plan with an eastern nave entrance. It is significant for Hispanic Heritage and was used as a religious center and social gathering location for the Chama community. In the summer months a priest from the Sangre de Cristo Parish conducts a Mass, in Spanish, at each local mission church in the area. The community still gathers at the church during Holy Week before carrying a model of the church to San Luis for religious observances. They also gather in July for the Feast of St. James and in December for the Feast of the Immaculate Conception.<br><br>https://www.sangreheritage.org/explore/#w2gm-listing-6082"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.3817417,
+            37.1632865
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SPMDTU Chama Concilio #31",
+          "description": "The Sociedad Proteccion Mutua de Trabajadores Unidos (S.P.M.D.T.U.) Lodge Hall in Chama, Colorado was built in ca. 1920. It was considered significant for its contribution to Hispanic history of the state, its adobe construction, and its likelihood to yield important information for prehistory or history. The property was used as a lodge hall for the Hispanic labor union from the time it was built until recently. The S.P.M.D.T.U. is still an active organization in Colorado and Northern New Mexico. The organization was founded to provide mutual aid to its members by pooling their resources to assist one another in times of need. (https://www.sangreheritage.org/explore/#w2gm-listing-6083)<br><br>http://www.spmdtu.org/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.375206,
+            37.1625302
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Capilla de Viejo San Acacio",
+          "description": "The Capilla de Viejo San Acacio is the oldest continually used non-Native American religious space in Colorado. As the symbolic and actual center of the Viejo San Acacio community, the church and cemetery (capilla y campo santo) are the location for ongoing cultural use and the site of repeated community gatherings since the village formed circa 1850. Additionally, due to representations of a regional folk art tradition as expressed through hand-carved gravestones in the cemetery, it is artistically significant. In the summer months a priest from the Sangre de Cristo Parish conducts a Mass, in Spanish, at each local mission church in the area.<br><br>https://www.sangreheritage.org/explore/#w2gm-listing-6087"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.50844,
+            37.2018328
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Garcia School",
+          "description": "The Garcia School is located in the original location of the Plaza de Los Manzanares, which was settled in 1849. It is one of only a couple original territorial adobe buildings that remains and still maintains its architectural integrity. The construction date is believed to be around 1913. The property was sold to Costilla County School District Number Two under the express condition that it be used for a public school. It closed in 1963, but later served as a community library and location for a Head Start program.<br><br>https://www.sangreheritage.org/explore/#w2gm-listing-6085"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.5374329,
+            37.0065324
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sacred heart mission in Garcia",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.538821,
+            37.0087478
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mesita Volcanic Area",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.6381091,
+            37.1070479
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "San Juan volcanic field",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2LR2RM8kaZQ5G6C1rrvMRd26i0rzu4sOuVr0fm1S5On-tE7lJ-urXX2obJkum1nSJT7jzt949QEztGaxV6Fn9hJmKaOX1ebuKoLcT3VxSPaEVl4KAu7JPUT_XdXrpRQ5qRii5D9s10Wx2wvnW2mjM8Xuo27Fojtjx_3JqzJ1aUoJGc6PvmzeIGoxrUOzWgUbqjJPi_ki9i-YSxjcfuuo-sB4bA-iKj0hiO8fCedqkSS_veplsenH-HwHvX-KzQp1kVMDxQMJ_7N32OQ4YbGHqohAD5McGG6TbGeaOCdYKe-CuK8YeTUypEZDu7SZZfYiKAgoxw3sTrb1l9HgO1DJH2ehStVuOcmQk1DM1CtADPLsAQvmXEpHfNXguIeFU_9g06UYWvk0VV6CoFerSO1ODMMJwbPY7VgFp6pxjjP96rSboWIijMoGfWo4laVBkOsa8nW7zGsrVhxlsFSwpkrrI6Y2NmMnilIVHdkaMwnQzu2FWeghwSY_ezh_90llmbg_KCPaBqki_RvK0wIhEHo6XekOU2iX5_eNKAc4VXKnAqPWgWEJ_ml8L_E6G_6WvJgg7wTPiEuiJ3NUTXFYCbL8Kukuo7E2nMZDvWDZQUClubl_EIpY6-yl6ssmlxkSBXA345oCmgTI0CjPqkUcI1asIBUAE3f0jB_d17d4VJKX-WcuB3H55T1k2-bg7GCCGEPuwMLtbmLvGB\" height=\"200\" width=\"auto\" /><br><br>VOLCANIC FIELD<br><br>Part of the San Juan Mountains in southwestern Colorado. It consists mainly of volcanic rocks that form the largest remnant of a major composite volcanic field that covered most of the southern Rocky Mountains in the Middle Tertiary geologic time. Within the region lie an abundance of caldera volcanoes, which comprise the San Juan Volcanic Fields. There are approximately fifteen calderas known in the San Juan Volcanic Fields.<br><br>The region began with many composite volcanoes that became active between 35 and 40 million years ago and were particularly eruptive in the time period around 35-30 million years ago. Around this time the activity changed to explosive ash-flow eruptions. Many of these volcanoes experienced caldera collapse, resulting in the fifteen to eighteen caldera volcanoes in the region today.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3ZsLdRM_zfojbzWK7u6NHZdhGUeSVYrsrLeumJvhouKbGBjXGmaVE-zB23UMGqeQ4c1fa14WXeqGcQejkBM2n4F3iMgBjTg3Brf6NsaA03zhIzp2Yvjr5RbWFUwdoU7yO5nBBICwLBBBJ5y7SeI0uDbVB9WdVvROJ2d6eMlrdEDLEHRaZBR7wsHbpZ6vwYRJvx0OtUaLOwSu7mnpAJVY31mPynvCpzdIUwqH8nais-6JRluvQru_nb-jUwGXL1M-tOjkoPiRMaDMrDEqCeMyLJ2mJClFOb32EaqJhdCmHriwi3_1Pp-rmFrH1nB6-n2HBk5bYyMMDiIUOv6yMqnhKRLxtlwOXhHoZbywyC5ZcYSIYKNzTbt3XGyW5uavCRc90Q5NcF0v4BJ272Pk3_ovZz5ceW_BUTuiedFvjkdLW-sCpxHMnBl0nk4UDQ0HQ0PnoSbJCp8aNVEG4U2JEWy9rSKvsJ6RQWmm-HEkcnX3sA8YI7qNdJhI6Uy1WF0-JZWvq7PumDkbDKpCXBFyvQxhbCBO3GJi4UnlYGgndv4lB3h0mpPE3X6GAhAyCSelSvzV7fgPgvk60exWxaxpYVyAx2y_iNuggG_HiQq8yRSDKYgSmfIbFKxqbIFvROKmH1yynKGX0Hf23L6DMYe1Hd7Gl7AFtpK0U3-JJi-ZQ4Y8DbCfX5VNCxn4hXe714kjEfAkUGYwsS5QSSDw\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2Z__AkI4mSWnYpjMn0YPfNo_-0KXw_od4l6grKWeRLq8z8ey6BFmQKVqBiv6i9KYEt9-hFwSJajbBesM4KP3PM2_CdU0oSmGYJiKE1BtysXGaxEh0d9gw35ER8FmnnGL7-uBDZEbtxmxnDmXWDDPS5IkfVjYvQb2H2V9vKumGhhigex9rdheTevh0ZRFYFL6cVKoJgKtRxgUcXd3_HOykUX1OggDcWwCt1axqTpC6iFaQU9-TjpkgcQIuPcGwawL7O9GqFWzn8RXMIDxfxoHkJteuyWWTfFAUKZSVe-SfDOUSY8DfmSAptYdprTILumpa-Bj0lkGclM7akfB9xjy6G2EGibyzO9LagJF9BfozqZwP5BW5MT4sae7RRk6hnBLtBIgDFgmRbkm0LqS2TvsksORPPYPenoti-DNRQH5agqPOklwvJDigilyUYFBK2km2HST_eQch6yhqzA71TK_wphAzSCZPpYEaz1fya_Okvem1aZRgph9TRxQQWVITasvDp-yI40xfkgsgx1Bqy-EQISVKqAqFAEeaRG6twsxejcU-0JxfufgQd4ZovDJD1lBlQDTjoT1NAfrDKCb6thPQtcIy0-fQ9AHs8Tp3Bm47XYHbt5yF523O-wO4PteH2M1_knT4GA8ywTf86WROm5f3uN4O5v2BoGGYZG8WoM9kZ6UVGDTDR8uc4yTLYA1j1HKpMA01TQZZH\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.7744601,
+            37.8932822
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wheeler Geologic Area",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2DGhhJ2wC4rPF8a3skQP5_smAoyOaB7oITSFZmNvPDdxGAS8e9rJt_y8yyyISgPrvx__La6miIHpCaaLGDyJCYkD2JL-v9BSxoVMm0V6eJUR2y7b0AAXNCftmuGL516MuECwebIaN3SwIEtiLuQy4cz5jh8hvby5LaDC2jlxkeNDstuXPloo6yv7DsIGSwDo8bPsR4hywF70hEouAt3pdUS1KDSnsuSkr9ISNSmHtuRU7LepTm-ONCnhomaadYJjrc2lkymdP7xbKHzIXpJ6YFBxeelkAvcYrOZPw4sLwsRgHmfu0ZidtzBJinf4Kusw-6dPqGRMftGCfw6oucELU4_v7MpoqHNajgD0n7JiXYzNQtB6e_UQH7SYAS7qfQ6rnhe2113iKchVVa-cmcQnmKBfSpD0nToHr6FphfYDXGPyTX4wBdryks2J9aErwMZ06ryAJXACXfMUuijpk18_IxHAifH9QCnMaktBmX9_W5DAW19QJLxL3H0UGnMYmMSCym1VoCw2E7wyq2NlDVNpmhz7zrp9bHe0EbS9TdUnTGH-jTFYE1Od84RitYyimxQY7XMljtrS14ZTdEgnkoKw-_-3vBi6PgZXX517DlihxAPpZRYqL1WedAY4lgvkbmXHy84tD008WURw31QGbeFhNUUXk3bLhxoOrN1MwXYBfpnsOUP8sdMIpraoEY_lanP_7BOQigEFsyng\" height=\"200\" width=\"auto\" /><br><br>GEOLOGIC AREA FROM LAYERS OF VOLCANIC ASH<br><br>Located in the La Garita Mountains of Mineral County. The ash is the result of eruptions from the La Garita Caldera approximately 25 million years ago.<br><br>The area was designated a National Monument from 1908 until 1950 and was Colorado's first National Monument. It is now part of the La Garita Wilderness and administered by the Rio Grande National Forest. Lying just below the crest of the range at an elevation of 11,960 feet (3645 m), it can be reached by an 8.4-mile hike on the East Bellows Trail (FS790), or by a difficult 14 mile four-wheel drive road.<br><br>The formations are named after Captain George M. Wheeler, who explored and surveyed this area in 1874 for the U.S. Army.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0ATcmG4SEAY8TP6X_eK14U2Rkh9dMQHfaAjLDN2EZA6mMCh6nmnGAQXrIitUDhtBIJziHAvn8tTnPN3i0cMcdFDU6S5UU6Qis5yhb71ULSI9z0EMjFBLryaPiZ1lZDy4-lxo-b_mgPsjtbv_Gkbuh2S0mSX1r-eYfOG8f6x5gJlCwmYhycpmvanzVGWwEGJrBnSSoq0JJmMxZRkGkkwTCJouVZEiBi07DKuizBlUgjYzdCHuj3HPTkiN987kPuP8YG3WuR2B62CbBP7QwHuV_ne7TkXjxoBuvc69WRLajpycANthqrmwhmodGHHGhZhIQAkQw3_-A7mo6RmPkM6Ufa3Cl1uObjj3yKrxjtwFMsIBuAc85BVMOtAr3TKWQ0CpQr4Qy5iIzZgxM9xTseV1d3dgwdvkeTPM8qN5n8YnHMvPqquFlmhu26AAXTDUhqUzpOeE6UmiPOl490YAUhXu8IuChkFewKWRByErXitzbkVeaAwKBWqXqllKIChcL39lKEQghgJXW0XMUMRK5pUT46u2FaYnCqYXN8fzpuFMDrw7S6pNwYumFamuiOzMYKJQV2ruuD7LTk2A1apbm-a-6ZhIRJv2POa3NR7VMr3T7spekfohedixo0Pflq8azB_US3Eh-9KCjIbsKx16sL9SacMdjko8JWdVCXj7GYWWueQZV2jDAFla2QsvPRb0RctrcGAR2cYcad\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2dBwiwxJXPZQ7tDJ_XeP_o61cBEdsTj4Ww1XUDLEcwVy4eWDDytOmurQXA9hfG-FMasTtCDXI-u1yMkjbo51g-2SsrGO2nfBhyw9WgT3XvVZ0t8F-ymN-9QWsny3Bh5fE3hMSSkwN_sMWMk_5TWougpQSVIwoxoPc5zwquy2bONuzKHeIjeWMQ6uJlV_jqhRccaRbLeAKrhJL1Fkg0RBPPPY-091VKWmBm6py5WZfqRkYILJd67zr7OSbqDm2Rw5MNmRa39qMOdeZSvboIozIo5eu1UZQpBa6eDs9ZAwoj6W1SQlnSa0fAQl9RYRl-_hkL_YPlCfUoCnbv0mMQqHpf6eI-gIGHKkpkS-VCKqmDPe8_GQDX2_7t7h3gKkFMyWJqw0z6FxQNwpTvPvgi3Ojh8Uf8TdVDd05CfHLhgraBOvAe87wXjLXnqzczXnlxAf8GLtfreWqVjM3298monl-jOjvr2JEXTggLth-2-LA0Dwvdyyr-zfBrtoRiaj6K6SbmYy4Z0A7_FRdchzgYVHrq2c6lZ9cayw9DNSVmyAzBafo_xPfc5TxkzH4J_mCgI0etchNgpzRT_aBwYfazZYO6t6Kmm1JK0gZfhFDPT_tzgxN2HFwwBK6tfYYS9RgaWr-gDUSNqAL3o9oxSok0mVgCwUWiFcYGS8HUtHpK6kXd1aMUTCgjxtXoWgeqTYm_onJS4SbOYnzlvw\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.783653,
+            37.881721
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "North Zapata Ridge",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0tITq2V3NzLfw7sOVogPcTGOUsn8Os4bYxxI8TvXVmAwZA6IJtMVnEeCVj7R61Ssmz_U3yNwUbAt4P1eF-J5ocgqE7mKGMNqsL_Gde0E1x1UtOdnIq0vaa68zvTRc3HoKmTZ9cQCvwYDe02D5c6v3tZRnVmpsm5UMm-4SfDAtbNIR2hmPPvWZl-kxp4_K8mD5_XZ_jGUU7eO_02P6OL5Ey3izgg5BUYPQchgSDYxuD1hlB0CEEB9OuVRyJgQdIRqD8Ja5waH2wPewjZzwjPwe719n_93kAw_n5mLKwMoqQq7D7O8a90_4tm_qkmdtg3GT__Qdi31wN9YVqjsxgb3bbVjXEz0pWv4kMLyGDOlCVK-335t6EtUQ0F3tVdhMb1S8S-pIjoGSxdANM2wwlJCtzakX0wjlKMyjSqUSOr3fYjtvyCW0hCqP-jfyuWrU_FhRgrilmF2mHVrGsiWq_Urs65hTXBbGGrC9MiOAA-jNuMVvMbRs4eDlCW6AhYxjM5Z_Pm-7e73EFd3yadFt1JaJbql938MAl2XysZD4sZJTWfAEusb4BNBuX2jX0lHOZ52lcb4Y6MN5H93un87tcsaypA96bAgyo7-ak5qkVT5_FlVarL-46yNdzhpcrvacgxKp-e9fKWmn5bCcjlcjyQGBz2v1M59aLLj4jmO-1Jv9gq3JE4vg8nGoWUl5cO5tgM4YaonC8trER\" height=\"200\" width=\"auto\" /><br><br>14ER<br><br>Trail that switchbacks up through gorgeous forests of pine and aspen before spitting you out into a meadow. There are stunning wildflowers along the way depending on the time of year. <br>The ridge is long, but has few very steep stretches, making for a leisurely hike. <br><br>The summit has extremely interesting black rocks. Circle the black rocks several times before sitting down and enjoying the awe inspiring views. The Crestones and the Sand Dunes are to the North and the gigantic north faces of Blanca and Ellingwood point are to the South.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2tee7GuoeXbHIZuzdkToCK8SayqVbzF1J7N2cc_Fd_a9fc65Ipv7WhBLNz43HBr2_ypr0q3zs8VmJmEy-BbW-SVgG0ByThH0J6xP-ZT0TT-Ez11dyosNze8Tdckh7E0TS0nJvyYDXIgxrr7GMSPL5J0rHqasPvdgUAGJDneE28YGM3bIDheMIOU64XZAQ3WiNM0ArtMuIM271dYqdGY85u6j0ezxBJteS8Gbu6XDbrFqfMpsBDj4h43d0VfIylVu_IaoeF5pPUP_NEf9cpffflu59mOw8P8jyWvoMq8pRlRkLCQLzkFP0UumdgErJI9YLV4WL6yO9XxA4tgbdhGuUlAikLFOl9Pz_GfgZ9A2b3D8BHkHnP7eHhRss8V6NTiUhIpm5ph6UJ1xUAp36SZLt-tPE4Za_hkt5FyC7a-P6M1fzuSn8fQ0ZKigmOv70rLM9ENNxpoIEDOCzR3oDEsMoMKtUmu_vUS-i8e0m-WCcvRIocWr6S4m834TMQR2BIAIwgsMd7OtAAGvO1dmk-tyhwSAMbM4N4yKIoAq06q19VmgrbPcGjXQWDNzbmiftg6yM66fcHvSm-0RD3_ld42fMuTXO1CX1yWKTdYKrpewcXSp-v7A6DAS8MYwlpsKU-ZB7n8FBXM1R6Ek24LpU07FpJSZ5M-SfqEGVWly9coXpPU4X5AVNvOP3RmIFiN4a3U1085L4dyCjIOQ\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4825,
+            37.684444
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Blanca Peak",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2S6p-M7NgJBpkwgD6FCDHZnaZohlgWZemUwb2IPao1J55o0OMNe8y83NUDEqHx3ni9OPTL2Cz6tzeslvg_-Gx1yvfUJsWd7rgg-0GdoNHyw1mchQiPu0dSPd7PtUS2PKNpA4oX8hI378nkJLSME8pySjlkcsvLEPZI7wv0BI_8pWcvdghUHQlbq2UM3cWxf7xxy85FtB0aD0d7PjK44iXGBQ81EGzvsnZ-CV5Zv2Th65oddGKsgYR0TRk11w8uBdJ1LMmF-5GQcMwtXaarN12jN4_Qao7bbgLH0oCMlH32BVYqxTEqyLpg-1Gwfb0s19gVx2CJw674stnMIiZf4iyP18HWrYnUthy84QcUms6vW_vgA4bHXM6ZWKNP0iFVJHL-_-j826yKhmMMHsatlx6WTrNDEiYnHtK7leHZgaB5M-ENkve30WgdnAZ3KDEgZ5LYr_lNxDGIMQNGbViFbaQD8lOqnCBCy6-jNfbyEqCqfzH-ZTuTyMKi8T9WK_o-fyGls2nol84p6yjSDG5D3JwwagfWW453Lm9AA9_ByAogSUhh21M8d64GwAASiGnYEZvJ8liphnHlRM5TVw3fItZwlbIZSWCQCDecjXwyp9sF55-3H7eJrHO08AmpS0Im_Gd9lcwHeinTi_2QDT4yO18zDJdLpY5uga0W_Ac2vMgIyT9vXVPLstJhBwKZcqnH7S7f44EtrFyiSw\" height=\"200\" width=\"auto\" /><br><br>14ER<br><br>The fourth highest summit of the Rocky Mountains of North America and the U.S. state of Colorado. The 14,351-foot peak is the highest summit of the Sierra Blanca Massif, the Sangre de Cristo Range, and the Sangre de Cristo Mountains.<br><br>The first recorded ascent of Blanca by the Wheeler Survey was recorded on August 14, 1874, but to their suprise they found evidence of a stone structure possibly built by Ute indians or wandering Spaniards. <br><br>Blanca Peak is known to the Navajo peoples as 'Tsisnassjini', White Shell Mountain, and is their Sacred Mountain of the East as they have 4 sacred mountains of which two are in CO, one in AZ and one in NM. <br><br>Blanca's west face rises up gradually from the Lake Como basin and is comprised of large boulder fields, rocky cliff bands and various sized snow fields of differing steepness. Blanca's sheer east face rises up steeply from the Huerfano Valley and is comprised of steep, loose rock and snow gulleys of various soundness.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2aSrfiL-d2_B2GTGaRLPtdm2SGnQQeVE1PpCb_pLA_6j7smPnkled-VpJV7UWbE8bl4XsLsnGdVzM2xycT2A2XTS2RWctweNiNANtI99hIFRcFvIA8L54GmWHMmTFQO8Y_aGhUILRaZTOiXGKIxkupv1uXkw4TAjaE_n2r8LbxKco39uwrBk2SzmTdG5Hb57DYyUJLnN21K5OSSqS-mshFP9gOH8ybfaNNTv1IdTctMmSzv72F5WppkUc84BXEtUj1ZBw0aHB66paXyIJ6mWlagZ46uaUubK-Hk4W3ohA5Gz6MyCPfqkrd4xJV_l9aQODcdMjvKRr5u_6R04-U3IPZTecc-LXT9He8Yk1AMr856TvAG_Q0MQJrn3fYBNBM0d_92dkqTJ0wbRXP4YMS4y2KoFW3-TN-o6jTsRTuHL7ezJYYJEl7Gx2a2dUMJ2R6iXea_f6LSVTTdlCM_dSvgT0T-Fe1Ec1p1j9D4Gj6wYmQYqZG2uCy_RBGN60ObrMlNwDxzMDCGUyEfa6hwMlPXn_UE9WmrZC9kiS8__3kY0RLfDiOKR6VPUMM5XHgS6_p8XzK0PJJ6B2YFu8c46IVN2mAtkqiMb6famUfFp7iUDg5-t24Vr1sgaE_vFrUiABPiC5pOFGraXgcJbdykkdHISPssV1To_0DdNOH2FQcNZZMDD6Ir8WgeQ4mftpMyD-h08IwekL1z9Rw\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2jVpYw0B8inisePO1el7hhYAEvhOg3QTwowrdh3JrcdefxN6iJJcbUYtwZSlLtW8QK-S5dzDs7cbSc_2_efH37b1G2qJ7FRdwrWzY80Er8wSO2B9I8g6qBlVUjkCC4lNP5VortZOjp24kkbu0CvlnUJrmOpwUMSAFdlNyp4Qp0UtImRNeKLycTIOAKZmkLLEE-IeNRryUqPPMprhx8rS9XwEULx4Cd4NlgJQwvBp6O5GVJcQbuFNgCfrfko9OqPMEaGxgT__qB1Kj5p6YiF9xWu8ZtrKPJJ-ZN8kB98ZrYcuwsSUMtODCh4vEiWvx9xeSDbCKHlDn5MrdQSU3YzlaMf6hBMkh4qK04EI7N5F5wiM8yPWlQNwRiJV1vyhxK9T8CQJYJaSH0mNCBwn7wkSI8NQ88VZ8NgQLN2fyUxDu_op4dcPaDpRE5lqCFD3BpoXBoWok86bDfW69HJMZfLjl_NrUN_vrb8oRv9cgFKGn467ewkKdEWKFewh76VAAxxNJhWUKeFlIywUE6lWafcHFnxgMfaihe8o44rd--ylRlpIMGjjNDR3Yqo-KZYMaa1pYNXpY4vupPaXa_Mt-K-S9gPnhwNa5kYTBHANDKPs_UBP8cBzgqRehvwTjWnZS3d4wPI94AvusQa5dSoA2AidGjd5oR3GJC6m4tkqkQZVd5uUfCRyLBHvEvlXU9iis-998WN-gf5ULd3g\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.485845,
+            37.577227
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Electric Peak",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2majt7_QDzy3RIBvhUwu79_4bZlo1iPQqGzK4RRBYshVXuVPmiwS2vcTpQmg5mQ37S2MFIHXa7IcwFEnHCtHUhKnOyk920E2N41OmgBXgGP_C8Xp7gfb_6wSAX29XU05yPcZkvSwLDfeeGSmqu91Gp6vxi8NiK3-XEC4n1frMyB636GbUsHmVW6Kxhca72rMkuP_NlCq__vVBMm_zi3oZKkUPjrt3hGsIeG9wV6XJUwT_ZNCnzO571FklFXATczwtGHHsekdkefl6-is6uv_Hiti7dRIGjF2SUlLyvTxnH7BDT6sCOfFHjN_fejuqd4Zei5nBYq-lO5CVGbUMJqhpq4MAqfb5wgOuS2Lg43Y8ZDQSjYzCO9Z6GU8cykysLa8xSarNJwKwLTEfgXOi4xfZc8Cr02g6fICqPepnWFAf-o4fmagR8PactBsaszdBVnEOft8zVjo5iefbNQJ5IkTY4jPMdhvWTGk2E6jfHekCpJldxcIZ8syCPZ-WmtdsFFY85wpsBGKeS3fhU3J5TtTm6Og0gQXS8ZQLiA93cFVTVBVgodERPkiD084_aK9Nie6wip99WfTKdqcA58RfAuwakPn4E0x65HRJ1uQqqeKqrMs9b3wGoA9hGyf5SPIKv-uYogjIFwKDz8Of5nsKf4Re8XRzZLEngOMbnzmLufEqfhN1-dh_VNZbA1q0_YDYzef-dJmEpLg8F2A\" height=\"200\" width=\"auto\" /><br><br>13ER<br><br>The 191st tallest peak in Colorado, is a distinguished mountain, easily viewed from the San Luis Valley. It, along with fellow bicentennial neighbor Cottonwood Peak, anchors the north-central Sangre de Cristo Mountains. Reigning proudly from its position on the range crest, it's the tallest mountain in the Sangres north of Rito Alto Peak. <br><br>Far from the fourteeners which draw so many to the area, you can find peace and isolation here. Among Major Creek's highlights are groves of tall aspen, numerous beaver ponds, some of which have redirected water onto the trail or even overtaken the trail entirely, and a small natural arch. Electric Peak is composed of angular, blocky sandstones and shales.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3uZwRVMsoCs_HIKb-xbJYLSGLd3ZWdyIMNsAytY57fRhDGIE-NpvXgCVQCOzGHQq2jTWeS791jfKP2kg26DV-crQTcmzfHMkyg96EH4vtNsw9HQwFBQxgECH7X8ed-bMZ6h9M4VHG3ZzwtlrUy02sdNtCOzKKPh2rR774TTdirhLUqCylpAXXhpy_c47M4RG__7nu9CAkvX6FTuKsZu2bUrVu3gphpllRX2j-2Q0MjjWMt6PeB8hosUGh7JZIS1Xp5Klez84raE3WXqaSJXXqkYR2IWY5v--wosRPO0qM2NbyAAC2gLH3QkGLMLEXC_S__KNyEnYUU4VBIugtj8Xespo5kJHmrIzV-0LarMSsWEYyDuLn3zhBBYOdk8er_SPGjYnljE6rAYISQRCFGjOrcOgO423yP4taXKvKjPTffbWcPfreLquLeE-Qf9gjG7RKXqKpYygLvEO8Xgmfn7lhne8MYhscl4gDcMQ8TCVu0nCiN-qOubzly6LsuJYKhHJd_gZRsOgcjEqtJyyQQmnylUhVFsPbXbISlHvdC0wmEv5pqmVLTiRIt0zLeqovBU_FBpo4z_UuWOviuyDS1cVy0NobcFm2uOKVj7n_2hVG0g4ClKPv1fwIkbIa2VIskvjInT5Mmx-nhv-xDo2EFRfJZTurqNkFoL9HrfoM2ua58eXYtjTMWmmmcN4MjeNTidzrRVV3qkOSgug\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1-wJSjv_I5RSTsgnCQGKiJ2P1tgBgmm6kU3twwnUGHlbPUUri8n6bmoveJu1xwh-jotFCde_Ag7St3kXQz1QgGLFBh1qp8_jHMGnC18W4kQShUyeyAC0HnYQ4PQ2FueaddRMg_KovmAXaIKdd1K-e-iSm9jxnvF4LVFek_JvPKXYdLRb8ogshLYSC9YnOi-5yEUXGKldt2JoxgdXjIlf-v2kmolw3Lq4M-62S1Ddhe5IH73Uov8VEYxR2nnwl3yolFTPFN0hhw7ZcHbUO6ToWf79gsx4pr_mB_xlYkdmFcbBZi6pXLfd7mRIQk3tCBWs0OZG9lwMS6lVi4oC5Z8zpLw495280uwwfXWIBLVDYH5JUkBRObtPoqeZrwPa0IqsZXtDs-aPjpzN_fiUXgbUfFqyFN-FLMBR8qFgVhMARKIAHWaJn8ZRlVisdtXIzGzkaAUzHG6JaXJ5vQ3PlnJmDD60_eBs5LHfU7QMqlnSDoJTYK3k2-Szycjl0vH5OBxWEohMzDQX4wl2CZ7o8g5CJX9QWfQi3cphkw8IX3tEvKd0d9-QfS4o-CASAJHKV1Nb1JHsDAdTWziRpZJk4meqjZjpH0aZ192LdkrQT2ubhsy-II2k-gg1B94SUsbqTIIAPGcJCC9i4B4mDSp-40aVZPFOvbj361DZx8NxFPOzISO7l64ckHWQoTWI5dHbgh4YBgYgl9xrT_UQ\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.708341,
+            38.181665
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Trickle Mountain",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA02moyjJnwpDo0RiJ24ku_8ipWhe71ds212NB0daSKtzuQUim47FEIhbYUj8B-IH9S4DLi33mSF4M5HqsmP6a5ezXizg63bmogINJkrAKn7XNm4CSLqhcQyJaIC-uJeEK7bW0WXDOetso_0ZQW-a4ezaPolSt5mnV12yUe5ubDBjLxXyp4EPn7cUd2UekVbRGUpmmMXr65Sb9q0xMMgFtE8Cn6jkcFwvlpWj5bm_JA7yRZEwzbio2ltgLIw7yX1hboOczf3ZZz4LP1A4EuFuoYpFyN7OXwlsLVx_mgPAVT3tFreyZnPu3eKB1vSO31jYJl30VzxAGMP7wzKW-9C4rV85jVxBupwKcfj5lIA0sNkx0o1jJ9EGVJvS67u6vPv9MGRpFEXMsgQmWZifNVPvnPW7YD1DL5yG_owaMsP2S3WBZlNdPZhPlpwenWqXjJIBnYMWrw8g6-zkUKLEXsx53HZiriOJdb7wK2sbcJPlW6FoNxltMy1JOB8DfCxriSZSZQKNJhhVPWdnFIgbLyeamhFnYKAt6j0Hy5tVwfDU6wB2Y-Pr1cVFzTKpb3C2cT6w5-FnrZnuBo-BH53XUNvcLwcve2ZpRWB6lFvKbFh1vFSZpJ-PKvizMt84Ut-9EWGGzcGIHX1gmRWWVsUtnjRIeRqxhxuyqrQ979O4rH7FtbBvwdl9yrg2m3M3qjwQ2RoFx4jOCMlTdDcTg\" height=\"200\" width=\"auto\" /><br><br>SITE OF HIGH BIODIVERSITY<br><br>Here, a scenic landscape of mesas and small mountains dissected by short canyons supports a mosaic of montane woodlands and grasslands. In Colorado, this type of terrain is more typical of lower elevations to the west<br><br>The vegetation of the Trickle Mountain area reflects its unusual setting. The mesa tops are dominated by an arid mixed-grass grassland of ring muhly and lichen. The higher elevations of Trickle mountain are covered by Bristle cone pine with Arizona fescue, while ponderosa pine with Arizona fescue or grasslands of mountain muhly, ring muhly, and Arizona fescue dominate the lower slopes. The valleys between the plateaus are mostly a winterfat/blue grama short-grass shrub-steppe that provides good habitat for Gunnison prairie dogs. The site also supports populations of two Colorado endemic plants: Weber’s catseye and rock-loving aletes.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA24bhyor7zRP4R69ru2qljKIpTBbuEgaHRwxlJLb_nPr5_hgEkJ9I1L2NxlsbAR7iLsbnT2DSHkDSMSZCaprh5yDmzPmXE46smsTZEaz_eXh-giokyYWVx8TNB03HQIdKSZbMfmiv4AVS9azOYAGsic8B-WqzLRRK_BAFjQn9QyIgeZBgegzh6yyk6-VBhI16AQy-rtZJ2Lfz767LMxlnqp1rvZLOF_hiRWVkE6d3YSSRS7a2MJY_mCBkqhOtsi8BAMD4DuUiv-wNXZJVSdNIKQzhugEi8gWODYJqAzPjIETIaQB4l_yfp-QoVdo7zCbwEKK3daPLqY_wayYKYNXfRB7QpoaaP4K1ZGzMo_SlLI7HbLSeloSbVYxkZWs4EVgESKRGmuEjRFNDRrmejsMwD-5IbHIfNl4wRS-0Ag6QDjPCUqQU7buB5fyf119bC3eK_KED2S5x-QRXeAHOfMDmHEdVnW20MVkEeIqBZfwv63WIwmKjdrH7xN1daLh4R2xX1cIKCLtdnPEc4k5oOaiQlbPbAj93rJZu2J5gdvi0SnknwCxPbTtOCcqfeI0vx3zJiDK2dLdyLKUB3AQbSbAFfVZHGpIq2nKU5X2hxF9xriPyUEQOFbqE-Y2AhlK6OG0b2xrT7cClp4y6GJplCbCkrnniSVAKOzthUYK7vqfNIGJcbb-WjhIPAdcbLT460MgxCSp5xUSxs8BQ\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3ApiHqkC4vNPddEZmd7n8ZZ3v3Tfv-H19es22Z6rn_j6yUniInd1Hhs5UPS9pOI_S37M3m4kZz6WQsq_znwaQIkazu63Qt6egNR6Z0YJMM9GxGm2tE3ppgp-ob2D_bhA6uCwN3Ayenh_ebEhAlJ5gFYNW9XXrA1Ly1LGSP7U4LKE2JApFaWD5eOcivch0R5HXtp6Cl8Ls9SbH9KqgoWEtk1UZU6gBuTyZNsUDURsQOcCbhjMRR36DtXUHpAYI9GpACUKLXj0wBasAvc4FRiqpDYQeDAgvXQgFPC7fCLX61HNsOpyeWCeXPvbFcavOy3zA0Ci6auwdh-1TTvrxG5JTyjElgt3gVrXH1jwV1NpQG_jAMC1XwFzDUexch6vU7e2_GOnJYdXWtDQSYFhT40SI_DeR-vwKufoNXRrGjthxPNqnhmmdv30vhdeMTMoZNvfKU6nKj8FL1vXoILJNrDeMk9JozzHz73kgsmA1AMY-3M8WDluiFV5hDWUTAsMkO3_m6aOrDUVQRN2rhwHJFlTf2IntbcUbeNiAmV1jkpfwAgQUpZm9-zq9BZU5bRJdUEben_T8Juf3WQpFu_PZml2nlbTCOZd8GyRMPWA5s4BV3cb51rowNFt1t437G8wuM-K-KQn7cmYnCY--YONCo_P4mMEk8fGj8rmw3SBu-a74MbfQkPqYqtcGEy4_YZPeuAP-mbUcs-iSvqg\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.395308,
+            38.156109
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mount Lindsey",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA09Yvc8WIywihKAdWIJBBTGoWTb_3RLtUHrAgJ-OLI0sTVpbGIOkZ2C5ao96tcCej_LVr9SsVWCxfSPICXm4-Kd5_Nu2-lyPgk848BLNALDz3yPfFxuh2cF3xbtcd-m0RqodS246nNlOgKbmmvjin2kP0UErj_JOtQWyPLaEYd8QOrBSaj6P369udXDJjRCCe9nLf2qVM5bIMQKKArN-DGxD16o0nhKxm9CGBmOQ9jJ7He4OyyuBWvq0Gntb1Y-MJgVYNeSOfwioRtr3K0sYKclmXhPRpCXXO9wyWry1u4GrQbkwhPN4BKFLD6ydg1y4D4I69Cbb-Wf88I9DH8WwU3-lhe1iwFDtu-B3R5crBYGmHEvzgzPnv9Qa1lKz9PKU2IOyZJkP4OVyqgjkhpQ-aAz3_-mmvM6FhTaVAPReunshHKw-AxrCTiR0gZNSTlGHDxt5US5wJWVCWqVtx4EKJaTcpaI0FtUBUOdcgMGICzm1BQYfJzmXyHSIZJLH_km1WIt7Kzi9fEtdKO98St9LmW8hArqiFG9Gd4UKGAls02bnkWfhiP34PcMUSuDubffGKsLcpmX3U9hZvy9BU6JAvJCWa9gPinqrc-xwfJ5Cyl3czbA2sZFKwv1zjPNl9TUbX478nObkNHeMIoWdnjrc4pZZldwulp0qA6o3OYPelPcge7SWovqUZiQY8uHxx6wbmJqgkkTibmp7A\" height=\"200\" width=\"auto\" /><br><br>14ER<br><br>Mount Lindsey is a high mountain summit on the Sierra Blanca Massif in the Sangre de Cristo Range of the Rocky Mountains of North America. The 14,048-foot fourteener is located in the Sangre de Cristo Land Grant, 10.8 miles north of the community of Fort Garland in Costilla County, Colorado, United States.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1deaeRpd653OdXjTZE84iqNyalEcTtmAYjxIovpcbsUKkDwdTZQwYnPrnqpjnjDa1eupRxZm4t2dkKbJxnTB8qQ1UKsu8itN7z3ryhSUCmwWYqk3VFsgK78ty8U60Y5GOARmcA9V6_EMEyO9wK1820eNdc__ku_MP5z8Whhy5_8t9JRDjkg0Mcgf33FmQLrJKzAVOhngnLqWn_jR1_g8H6k542wjDyAqzCVPCjJk6JFCnWALz_3GZ_2BURoZVz_OlIyx_jPbLDtMOJh_g10dV9jqfJrWbg4G7YozS-T9FGkEBENJUEwbFXBHP9I1eazw_1uspY5mJEntEpF_iyDVEaMXMauDuEo-AANWSr8OFBsuVCSyFgu5Xl9V37wHe5hESj8Q9T134BwyE-7rFPsrK7z8DXJ5e1DH3AKuFPQJud1gLR_6Dx88mrMXT3CMC3kLquIum4y_7D9k4Y5UEQ9r8awKASk90xaXLwed5wX39wU1xMAL02MkqQC8mdxhom5f9JBfqlD6lIy-nLTKeLF_OYiUgzgc7lTXFEFRcClLgKNfEKu31PnqzldwmfpXIeaZd5OPLZAoUdHdRMJyOYq_ua4bz10q2BDGQiUevN3yLIPdlytVf8N5TddJKWqHO0BfQPcDuAsvz2Rc5fvs5VgJGFVaNg-Er9JsO-fLq6mSNbtjvRfVfk-qH1xp1JxEedaPvO6Dj-uGKI\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0yPwZprqAw3U_l81wCeuAvuvnOuUKLr5EuE0NIgrBoIGW044CYs-VWRZoXX6GCO7O25oVTw5vso7MRvZdJmvea7jzxgDflL2oQN8fe20hXhZ4717hEsKI2US0Xf1TLaDrroDPSJ8douFzKCtS8QxV2SjZs77j6DEgesdwWG0w7PQps_4oulPbVI0zpHxz7lL5Jy47T4q9EhUOVHLGhuLpUuwupudvFJ9cign-kYeraG1xyWPZxULCck0rTK0e4ewJtNn0NqBx_3h3FlIpLSRDWAV4_2m2jBjHVQ5jHBLqK4mKGOXpyM03w1f8g7fyKFB9DaOv6LkNjyMnSBGCAFdqwFqqzvZm9Tr9khHI-HIu-MFpwSU3LWjkR_Akxc5Eoy0dFr6ErO-5Ok_B4i5yzQUCJF-y9FNijrB2z10UfxPtPEY7mxur1qPvDYc-MDPK60c6APvJEaASkPWugrERvfPrFXKToF1yoDB2OIZ1EK-d3TYfHmRl_IaBEfKsuETHwQBnc_2XkvtmoXQoMMl4oWJrFRgV1ADFTGV-0TftdH0pHkC5V5rzlleZgl_wkpdydQivdX4D_QeQEFXBRZ-cW4AYDlaS7UwLtPiKOC8nQykjILz6ogn-KXtiALfXe12BFGCEfZaf4oPMVSMbGVx0DJx-0w32u7WLZi2mRVXeArkLEYj2gk7eO1AOBQfhKdZlJo0o0nSQ6LsZJyw\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.440843,
+            37.584727
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Culebra Peak",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1BXNajgW-j4T4ZycnjRk1b2hPzdffNaZ6cHVP09iYG56ZJm5TwvA52pxAtwYHKsgdao-aIgXiNQnDVqSa4zr0KxQsXOixw-UI5tisBbowfpZEH4bqn37v0mOuA5TUzShGqXDGJ32V0Bl4RfpDRrSiaLA-5wE3WoQKvT9r8SKJFTKkFAU-kgZ0RvzYxM8n2JS7CumpUliWBiV8HJwoDQmhKnkbEFDIFaqhdLL77ITkpMMpZEaDhebwwvy72P27HVwxHdj4pQMWWVh3WSb5d7Jxt4HzlrJ5f1kzUuHfxyEYQAKDWmb_Q8VHWAXK9Jxp798W8NduenLKiNr4wZUbaOKeKFBTv3J6gMEuG1Q87B1UAcODSPoxwAdbOtPkHyePXVOuMJzkQuPGi94xXy8lS9MWT-j7hNeCQ8TdBbRmxTl3SMplpIbcfPP6n_1FZfqIqMCfiyFjeWqkVsSVFmSl9qmBr874xcagfwt_hiLAtUrvRtNWQuf1B6SWYxIN6B_pCXz_SR5QHWarxtUqbkq5wPcLoZuNYy-yzUcaW7uBoPij_G04jwnUmVK9-zfndz0TyNWsICWkJF2qgg2rb2SMohBbM5D-oGUyUzSyd__QylfaBrHD_wRyzw5doOsrFwmuARwT8d8MXesCv_AST38rb03lf_aHfrwVxwM3qf0Yj0I37cXoQTZ5uXlKKCqeh_zUbDvEEBPV4WOp5cg\" height=\"200\" width=\"auto\" /><br><br>14ER - PRIVATE PROPERTY - CIELO VISTA<br><br>Culebra Peak is the only 14,000-foot peak where climbers start by waiting for the guard to unlock the gate.<br><br>The mountain, which rises above the town of San Luis, just north of the New Mexico border, is the only fourteener in North America that lies entirely on private land. It sits in the middle of the 77,000-acre Cielo Vista Ranch. Anyone who wants to climb it must make a reservation, show up at the ranch gate promptly at 6 a.m. and present a check to the owner FOR $150.<br><br>While there are plenty of wildflowers down low, you're close to a desert - this mountain is more New Mexico than it is Colorado. Expect lots of pika and marmots, and be prepared for a bear sighting.<br><br>MORE INFO:<br><br>https://www.aspentimes.com/news/colorado-14er-for-sale-buy-culebra-peak-in-the-sangre-de-cristo-range-for-105-million/<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2ZQX4wKWvK5wwDWRnT8JSwJ1UdEvH02gv65GnZQi9EOsgRyrqzGYL5Z4yE_rItzajNRWOym6tX9IFQWz2RoSb-lQvlpAKMw2OqS-naIDPkb-cPbMgoPsN-yIo_gt3d8UjUb8XPiRA3p9iajH-BoJXdxhh2h4-Sxq6UcChYQ6FHpGHNRgz7hoH3s_zP__y28bF_Nfy4DxK_gBldjX67Bb95TqIWVs9c8L4bpzeOdM05kIA608Bxb-vwrxQuvBG1vP-ZNWAWzcc0wehPJFp2n6C2RN9RZ4vmKS4AG1_plpOhirAXZoXpmhwVVn5MM-jyM25rsIu1eujojkK6_Bv0BDULQrU2OWS8qpINZydOybYa9fD81Tdpo4wuwMrPSTUPG9nvHfZDO7KfZQjLyKXlk52He52tzwvV8SaWz4GHGTXxxXAp05FSyHfXHFLQB0mfdllx4cY6WJgH1UggQU1z4uDri0_j3T3fItLav5wNYyyNk0Lt6uMY2V5u_pXxRrR_u3_1jOY6RTdZVSu4tpwwc3RyuRqgWLSWXg0QY44A9Nlx9v4BW4Ou-po-pEbeKMNxcWjn73UOjl65xlgND1Z7h7IKyRbG5Lj-4rcywTBxoIvHduTi8c5lfPhBIl6fXQyItAo_cMySJcEUrMBZ7mZ5f60B31OsmesJmXrUkn8swMCWcgiE5ZkksTdI2q4tRbsUHhiVC6vE7Hus\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0P9CKM8H_2p7xc7yRQ6XbIJ457bb9me4SnQZLtY2cFR9VSCBEdkWMK_uh8QFw4gLHaxjdSRJjFOIOkAup9nbpYAm47cdQyWBpmK8tMu1NT2EI5VnK_w7wKEgw5wQczZVu-fPOmbsT06CCaWNhsiowNQQYxh-nG3-s9ZsU_HW68Av5rSW6s4a0NQj_c80EER4swmbJjDH6trJaFatRJ-I6T5YuuYdmhOQHyVZ35sJgIXN5xlLbYmQpzWdYJquX1LufhqALlyGsF9kQJDi7QV0HkISAGU3h8T63_2i-mdLdU_7cv22uGuZBATFaeZuYBNxI3Sq0KQ0dhWK_43Xqw_yuJETX_7B0o9Yk7pbVWmJdhlSmnrt-SSvEJumI5HuAzMrFgrOWNoxXODoQrtHzHcrmOTxBZH0AWAa39-TWo0oXCVxGMNbyGe_mNUphnOqX4a95Q14HJEtHd0OepFlGHueX3M9_jxHWole9EKH6HQ4pNYSCq_9o161Hb708g4iEA-kxppWWcbdOyKEuAqwTVwFJWUK9BiSHnBIFo-eBzA_YFA2RsV6ng2lFhcnr186_zuwTPoE5GDAGP_mIni9Y_Ke-0us6_WYlEUfNOevQDEPaTSP8foxgnkFu9x_Wc5jUcrJS_jgRnRJD4Wv1-tlEbfmnSX0yKM-MUko0xjgFaKxjWihuYmAYauxxdAYK1a0N6WjEdl9CqBN9G\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.185562,
+            37.122242
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pintada Mountain",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA23hPX1TBMZCPkE-l-anYi8hj-nopN0Es83AlKbAuPnX7fow7dYBKRIdDgjYCnBBv52m_o0bc1IizGjXfj135EDu9jakjc6ZxxjAqH8vjs72qqDQH8QRWaFArLVJQy907KBaRdSaAvRdEJBubuqJ4DCrmZ3ZMQFGPB5tHn_WwghscGJigBnRVUrox0XS7VtJ5A-mTy6iRUcN3aa1ajsSFuWQt_8iJyqmV73w7Av5ERtYGu3Vk0uSYatA3kKmpbrtvsa-ueb5XRifRBy2kxDL9bWh4EaF16YxBozG9xB9ANsTyoDooETWrP7G_zJbQGv7vjim4-OPzXtHotGpRqr0_roc7Efor1ilqp0DFLml6qOzEg-1_LmZVVVpZXGRrvFepe5k03Yqy_8hQzOoSDlP0LqQ9SSmen802dISTStWLBM_zzPlqIrpG33iN-vUAtvJzQhHqPdhxi4fLWzWGfQ1I0jAet-QUZC_35BSzBapEPV5jhNgpOoonAuu2PZNPS3s_ivcoXCCnN46xUQ8_ILqxNeGAqfyxB1u_8Y_6ZXBgtZqxsY18TrAW8Babfmw1RxJfAF5OqbbfXUJHVNpA0DmZmXjHFrYoarYjUN0FQDCEGlM6PjLXUEcbfxjPAbxBUrzTKWp-k1Xu3taySTlOqL8MG98-e5R23ZohnYb8eiLhNnfEbrbNlLkx_4RJWdKgCmQ2ljlSKLXUm06g\" height=\"200\" width=\"auto\" /><br><br>PEAK<br><br>ELEVATION 12,840'<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA09cg3MF0s8pzhp5Q1OEaaL3PInfGT9DAkz6XotoLD4nxzu_T_hpQL-xx7s2UMAMOmbbI42oYuaVyxxeeP9OKD2vv3BLKvitq9PorR7GrQ_Ea7BoYo5wh5L4_UjwPMBqeVQIhG3rc1YAV9SMrBiNSOF6yPbGSjcYgc9zatTco4xdTaxKvfEzLhOXvlIANSs_cpnkOUlkivrTLHr-ifom90-4DiMptuFcF5uVlDP4M0dBxm0xAbMeC5jigrcMQe2k7wWMKJxChcI5bxpH_asve1jip-NVP8GAf59KRkSRSmRshvgeElYACFcjj_miUeKL4rcxUTx1ASeFrSA-uYjMZGDDBdN-gLWqJTFYQBiau0AO_yBLyZCGmgbJkSwufhFQ9tuNQqcq0ZESbWmP5fO39epdGhf3yT8s8sohUfh2YrqUCHJcPYTrv583R1qgdPpgPw8bz-RgvIzI2WLxe0ysik0piYFaU7DDsQbhku3WXWIz9LjewbLluEiXX6KVhJ44CWzrK2dbtbzHWNi3Klazx3JSQkuRyWEirI8FjFii--tvzIjwRgtEJ725nCL0xYb0O45oi0F-H2Azct9igHBcdZuJkTpVsd4HiyDitJr77mF9JXc3YqN33883Bz_SBzE0o9z5RRYrRDCnuj0V6F57In3HkVDJzmi_MiuPPH2dfe7Ty0Dhz-6zo7_UDcdt1jcjc875K6r2xU5\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA09q30eEm5Bl67Vc8UAgguba2WRIKFnaNQ-HqfzP0BIiuXBKxOhD77qB4mhtIhgSSu3Okc_L6jV8oy7A6AsDSDCFVGSEY-T9TwaktvIAvnuanFYjwQ-d0o4WXYJKDbh3si8KcBuRhczOg2itmRvbARWYRUTXxYZ-RQYbP_cnECKdpD1Zt2K-KPzf31ONW6NFt3VZHAE-SwFg9zz8bUV6cZSa0GO2vVg8UoaUYBE2pJHujY99oYjYLlnJ0dONb63l3IyaKWYoKx_pQNddGrYCUdJfYkFjKjRq8Lh25LZgINNog2C52acBhefraVHsA-ctTQi3a8hurbulx9h8kBo-mUocoa-fqXDQwGCFXj0Mrl0JFAZckgALjlMMOovEVlDOWMNFsJLinFFX0botGfmfwNSvI8kUtWWH3IVOMBIsg_SJm5VvJ0jS_WXmADrxDmUvYGXXqAJAYG_rNF8AOYOeTm5fWzyULB2AwGIMRbvwwThJmMwyMLLeXai7ovo1A8Oz-KSr2T3tpFasSJYcD3opzcWcXTWxjFOTSBzdgUK9MmwPp22_A0uu8AUcJ7VAQwolGXvZl1y8zeGDJavnsTEeFVso5wSSm-P3ZY4wr7aEr__r6s7U9nNUTT0VWO6Wf-dmJyVGz7yPznrPy0nceHNMl61oDrZu5UIV3OvwqJjvkMiDysg8wZm0gh2aVtix2XWV7EE4Eg7gaNj0A\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.402259,
+            37.496672
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cottonwood Peak",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0bJwQsFm3Ot_bAQ-_JVuY7DQvEb0vpbRH_ID4FkNsnzxooYKOYXrijlZD-JFybP_bCu579HZ-YBmcUF-rHzN3gyFlVa9niiavsk-5IRuvwcN4R8wdHZgcqFpL5B-apKUI6JBHXw--ekUT1x1Q5USa6bPOhhwslR7jamyzIDllZ_Jdsu4bNRe1l6JQBn6uXq12lY3RXAFgAqustxY_vqyyuSVfc9sH2mE5SJL9oBH9cHhmkWIL6RcyxYmxbyYQBNPl0eboRHllfiY8CEeBaZtb3XKXQRkOoTl19DWHtMxy1R8cc9X5a0_1vQijtesznMnRE5SV_crCWq8dSFHBz28uWhpFCDJnmp8G7vGgQh4pS6cOtDP37onGUgclaty7vjKLYO9RNAEdPGOL_A0_tsSA5apGrhxEZtWqiuXtuIrbUxFc7nu-Qrt0ie_qOw_aWGJDEaUSY-d9R0IyNka0GkMIc5i6hrazKdEQTxITvtddJiQFNSVyhfhDDzY1DDjtCWlmW_xCgID_5CraSv8yZbEKLuSKQHRIg5aA9CMtYwYrtZ-VxFbEx0dwoIKRyDLE1TpZZQK5SJjmBvLDbNOpCB6ySQeMkrq_sWZ5ywu6fqRood5L9O7hSAmM7QZpglVsc5DPLzbQRh-ALNk_JkWbEqRf5lXaLf81WzN2Pnb2jNTtUo9-ejZqN_Ac5PJNgfNIRkaUbk-BcDkc1_A\" height=\"200\" width=\"auto\" /><br><br>13ER<br><br>Located within Colorado's Sangre de Cristo Wilderness, Cottonwood Peak towers over the San Luis and Wet Mountain valleys to the west and east. At 13,588 feet, Cottonwood ranks as the 195th highest peak in the state, barely making the cut as a Bicentennial, one of Colorado's highest 200 summits. The summit provides a unique view of southern Colorado, and the slopes below host a wide variety of flora and fauna.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA366oM65t9KzWI8Wa1z1mQNzgRws6vHT7L5IaJwzZ0kpRWNtBKgiDJrVYavBqlXbxa2HMhJmBNn7vio_XN0aJtE7Ikadc1I4luWw7Dmx2WweoP43f9M1ffcdrhPbXEg0x9Y8aeDDN6lOS9v9u1AAB5KyaA8yMlF1EMB_sVRbkDtlQcjjz2BDuHjOuPgDHLFu_VGpJj9B-T5s4bIsN9fveAO87qIAwgnD2LZ3NWH2wj5fuKfleO-3znwOAnOwsqJfeY14ggKd4w59D8i_SEUnAciA0nXHYUw1FXOIMdoL_xaKxsSSJaSzzG41NoMbEgpg8-awgZgYcjOjAXR3UOHKYVd1xgKZkGwWA0bwpbG_TGsrj7LyW945JI6eSCRatzLV13YpugZxKDXvn2vsdBroGWiTMNHNfCeq4lOn0rL0qc3SPUHHTVLLyqOW6MBE-XegBBDa2lv0CvJ1YBue6mk2jbStp3_pcXEeS2TmWi4UNnfMU46AJwqkWFLzoxS2B4jYl0CEHxzVmmUt3QkGZwCtc02_oK0cVhipZJK6grMyBm7GsigQT8wHNpAjAO-GYOwQueCRd9CEhC2q-EpwPlKuQY-xwPmG0M2qN-SwrZwI32h9o-A2WxV0Wbqu5pjfupr5PTb3F2ZgufS_-aBY08fbI9r1H4x5wbUcEp1xzlHLT9zPpK6uhPp28v0nO51wGz3X8JIEe5utyqohQ\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1algiPch9PvGMa6L7McckZnb6Ew25JYKpPNw2wy_eDZ7rHb1_8wQ5irnb7Dxe4fL1Fs7w7EbTx3KnEiIlH_mX1fAjB9M86dAS0ckhjCE6rmuB10YuUqJLB5AUogB6BTgi0S_JsGcmkKynibOS_S2hY0wZZ6ZUohp2lcxfORW5xOyCHfE3VADIpJvi-hxeM0LgVUzFVUdQi39U4QRd6ga-cav_21liiz6CvL7QhjxTpW5oqYHiqdqlNcyEn2wAJfRCtM0mDhGgAGCb4xjbyPHqijZXsGa1VvqilboNHTHRCa9tZ_bj5POzHPvwpXQIxFuqacIVPI5e7EYpDyiVKVQdnl3ZXLHZPgciFndS8yi9hDg41vaGLHe6gN3nerzf64rFHtL1OP8xW5eGLxLSW9biKGZ1ry1pX4XWeHZNE9fDuaz7lt8v8bnEWnaQWspnH_bGqjXFhkR4lb81P7okYc0N_NpJ-wtz8gvHDsAmxTzO2soJ8aefsd2y3rvaM9IrMem9RxLpFDtrGK3fYxhu_92zzpXX2jqNGy5pR2dbcZy5yowlFkSLiyjAM1zbj1Tucih93M5PuomWpv0cwf1uQ8eZMnAw9LgCGgEsUaalbDkdKaOi9qw0za8nT5E2Is00NVz-7rGFXF1DWDk3OuSFGAjlZVeI3p1qgCWGbIv7m5mP8CyYAqzrwuBPcjLfyAgiYdIj7RBBR99bb\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.756397,
+            38.219443
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Crestone/Baca Grande",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2GB2TbQsAiZbp2BOjGy-PnEF-KTIzZhp50Aj1qMNjd11YFNArWBJ1B66zsXAPvvYUVaMWDezLw7aCs0pshdVfAGErUYLJV9d3B88UT9PKVOFGWj0Mps9ru7s3Ev6PcldkbMpK_ihvKBsAeKHJV7dnN0dr6JUVKYtVH-NnxlXZh8p5hPsnebZDd8q3XKBD-Fn_ZiBL_QMtrXgxS7K1y_hZJH8KxKW9pJH6ggZfQ-X3R7tPbuGaN-8QmYsIV13nSRCbYoOFmowByudVCU2rO2HTdnZ2XnUZD3jMgtfTCmUK39hlg62vzM9MRa9CPe1a_khnJS54siH8kEWu9P2NFKcpJ3obBVHpUxceBr5-zUeeE6vd-gY3nlG41zF7U-KZIbjwZUxY12Qye-WhA-Wt_gZnYbKyidmK94pUsAgajlaIrdbPL_z-sjZPPMvZE7ugknOpROphqdTSoGtnt0hWzPe7g64afuWhutXuA-unQKve17k7PIT4EJTGI6gMWI_IkmJ-z5w7yLHhSOHxz2nbOpVPD8Bl6-hRdeqVKD2fyOUF7SBH3b6nTXw9lM6e_dQ57aZ0lJupdQ-dxgN86gneIB1lzPpovZO-jdUpjVsOzTMKW-FgBljfvpMJ17WHplfA9UeFqALrri_prGFXRwpF1EBo90pysTOrxdAVn1Z0jEfOpiEDRhFlXik55NtSehaNDC_bvJGnVj7z0kTPlaCI0l0TYif7wKG3pPHuTXpTNkokBIlTMnjcTu_-61rqjLvyAHIx-AgaaJmoftvxKuVlQD1Qyw8v_0P_2u8SSaZFOm5KlgPYaIIpc4iyPy0OcRobd4SrNWs25_8Q_XmCiZHlbopHgcvuI4N0ON0VZrKgMlvDySq1inq6Ngdz79mAvGui0XMKZAPa0xm3Q0J1uPfLYFt3p9ZFzKzVR9fjzPzK1z_1xuGC6rSAprKEq1K5Rv9_8yEdcTR2xwdF7B6MrssShO4AHMSp1j3Qwavbw\" height=\"200\" width=\"auto\" /><br><br>One of USA's most unique towns. Gas, stores, shops, restaurants, motels, B&Bs, Inns, golf, camping, RV park. Monasteries, churches, temples, dojos, ashrams, stupas, retreat centers, etc, Drive out into the Baca Grande and explore the creeks. There are countless great skywatching spots overlooking one of America's most active UFO hot spots!."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.700836,
+            37.992916
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Conejos Canyon",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0w7PAFxQewapEN6O3br4EbjZ86HeH-HSCEa52QglOeAC-v0g38He6rF36FMIARWD0tEKX-LGwIOhzLLmEpv1x5VU5mYKVLPInwTWOUSy8iDHupffrqs5DyFIDgj3sY9xnLPFi8ll4yl7K0iRApbBY_zHt9iC3Z-G7QDGU3GD55qVFcICHJhzCrxGrrZmN5nNM0glvk1tvJg6NXFtlFL6oaF26mD7-3AfheYqTrgp0fWSnZyMCLblu5eYgEzvvDWK8VVyZJxxS4cvdVGYTyHBiQJEouG-mhnPi7cuuMvpCcjZXVHDgPkSPrXrNwg2bOT9Ae9cZcvl9OsskdDiZhMlq92epjLGJH1MJOoSU_BLsS1o2oCk4jtdAskB5IH-v0nqaAl9sSBRaPm0jHnxxV_DWvX9bk4_Qj-_D3WOM-K_B-q-tq72VszV_LQswxHgYHpnkHgkbzypntvYuwO26fw4kn2QiWlp6H6-yPXYOtsYkrY1JQI6KKvhiJPqWHBOyUYBgzbzgk86SvpfBdb_yGnZti3VnJ0z5xCOrkcNQgwmfCbGVYckU_W4oDDfn5N6u9Q3Nrr6MpdC1wc55SmmHeIG2JUpHtYRhMsovIJOSq-iJrR0b8dZWZsNwwGZHswBJpCnuFJG5m9MUSRiM_Db0Fbrus4Y7lDT313_tjnJXM6b508TppadQfT98PGFtG5sHPPT32hImoORv4IZm2N9I4OxVxRqaarrQ3jjgQanoUAuccbns9SojP7jyTdg2NapcppJvBJ2z3xe34rFpM66OVCaggU-qcotDWmAlvj4vzpOcPeRaHPY2m1yOinD00jzATWDeTrk5RmTLMVI1CMMUmw_AIYrLd_0B-5sj6I5ALFn3Kc3ufVlazEsNn584vnUG0kvpzFJuvp0TIwf9UMKY6xC03CA5EQXu4hBzlea-TLER2ugb2X66e_vwCN21VlxELmON4DqOaYIjjPX1XKzJ9g0sJKvwcIEPYq1Fy\" height=\"200\" width=\"auto\" /><br><br>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.446874,
+            37.180592
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bishops Rock",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.343021,
+            37.483711
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Unexplained blow down area",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1W29Dp5P28avNy328edOw1eQsXBH_cmdDc0oEtwf4BGDyODeiEHchFiMh6kxvWbam5qIQz0bhcaHWjZ2q8fA-fj4H6NXoDtYqTM6vs03OYIXdNU5tOE8fd9b5MKdhldrCgRFYxpaF1X9gRgo_mscGEM9Tc5MqjNbhWXxFEV1ju_qkIgEIwFqiNzk5sT1QYJK9Lea5BjLR5aMg-Z5P73NO6cP4kXP32q0kxcvjlCsVAPbV2tMlfHth44-ep28RLy-3QWl8Lt2CbbG3INKbgzjYB0-jnvwjiu66j87dULWPgalt8zFKYof2uWPh5z6q6cD5TInV9c5_yr9AjLFPl4V6Lo93rirvcSDmgnmY9_X1Z-sADZpNefj85zt91ZWaYZrKNaKevfjDTyJp33lQT-j_tzNILrtlveWMNu4oYL-VjJ8DSKt2urW-4u93pDyvVxWvh4ngxAkSAEIWF3AlnyI9yABrWCLcs3w1cvlv9GudOSPejtkTq1EmHM41gi09zjcRUgEQFqx5kwrzvSpy01bwtoHpGH7yz2vzrS4MxXZE5evGPR3BfKo1s_zNroK2oFGzswTz_q-CGJesHx2XbvU6c70Ka0xUnYyWCVW5U8adhnVeLIgQ5Qkl18FtwOnqDab_l91iIns1s9N_EcYdF0llo4N2WmVOb_kXvo9V4kEFrGIRKGmSpChTgTmP_GjpWigQjYWazvkYe4X69xlD-KksEfaul10HMdLZ5jW_BGnxUAZg5dIVFZXp2ghqGdh5RMvua-FQugbmTVrJoWCnSnNyJrHWbSyEbItysKvt-niz9Eywt6o4U1nZun4EPOIYLbb5pdzq2h3oi_ayogmfmgXcwMVxErcnBlH9svBget0Q-Kq1cH1DQl_tYP79al3vMheDRb9nB5q_K8qalevMyssHs81-9aQf0CJ-ULJ63scqWQ_6QmoDCLeDhnODY3zznCGXtXaB7e4MqMXzKhisb2hK_aqN89mUrxjxB\" height=\"200\" width=\"auto\" /><br><br>Large acre-sized swath of trees flattened along the Continental Divide."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.708662,
+            38.094099
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Villa Grove Turquoise Mine",
+          "description": "Possibly the oldest mine in North America, this site has been mined by humans for almost 10,000 years."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.053085,
+            38.298593
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Portal Activity",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3rI4n88Jchp0eZVAfOfdMggr0n_puxqORIfG-c143o2uykuCraNUhjFCqhjTkNbbPFv3PTaVZ9fn1sjwJlJSNxlZmXNI5UAAokggyuUi88mrKgEOh0gH9ISkwteVWTlxHhrDBY2G9SLGvKwahtENXT3w1jFlPaJvOfpPdDtVkDlMZIZIABAxvzj8otyK5d8YYxIrO7vVRYSriRHZneys1s32HFEZShGa5lDu3gbJJk-UTTccvnC5HNeZPxYk3PMqHhVslcYNVrYouczNdALHiiyfGEDIMsmPMoqP60NAd2L8RMQO4ooqxl1eNMD5Hf9Eg_1xRHhNCzn8z32Hm6yt43O0iR_L_MVivyXC01m2PGyGST7MotI0bqZPnLhkrUx3lDZu-fVHVXBv09urQzpkjqkj35vzBUSJZ1mqMz2-VIp8hklL107zKMRWP_I9AdWtGYM4OSxn7GAJh-EHwY-fmV9-frbpTVRZ--D5bHuaptlGN_PPqzAMsxZiPKJVnpaXuieJjiQcXLe3HwYzYeplqKX0dow4TFcJub6HKG_PKdAyn6X-dvPh2kfcAbH4dZDnhRC25owu4OY37H9UU2Ghj2ePaK96NpSCFcBUQYAv6LhCSlVftZjBMCAIQe3RwcIWfoMMgEkb1mG_9TeuP2XnVmncAwB2EaznuEo4FZPfqwTdvrXEryPKm16KajyI3LHEdJnaQMZhBu6-1U88uSCnBk9psxTTEOiSP_3XXUbhiiPK9zSu4kSsH6Gu5JOWrt9owq2ocN-0F7xx2NNZqj9E2zjLg28lshM34B92-J81MGHu4QNGXeaJ6bU-vERtRHhl5g3sbOa7L5B-2rd93qiX9QIVbnNSYDIrBN3krEaGbo_FM_kr6m-n2nAtZqSX5jIvsE1w_wrbC-4wf5PEczaHo3GlbT9XDUcujNr7jDL07orqPrjedVqgeZCnv3urX8JoufZ8aHX0G0slDrhyr-Pkpc5nky4AwHIe7F\" height=\"200\" width=\"auto\" /><br><br>Large overhanging rock face on trail, about 1/4 mile from trailhead. Brilliant red orbs reported numerous times coming and going from rock face."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.669057,
+            38.029831
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Summitville Gold Mine",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2yHj_IY0AMRrAqci200-mrJ8qsWPrMODSLeGLIopEAhyhVqUeI8Y4QmOaCRfgpgBppsh-Zp3aLMTeIJ2wM6eHchI8r2HiiatL7P0YNxuoQENR0JJYD-YjXf0lcgw6ckZ6wUcDkk8ue9BMLeMUNsjHJJuw3OhvhtK1-vv70qS2ggkdSevIaVNjtTbHUgacODxe3Td5qSPbIx23wP9uR9wWwqlbD3TV61tNfd4PtepIev13g6jjVlo8oWMoBeBOWPWvoAX9sG7adZaVp8LE4PumHRX8eOSoxnL7UNvBkggxl8S49cVCpxDUqmY0j05wq3BUmrm24D6Gvk9XHmlWCa8KW_tLtlHUgbAaeIxnR1BLCjjOgblMTqgOObRhBjB8PocvNLSGhjAixRHJPYTkeX8CFiA9aZcsCG5MiJJwnbEzR45SOcDE89IY88jqVgEk-jG4a6VpiT0qI5FQ0JmJnoZj4GUcKSU6vg4A2Ua0eRyNl7oIQyLTqyGas8ErshKOtMMajZCDMBPgzTt54UVa7XcUm5LxJYyt69E35HyvB7zIThNF42WaJY9RZF_RJ1MmOORCq7PLnaORdlO6QEOMqiaTkR0WVi4CECtbq0D8uOUejf_0PXGy2GJVNVOh2W29h_mmW_sspjQhtZL4yGWs5BHn9M349kgYnGppmNTuNxFEiJt9IepuYD5Rpfk-NfHKySWxc0fLqvhLHPW-q01fr1tsrzE2C7UeQEgsFaP8HET0zx-6fzByBj6NWiIgT_2wKHUJvds5NyqsIpkEJJNeCKC1Bh49fuZMSFKVnUIKtcSjC3WPPjZwNNf5yjr_Nxxb5KEeZh94lsBxbpe8LFWY-j2e4rygYgNJBF6zu0E5enoa6fA3BqMPXDTtF9w4U1taLweOQt_YE41QJWKL08AAOqxvv0g2_WAx_BX9gFHj9Iwx7fL8KjYAXxRPuuCTOH8AdXJgM5rwHEHTd6RI22q3HmYdEPm_0__85-7ba\" height=\"200\" width=\"auto\" /><br><br>Site of repeated alleged UFO craft and being visits with the mine site caretaker during the winter months in the mid 1960s."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.594312,
+            37.432341
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Punche Valley",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.798997,
+            37.0102369
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kiowa Hill",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8039061,
+            37.0883485
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Plaza de San Luis de la Culebra",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.423947,
+            37.1870506
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "La Vega",
+          "description": "Largest Commons in United States. Only Mexican Era land grant commons in Colorado.<br><br>http://townofsanluisco.org/vega.html"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4232256,
+            37.19495
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rio Grande Headwaters",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.3910874,
+            37.6841884
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Blanca Wetlands, BLM",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2Z0P9wFSSGowJM-BjkFMLQSgAabJHDD2ebj3-SQ6APUrUktwY5_Uv5l_T3y_MymFONqAb_1zum2sPaY6ctNw_F6Z1XbO2Ilq7MvgUF_7t9DW3E5oD7141wUUXMw20WudXQaa3k7BdfEXxF5rsJFE5wG5ztRu2Y6UEjP_XDMrt5fPepoK81O9WCE3aRVBD28f14Aioyu48VWZZt2Ai9hTlb1URBDEnesInRNMXrsKF5c3BvmlkV2OzEGwhmRgMv9K-bCjbqnT2KlTYSTdqFFKuFXKkA92SJ6R_7C71jB7BmS-lKX0va0Qq-5eWvEjtg4hDXIEUnfZkh5XXnypnittIR20f64m5C3pMYSW2uSBOvDNBNDs3QUJCL5d_rF8lqw4j1NKXn1cu_wAdnvfA56EazNJyMXmYM6jX_CfWd8ZcYsY9AYwnNfzERXSQNaQpWo2SZSoAp2cH6LrJcPaHs4kKK2_wCKt4FZtkurIlqEweYzriOP8vKyiV-mIkJ85P-Fdzft4KAXnHqefPX_94dDIEjh2ls8ijOz7yDtl5lx3yMpKdZlWji2aioPcHefM44BYxNzI-EBDMtCzc-0wNdhoDzOiAsARy2ZIEh13gU7O6C4jUEjtL9G8qXktfcLng8ckN794nvHORXXComZQy9UsJ1_-1I7bIP2L_YjUi0RW4Zc2KhMFmtgKpA3-3M-x2k_95YP648mKdDHXlasxz_defpO_Lz9FUeJsbhCt3q7TaAKojqpKCQ1yNaMe-nufHl0V5GPBPMkekPXvH4F3G9p2ufJmWoJrjI-5wxEMfz9bdXSQsjuyWOOGWC6vPtpw6nVixlp2b56Zx1cjwC4XGksxy9rBMz-WPOOJUSSvwJmxs_SrwtVaFia1EvV0XOMYh7_CMbFl2nkNSTZKGBP4fTuQgmYCHA6fQIMs3elPj4pcOLdWcEGQD3Tjd-DEbji7JcIuPBWrTK02SjYDBFuRNc0I-dbyJi5AWINX_-v9HmvDRfeWHlVQKa_dsRtennRj-6jV4q\" height=\"200\" width=\"auto\" /><br><br>WILDLIFE REFUGE<br><br>The Blanca Wetlands Area of Critical Environmental Concern, or Blanca Wildlife Habitat Area, is an area of the San Luis Valley in Colorado, United States, that serves as a refuge for birds, fish and other wildlife. It is about 11 miles (18 km) northeast of Alamosa on County Road 25. The wetlands had been completely destroyed by pumping and diversion of water for irrigation. Starting in 1965 the Bureau of Land Management began to restore them, and they have become an increasingly important ecological habitat for shorebirds, waterbirds and other wildlife and native plants.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0F_xsSAt1_WZ5tSxcvM_qTvSDZbOKWo9p2q-l_affUoPzm3XDaEALQlUJ6ba3RgTQsAqhAcdoFv7Ik5ANErgI7XyO49YkmTFLYeMzzFOtUtSP6HZLkrvesDjZ6GQ3hFvs3QLHZ65Flx77VVoe845MbVbz7NkHAcQNLmu7dfTh5z4C0EdyCk7eKj2ummUKabQf0_vuM8XqoWtCf5qW7chAl4e8Vm2Pt7E3Yh8CirUex6nSQzz01b1BpFUMsJ7hGbV2a6Go2XV6OLzT3ptF8smY8zwRt-ATO8O-DVSvCgBsfgT8Rbr8xBMSoPuz02mGu-U-nRWMuOJR-O5YmpSRVyzF4LvUcSO1STbCwQw9vppQhHEsgIPh-ZiAYsWBQi3y5mLJ9j7j9rFFuBeYHGxGY17dXYM58iUdyVwsnXBpw3CCTC3WS2s4Lt1ZDUp9yBzWamh1OSGgcJgbZF3695ryPKAoTIpsyUMCV-E-U4X_SW7UggtYAb9VuPG-m_kCu8kNRqAT6n9OuhBHr8_tWROascCrf-cNFz3q7xC8JEH_Hyvn9qnwOHt652vL7AuCeQWMYppOXtg9VK7l1o3F02az6SbEnvfYjRPMPdfPAHTE-ryot4lz3xTyKw9HA1auCn5cd7Jywwy5TagfjnJ9NVIt3TM9sZrrzpci4UL_JTfCcyJaAx7c-aeevXcqz4dLx9bzbYWYb8strjnheyQ02XQe3d8pWuPmCWw1RJbT0o98zMMXeJgx26_c18J73RfdTxeGANjDvCYENvt0samHNAem1JnjfVXjSns3fNISONxxr_4pWuAfoeGI07_1ViQA4rbv2DCaX34Z9gKFH9BQZ4FiLe2lADAERTBohjGdx8ThIzm2SfMPIo1zXAuGDwsZRsHuBSO73e8XOtTNMflW3hQVMdTXtjcUMOv54vOb7AXzOhlh_WLZJ_ym11Q7agb-l8jtYhrsqi9jJbRzyUCl5pjsf0DjuWuhvUx5FsF0NTS-uyETJeOsBVfc8iw1fURVdUEKOj7rSeQ\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.71185,
+            37.5624097
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "San Luis Lake",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3We7bVvk4RU55rZkmWZRFPyAfrDI9DHYqOOf9om5N-cvHp9IAjR16jXvodyKl_JIKHDB04x_Qbpyp9ALsJAyRqAozhzmS09CbCiPW2gHVym4mbkAohyLRUNmEBpOLU9e6p4WNFaGSg-77ig-rZ4WeExvr_Mv-F1exHR-TFzVWYu0JRcJckhzX1jSYFkhPg7hkJievjkOlAT3Q3esZZH1r7pKKbi_8hyGX4AGx5Ah_XLwGladKEDieIXEKIIxvynuqE3efhub0pqFrJPiuC8OA3b1wbqaln0UY4otC5BM7Wctv3E8BK29w5UqsXcXN40Y7oGYIfokoJnpMKzZfuYu786wJ5IT3BNfVuHV_M2a0GDIgvSbjHPKJer7LdjUGOC-y4jKmzrp0o3QOP5vLWi_EPcJB3MniudcKUetIkPneEPKYX6dKEpEYjKfMQNzW8wwqkJsH3O2FOFZh4yTAWikNhpl38aElKP2qRgO_YCkKfkwkpUxjFjQ-_JPUDpXxq9A-T4soi_mt4sQQTZvACW9F-IyAWmHzqCo60d_l7Epa5dSwS_Rx_Tlkr04_vc5N_HEV8bG-s4w6dk-39qg8pMrajDsnP4Sn5UFKIjT1QvfRSP5nNegonlXCjz1uqqDfUXCtqntAue97ThQc50dZ5pWDIWL4Ba9bECkeBX_yHbs-COUF-tSyMU9qEEbrj1NSl5LXqMd4tC2nJ-w\" height=\"200\" width=\"auto\" /><br><br>LAKE<br><br>Intermittent lake which is sometimes allocated small quantities of water from the hydrologically managed San Luis Closed Basin drainage.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1JXwtnx6AANZY9h8h_5Hi3FTEHo-VZDqWTrd0hF8-vIJOd6AvxialPhrcUdkAba-tMNsmS-MG_SWtPRfki8DAVLsXxZex2BGmIW6FMKWgFn4q4uz8_JdLPKkDmWrizDb8kEDk75BU5txy9bUIqtAgpClE7BKw_IoIGdeznXydhUhc7wR0BvfI2Hg06TfvS7NrXmlUr1V_Xd222OMybxWJSaEZzbnNcaYeHWBQHeH3GULAzfLRMa3TXKy9kZfo2NcBzxhZ2zbyguaKN6PDk6HO58nc2yuyXxI8SSFjVMGL_SprsAcqNqzehe7Nxz3_XcnGBsj2hRnNfjtW2rRvG9NF9hD8bJYmM21HII4jIj-EV-VAaulhqU_E7ctRQSLUrnzo6mIAQAtkCeERhESJginrkP3XJUtJ6OlzKav2DS1orN7rr0RcvNzSgA8R5Kmkbycn12LAl64rpzbMrF6bg6jBoTPpZrz6G2sh8qxj4lGLKDTcDXq5HJAtaY3Xc8lgmmBwHnwKCQJ8xVffmsioUelQiM6roczTYYFH7qHbJqNqjfiJg-k3ktQ3W1PdgLDd4N8BranaOD_ba_O8VsF5yY-x6Qe6C2YYjCUTvJRxwIdAowkfETKqw8mG0vLPOv_tk76iFmdEW--oDV-cbVG6x0aDGU-aIH7u6vd34A_wkGBkgEF5YY7b2NWDHVPi7ynL7G-BoCFOOmexnig\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2Memj1VfJfh7YCF_k_qyRSYPXTLWDQI28AVI9Rd7HGZE0kJ6lEk9SpvbpEmjJniJS1CDUAgBgzHugZIHjs6st2kQzJHQ-Kd8HkXRXZ9HCZa8aupsM3yCFvE27IeEz0aJ11xYdXvCFWARTUDQE0yCSmM4dmDX1XY7PmC_lyBfmw458xYeSmzhbxoKdOhSgJAB8mRdBgBPOeZIJnbzinGagFmROi4xPQCskStmpd09_X9u894R-BQDSfojlnMKnAeLmcZXcVmtU1Y3zKi0lfmLY_XgL5kc5tLPUV5btV-eRBXRP4-shdqSSSLq0hxlwqpX2XEDwWMAeOZNWcwLPwC2jmeSeB6pqu_Im-8bV91whbUJZP12L-0OkFhX4mkSGE3lAG6zSbVDdn9boucm-bojhMNYYEtXwKPgH1MpWlBw1QbI_JEwkL5BZqKbAB7peJ_yLioysbsOANWQREa2RxsbAPyU-aaoLrv2UdOp1FZ13y0ZbN-EbJp3HsEwEJwPnnPb5H3kjKvMBkP2qW38Lm-Z9xbYRJ2rudT5bGa2yDh9a0iMKoqYO1RwCdDn3fEn07q3hb5MwVdwsWd6-8z-CBhROMFpcta32tRhD5yPDn9NJ076fK-SnfDGhFoOPjEaNpilI3nvgVO42V12mZSzTigcIYcejlTXoOiIWeSRJhKe-DCIDScEkTle2f3HvE8tozJf-DBdGN7ArxJA\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.721528,
+            37.6740321
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Zapata Falls",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1EkFXLXRgphTmh69yvyrloz4zTl4W-3-RfL7R7i_yD16HIid4qKD3Vac7WuxVNQEv9jxRPCiud1dqquBEVzxpiU_VbAILR2uF50mQz4Ww7s6MtmxtuEhBAKNblwkWwmpSpc5jIPz9-zMabnSeZi1vTjgNtNMgrOhFvClhVjjE5FeUjKIRC6ySXMLFLDSprG6m31WVTShR5kmt6n6Br7P9MIMeN4iXZx8FuAza4NvFZFEg4dZyJx2i7SA_nWOauQp7fWILsJUqq0dW6HzqvogXqOfTv5ocQATKKwHPeeDDc039zxNnjNwHJwvyckrskD1mti__Wg6EXzZQQXwEzuX1XDDb-uwH-AXG5MiA7x9k8xJqsMsPDdsNCV97ECKLd-n_fTf0yeyGnAkvAlDOxjXKQT1qzP5_a8NpHKxIUR3XXSDgfDbiqTUvP-rNGv79me2y6vIGHTeYDsgse42-IacnMDf0pNvIbP9GaOusZ2K9HSq3CPR-gJJtPXVqjBMkQ3x8-YPlED3zwZruJ8H30pQUz6ExMC88EZ-Lr9eG-x2Qbfz0war4m05sdqRJBhQdUcw8yb35jGk7GMxDMT2ArLWCArjNXl4xDBKd1IaTvWnOyYJmKSdiWmcFCFy17mkMoTrAOTlBCtdUk8S2U8aCmbUAV2j3sbYlf1gn-AIZrz4CH8tKKNGCKIfotDrr1nJMcWChzAc-PlLoFlQ\" height=\"200\" width=\"auto\" /><br><br>WATERFALL<br><br>Snowmelt from the San Juan Mountains flows through a thirsty landscape across the San Luis Valley to one of the longest rivers in the country: The Rio Grande. Nearby, Zapata Falls — a secluded 25-foot waterfall sheltered in a rocky crevasse.<br>https://www.colorado.com/articles/hidden-colorado-gem-zapata-falls<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3vAtZjgh8Orc5Iqi-o4QSVqte1ZzajvzITZyK70IooZ67nNkH6ncD8KcmR_mfJAjXx5CaJxDqBnyPeTF-BMBwTJqpuJSthGaCPRkOr0I7ueYGo9yVFeDOoblqKDrCxVJB3DfC9XPmYOe-wygq6wRrfUEhIvd7I-1nwnD5SLYjiwMFn8wofKTeLvXnveUluV4s3HemtvMEp21fQfrZovKvf_7CtsRP5lHr_gDJWoV1Ai91nsq-sJ0WPDY8E5R503CE1pWuBOMl7pLII81RDDAYfyymca0DZe79E7Bd3pLnDL2b9nhvDUhTg-emUXvkRVxDjU53EGxtjoByzo9NDLrWts6vfmz9Vh95wC0j7avzNj8to37n-6390GsiPBC6jWYKTmc_gvauYFo0kD1ena0B5c3dmCThtBzj4jwgxDz01Mphi_te6OgkIDE5qwiFwXtUPpKKvi0MyVAje1p55ikx_06eqvAR4Uxc_NvtRVO438gVJM32QoYZJ1xMP7wPJeEwEg2h0B0bi67BT_UdouvQw2VYM0_N8lzxE-Bn0C4OcIC1gnBehGjvAuUstxgtQQlGDqAFfayjXBuLVCYnSevhSV60ly9WgEJ9R21stZ2wgqTYcRBpthgj4knUAe40tLXTewcT1yvVs2CAbIEtExPC_vdBEhNjNBFNQ5STe14VxT0hWQwPu-enxCAPSldEyV-d4EsaaOtf0BA\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2MV4HzbWU7yTw_xSQPyJrw2TdBhKou3ygW3aPI8j4QIua0-mY2Gj8U0npCzKSHiC7qASdKbGGK1WMBSO5Mdat0ApukcNdGSgrALPUv_zhRaO0-cbDnITCb1cfY2QBLUqUnhaprF7hwSBNccKcGkIjPLsSqzKcZUtHsLcvT0_7Do2Gl0taFM7x3ysx6VrbWB9z-ID203YTdaJm9IFTuPh0_842YxBbEwtpsMsjHYmhEuvV17lHvgoERbLJUmuGLJXwGzgxmq2Byt-SmBnBUmeo5LYV_l7ivZhpzZv2IoaPkXgOAyybdDbwwnLQWdglSq0TMqvUMv6DL4519zkMDt6FFUVAvy-xf1QnTLO2NJXwnarmQ-RHjOXnEc9Td5Lo87nFE5PbIU8I5zirLGI4nGxqxTMDnP6hX6kFVxTiOSXXwj-aUhj5EgnqvKgFVOcVPyh1f89jKt4yU3YlQHx6eCnHMrgMPhqNw1idibKwGjEBsjxwwCxzfkBWaVZrii0KKihQSlPF7JA4mM24nKDkevYiRSrqMVTES_zyqxZktUNTm0fPJ9oC9RQ2tl7nVjzg2BCXipHZrGvGnZntpcnF6JXWdM_VUACXeP7JsRcykcXrkHsm8fL98S1bq6keHY_e5lvbASrTtAIfNdPUjTOCUd7B3EoJQSKAZgponcp1hUvmvZBdeg1A-STbvL0DOh0E45KUrH-xNzDF8rA\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.553069,
+            37.618892
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mineral Hot Springs",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3TDfKAb-OuiRwaZtEaDCxHqiEWrydvgm9pvLw9aWLcZbWWIn2DiU56B2-ZSY_DNVMLdwYMpOSHvKlqBKceL2N_ho2oUGr9hi_Lq8z0FHXUeQZ4YQwTQADu1O6nrzBWibHdLBf2VLmj2thMLckglNB_GfOKydKoKdSClpymwrJk56_QWDALi5_XktgM_972F0MevAQLDL94zr_TNGp1qUE8FYpIPLv9en1IjnZrJpy8plynM5DBT0SvWCEN2Un8VVJbGSv92P4rK7aqBgl7EN00gjBo9yz7BGSEw-Xtm00KyliPINvHX6YME8vnYVJA_2YVkp_nmzhknondAinnDXTTNeorGMvHIh8TeSFaBRc4oHOnLGAXeS_1lO6T8rYYApCcuA4mmMw5xuRa0H_-suBBnhuIQ5UCEY16qKtIQaHyL6l-zh2YZYkuNqXETKeSj3zPlVTk59grFtGEcfJPS9-ZNn9bz1dPEAS_jVSRkA4XbakXouQuf8hBttLpRk3r06s__Ch-582rEPLiIpkSDD7alHljAOYSOYK7db7hsPmjhEeu5pqnpzZeknbRgy8-35oF6P8ANBmXKoUSliTJ_ArjT3sFcDln_FUvE-adfjeeoClNnmO6UVSrY1jF7wTkV8-I4Z-RKWbiZSi_bp0Zetg6gW_jQO0Ds3LfBzjRTIjjPKdh9eQzdhISZ35APHvX-bu1NMcmy52bVQ\" height=\"200\" width=\"auto\" /><br><br>HOT SPRINGS<br><br>Mineral Hot Springs is a platted subdivision but nearly all lots are now owned by the owner of \"Joyful Journey\", a destination spa. <br><br>There have been some facilities at Mineral Hot Springs for most of its history although they have not always been attractive or open to the public including a covered swimming pool, a motel, a cafe, a hotel, and a gas station. Joyful Journey, a modern spa, now occupies the facilities which have been remodeled and modernized.<br><br>If not tapped, and hydrostatic pressure is sufficient, the springs emerge from low mounds deposited by the springs. They were a favorite resort of Native Americans who valued the hot water and mud for the healing of wounds.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1x2VNEhkih9_ojG6TIbuedxZVZIfCGCbgDVScAsjpixk94CGIN2pPHAvELeaM32IL5lloWXA6cvA-HedDDAVjNd8pKlD_dGjtx1RJjRSIKcgakNm1_svcPiBdB1C1ZQLi_zRsk2bsn96Gwp3qhzx9qGVQQ1-W60ku0dahD98_X67qoenlQUDKKs9gqCwSFzlndl9NPcMVg8Py6PUK9222DDWSRHAYda7_JCLOQGCcF6qo5oWa2DVIwaxM-AYblYXshXX1sa5cjO0gX941HFjgoDw-VhGdMynpJuLnCkruXTL8yDixCXHQ6rAhvpsD6AkyqfvynSW7dE93-ye9JPqT7ISB-9VNoyUkIlw_qPjL4NvfTJGWT47aG2j9By1L7MiAg1ljr4PMcSbmamiIQzZwRM6yi82v4BdFiyHAZQHdt1oVXbEEQU_Nsp_xo2w8_lgt6ymZP7jm5dOpnIUvlI7-WTNBH-OVZtLJ8aMMaFqKJz7JST9edT_52XUWjpxcV-u6z5QAwbcF-9w0mJTqXR7I7i3lWFwmMAiLby-QuLGlTEJxIoByEkpSVtnmZjecSXPK9p-PcrmMQWkQT_JVT7JDMznM00qI6jCP932j1tVm8ENAWCFjMBOr_QSqkm5D8FvPrZ64fKtoydPF72HVxbuV3YeH91rVYQW3KNnZTy_GRnmJ3fI5VOMQuiqWz125kM18mIm511Z36Mg\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2WuG0BmMXBmd6Omzj0JGgeqhWpTOuIr_WBoYFLGekAXIu2nVS7qxUfrGhaQJhyQmJkWTq2UUBmjNeqlMTBh3PVOfcdVR6OTnB_6IPS-42tSre-3L2cvczSczCZABCAiMJpd_DIMeGz6pdcs4vGgsH477DB8uLCFb8tvliaBwpT7AYu67qKlS4muveRkVS-3VGaPZotvGBV92OCnSeqBGBzB8OB0D3IF0EN17MyEisD09LpgIxRWIptAi8se1z8sXtseJr6M63xLHEEAJLsxx71RHYUCvROWortVqRPvxwQBLqWQbjLoh2k5w_TdhiOcSjXuqb1OkZdZOCpquwskkBacx7SMNQqmnDisrqkeO0U_CrQ_H5Pye3RCZgSQd9Y5lzewICeib1nuiCutSl9ErgU_2u00s3x_0_-LVC--9SdES--utmcIae9nk7dOkg_bAdrfT6lGFBg5RFZjgoZC9EfGo20ICQrcm-4im3K1IVQc1Lx83yUSA1xiGGLPA9Bvz9yeQguP_fbG-nmhtiMLF0801Uq9jH8yYKCHVqgp6SBb-8DdeG_9fLui26Ll9f9vgy4CE35L6uDbkBzKYrUiVxrNHrF7agdoV1DeoTEvyIozx28IiNG8uUNtD61iztFKzt0ET6iz2xknFxp_tJw48rEaEQ7h282vTb9zJKZCZ3TfS5ZNYNaTsNnrONhIvbEPdvzgPknqIK4oA\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.925847,
+            38.168888
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "King Turquoise Mine",
+          "description": "The King's Manassa turquoise mine, or more accurately the \"King Turquoise Mine\", is located near Manassa, Colorado. It is one of the many turquoise deposits which was actively mined by Native Americans for centuries. I.P. King rediscovered the mine in 1890, and the King family has operated it ever since. It was originally called the Lick Skillet Mine. The Manassa turquoise mine produces an incredibly wide range of colors and qualities, from deep emerald greens to deep sky-blue. The best stones feature a rich golden-brown matrix with some spider-webbing.<br><br>The mine is not currently active, so Manassa turquoise is quite rare on today's market.<br><br>https://www.mindat.org/loc-6088.html"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.7601643,
+            37.1758258
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Monte Vista National Wildlife Refuge",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1SSf-3MkJ18D3TEfBXIOQbH3RouMs0vX79BoZsM6a2v1-5jdAHPc8OHJPqsc8riJv4dfje6o5jafUPtxj-5bkcWRY0ldzS_jlzP0vK8gXoOnXbKwO6LA0pensJeocF-8AQ-772cPZ3aNzzMIpmgHq5CW11fLf74yxibCzzMkuG-9qCkFP-Yge29jqbxnzr66qaTE3D2WzNlOOkzhzpYVKihnNe2-f1YGr6bVNAc2vxy56_TRCkWrkajdxbq_z9IAEOoqZPfoMxHtq8mzUnCy4Fjs87xCW5KPIwQ2QZl5eHm7x3zUufWWtR77KRKYur7ia7NJBwHGbffi7P0L_m_-aVQn025QTpyVyPa43n3LvDxRiH3J55MKjK10PR023OgjP4kAp78wNTAeP-CzoiXpccGVVubEl39Z1PYZFeUZQAQBBAEQBnWOCBJ7i1oGHsgrmVDPQoKrdwMUoBEWYyYgBNt8kT7ny8mFhxnr6KNalpBwQ7rKVfygXFAQWnwwDqF771G8UBWMdN8tLrfaLC3wLDyIYHZxrmCRT2VIjtlSm8QmAoEFS1wW_LGcIkF3wyzia6nzk63r07hTCxVnUO-1BWrG8hedas0Zh5iKaT7iU1GT1K0J6pRKDhqJV7uREyEvUKh-Hk0ijo3Syc5e3rfhuHmTQKVSrDvZd6RL4opb_Glyq8z1EbyzYw288-mdLgPusFJet-sjbe\" height=\"200\" width=\"auto\" /><br><br>WILDLIFE REFUGE<br><br>The site was historically an agricultural area and thus water is intensively managed on the refuge, especially in comparison to the nearby Alamosa refuge. Irrigation includes numerous dikes and other water control structures that provide water to a patchwork of diverse wetland habitats ranging from shallow wet meadows to open water. The refuge includes Artesian wells, pumped wells and irrigation canals, some dating to the \"ditch boom\" of the 1880s. <br><br>The refuge is a major stopover for migrating greater sandhill cranes moving between their wintering area around Bosque del Apache National Wildlife Refuge in New Mexico and breeding grounds in the northern United States and southern Canada. Up to 20,000 cranes pass through in the spring and again in the fall. Three remaining endangered whooping cranes from a failed attempt to establish a wild migratory population in the 1980s can be seen migrating with their foster species, the sandhill crane. <br><br>Beginning in the l980s, a herd of elk began using the refuge. At present, several hundred elk may be seen on the refuge seeking winter food and sanctuary from hunting pressure on nearby public lands.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA11kRkQ3-4QN1K1MdLzLb2dDi3TPNTHxMgAtA-rbI2h8CD3vr0xaQegAx--f2eGrE-IKh2dRqrOsJPjBPr3SkZebYZHdbAIrf2Zu4QRZHLkX7pG_4xmQG2aSBsDFFQigbtfJAsS5ieIlWYmlkiSuhk8_t7hssAp2zcnPMkaU7UImCx36Mu7kpwvA_pNksXpvLn6o-QxGLHw7ThkqWJLF7LTbqBmgCHu3l-ni6OB2r8J-AGjx-Fhy_0gNN9YyKJna_9jkwsMxWbVY7jZwSw8sMy7_xmd0bzXcoQKVTwCWJNTOuZfhMjGtuvUE_0FW6x9gG01bjoblKl_aY9SG2RqL6n9DiC9DWioX32DVLjjjLNHQtDAzqfEuBgjJiCjw_X3r-3S_eLjFLH1-t9w9E02bnOKYxSZirfId3Fhhr4SALOJLeWlxAC2Gjbww_I50L_DnKDN2_u4QPKKMhSFX2aVXYHufT5XKfxGnx8Sf3VIZ6GQuHVdTo-zcgMPV7d3wX2diUzKmJtXUKXyOv_yhfMPajQR8PUyQzDqcoKorEW_LUEWqWcML615GmdHwO20JL2LCtCTGlchms-AUP92L9TCa4uhjRD466mG-JT73UByKw5TbWI2FpAPA47QnsHk2BHhyplsqQAFutxv239VPOxQrrPtLCzFj3lFihqxg_XMkhMI63pVjGjP6Qw7ZDg-Idx_1Tlu4xA-0HYwcQ\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2At8SSJiV4TK9lkhj8UJBcXlq5PrHWrba81QK22CE65m1NypM2NNGqvzp37UVrO5G4kzdQ6O1fSPVqZV32Used7xNg8DNj1Bw0Tz7HojfPwRRcadUB40vV5Ws1MzZ_WNaojVxfx0zLSoivllWvSvxENssc8twqKnkFe7QnmNvRtLiFxmpURTbldF2jfb68zEaOlGuKCWUKKaFquMPe1783yMDnGBDCvyPa3zeepO3z6x-Olua_jFhk8bJDZzfWqn7SjlCf_aDilBdpZNrFqmstdS4OvcLzQcq0vnpVVb57EUblRaXfrXi3qpE2mjjtXDiWaYHjcEGoCai12k16ugIIhTJZD0uApnrwyP5_Zl7Ww9P-PkuihBoRE2RkyZfBpLV4u-TCV4Nu7LzGJHRUVZ6W5C5s3tqdEyizCgcANHL6iQQ_6W5_h-78G3VvAjmAeNUhxTKJsT6iR9VbceJwW5Ocu1IbEHi9uYTPWCqO4pvyg3Tn5BK7G97SAI8lINfoFmsjsJz-wA3j5favW9VUpFoqAhHPJ2M2Es_0hNZaEhwhV9gBQeqjZ36cSdLWGpORUSvTdOOk2Y318RktYrHXM95Msx5rGYJQiS-jY6s36YRB9TzD_0NYwfFzRI29hDhs8Uw8gteF31U_mb3GDZm5G3lby1hcLzNwirfC_MCc6B096i5Ynppjm2P0AIlp1XvssXPUOQrHPUI6\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1478584,
+            37.4854201
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "San Luis Hills HP",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA277YWdPq_-5ncnu5IqF8MjlTh3_9lndJcm1NMIR6O-wzvHHozWLYIY5N88_rCvoi1q1uSgCnb6ylPEj0v09f6CxqYx_Jk-Av71silz_i3gr4CkxRNeuQH3Wo71IuKxsIwlKo7hQofFZb-7bluf90ITrq-PvfZ5QFaayBeGEjqK67s8vT6_xW-bBGFRGD-3WnJUKR1S2qiGVlV4ezBCCuX3DTju9FKfBxDvrH4VChW81uPTuvRj9fjnRlgFhqOWdBetwNNNBmagEjZdBr1Ro_790CIfAs9BeLye_j33n5JXH_7JK7bMFon8omWlactWYmFipgF0Hd-W6PugeCEnrroVcK9XwmF1vGLEopTfobs5t5bIdQeL66df-L-jnBXRssI6IVn1TOvNGpYWZ2VUuoU6uv653_5P66Q3WmiNAdto-isbjepKyFUV-y3xn67354mTs6f1NUE6qvHscv5Wy788C_mD1x5UNtuiqwL6zMJ_cEGzJ9j-X96deH7rjJD8wBDWpNlxHlYMd_OpynzzsUYox5-Q0P-fOhCo6gzkwlzKVih8xMG84juy6cBinE0uaaZHHAyD3C3cQ8KN9xd9t_MABWdLMQ2GdhuLaX2dZdKAPQ2qFTi69ucXzFyc5p6xnXNJ0S8d-Zx4DnQ_E9POMHHJFwAZncnGyG1Sy0IR-JiM_o8CgZNaanXXisvC8O6Dphh-dipVRQpHdw\" height=\"200\" width=\"auto\" /><br><br>HILL AREA<br><br>The San Luis Hills WSA is characterized by a series of hills, which rise abruptly above the broad San Luis Valley. Most of the hills are rounded, although some cliffs occur in the northern portion of the WSA. John James Gulch and numerous smaller drainages provide topographic screening and create many opportunities for solitude.<br><br>Distant views of Sangre de Cristo and San Juan mountain peaks, across the broad and sparsely-populated San Luis Valley, create a wonderful image of vastness. Vegetation, which is sparse due to the arid climate, consists mainly of low-growing desert shrubs and grasses, pinyon and juniper. Fauna is also sparse due to lack of water, but includes mule deer, antelope, various raptors, and various songbirds. https://www.blm.gov/visit/san-luis-hills-wsa<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0vWHo3SWs7QBL-1Nu0xansHMghpN1nzm1gvPxZkvgve-H9XUenNAk--UneHj-OFjWo786g2OAUU5m4FdgKIU_3NhMWPUpo__XMuuTkJ7klIloGS7L1DNJ_2KHqPGXc165XwIey84rAU1Eb_ev4ezyr41I00Xq5fuwrTusg0BuuR7bUSC8eoyCQnXh4KB4t6ap8gaFo6yHNBuEXJdA-aBNvEIyqztK53C5CQmsNC6c6YYG2nETr74w0wwiC34hDA8m7KeMbDJlkfTCa2EW8ZY2T5fb4oFMHfT4pOig9MVpogdhqxqRpRCSfyZTDFYWclx8ZEEgLT8JUcRmjfMf7rLP94A4ROiuqnVkcpDny6tahUuO_oIPPYjiyPsZjWCoUy90iXG6bW1HJxU-RrYrkHAvvETOucWtP8RWzVrfOFLIVqCgLq2Ns0ac8Sg-8GFlvrFtTu9k54yUuFRCOif5R-P4Hhd0T-ImJqrbdjtCprYRqcpgnQXbdOQSbwBgtNV_amIVXqgq0w6RHZAutMmRM1M9jkQ43LllcgKr2V3xaxvvaAnhK2rUZ8agNzTcva-Oj2EtDu66kQeCNO1zQVjOHFsOLtJGKBvun2lXmS7NAU8j-LXLzplsfSyw5B6CdQNsN9eBLFOtMn8xTwYyPsDex-mHv8D1GyZr_ppJjyBd3HwLaFRiUyS790GsN1PVzZkzIN2lxMVdTVFAzqQ\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.700031,
+            37.2475
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Conejos County Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0145866,
+            37.0682267
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Creede Historical Society Museum & Library",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.9270182,
+            37.8524283
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Adams State University - Luther Bean Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8802,
+            37.47003
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Monte Vista Historical Society Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1452239,
+            37.5802683
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rio Grande County Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.3517466,
+            37.677862
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ryan Geology Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8806504,
+            37.4746242
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Saguache County Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1422211,
+            38.0865794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sanford Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.9052376,
+            37.2570629
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sangre de Cristo Heritage Center",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4250832,
+            37.1995721
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "San Luis Peoples Ditch",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4322236,
+            37.1982982
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Poncha Pass",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0869615,
+            38.4222204
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "UFO Watchtower",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8872121,
+            37.7885473
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Crestone Needle",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.5766752,
+            37.9647221
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Conejos County Library",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.967201,
+            37.2523465
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Our Lady of Guadalupe parish",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0201384,
+            37.0882914
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lafayette Head Compound",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.021131,
+            37.0895978
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "G6 Hamburgers (murder tour)",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0195233,
+            37.0889665
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Manassa Records",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.9383974,
+            37.1738101
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cumbres & Toltec Scenic Railroad Antonito Depot",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0120421,
+            37.0695753
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Natural Arch Trailhead",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.377438,
+            37.81153
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Penitente Canyon",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.2831855,
+            37.8853526
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Zapata Falls",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.5530687,
+            37.6188923
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "La Jara Trading Post",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.9543787,
+            37.2692066
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "La Jara Trading Post Mural",
+          "description": "By muralist, Fred Haberlein"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.9625843,
+            37.2673151
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Murals of Conejos Driving Tour ",
+          "description": "https://www.colorado.com/travel-information-services/conejos-county-museum-and-visitors-center"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0125112,
+            37.0665782
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sangre de Cristo National Heritage Area",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.866622,
+            37.4695302
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Saguache Crescent Linotype Newspaper",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1367344,
+            38.0869551
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cano's Castle",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0061045,
+            37.0813142
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Society Hall",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8699725,
+            37.469045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ute Mountain",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.6839004,
+            36.9375203
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Alamosa National Wildlife Refuge and Visitor Center",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8030248,
+            37.4387868
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Baca National Wildlife Refuge",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.7751294,
+            37.8610774
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Monte Vista National Wildlife Refuge",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1485448,
+            37.4859649
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "CSU Potato Ag Test Plots",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.144555,
+            37.7053787
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cielo Vista Ranch, north gate",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.3037139,
+            37.1708966
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "House of Tiva Trujillo",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1449116,
+            38.0872914
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Underground Mining Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.9280215,
+            37.8578061
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "San Luis Valley Museum | Alamosa",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.86434,
+            37.4690816
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Iglesia de San Francisco de Assisi",
+          "description": "Iglesia de San Francisco de Assisi is significant for Hispanic Heritage as the central gathering place for the community of San Francisco (La Valley). The church remains the location for ongoing cultural use and is a site of regular community gatherings. In the summer months a priest from the Sangre de Cristo Parish conducts a Mass, in Spanish, at each local mission church in the area. It is an example of vernacular church constructed for the San Luis Catholic mission churches after World War II and has Gothic and Mission Revival elements. It shows how after WWII they adopted modern building concrete block rather than adobe bricks.<br><br>https://www.sangreheritage.org/explore/#w2gm-listing-6089"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.34942,
+            37.1023933
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Iglesia de San Pedro y San Pablo",
+          "description": "Iglesia de San Pedro y San Pablo is significant for Hispanic Heritage as the communal gathering place for the communities of San Pedro and San Pablo. The 1933 church remains the location for ongoing cultural use and is a site of regular community gatherings.<br><br>https://www.sangreheritage.org/explore/#w2gm-listing-6096"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4017778,
+            37.161291
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Iglesia de la Inmaculada Concepción",
+          "description": "Iglesia de la Inmaculada Concepción was built in 1938 after the original church burned down in 1935. A community baseball team called the Chama Kitos sold game tickets to raise money under the direction of Father Onofre Martorell. It has a single-story cruciform plan with an eastern nave entrance. It is significant for Hispanic Heritage and was used as a religious center and social gathering location for the Chama community. In the summer months a priest from the Sangre de Cristo Parish conducts a Mass, in Spanish, at each local mission church in the area. The community still gathers at the church during Holy Week before carrying a model of the church to San Luis for religious observances. They also gather in July for the Feast of St. James and in December for the Feast of the Immaculate Conception.<br><br>https://www.sangreheritage.org/explore/#w2gm-listing-6082"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.3817417,
+            37.1632865
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SPMDTU Chama Concilio #31",
+          "description": "The Sociedad Proteccion Mutua de Trabajadores Unidos (S.P.M.D.T.U.) Lodge Hall in Chama, Colorado was built in ca. 1920. It was considered significant for its contribution to Hispanic history of the state, its adobe construction, and its likelihood to yield important information for prehistory or history. The property was used as a lodge hall for the Hispanic labor union from the time it was built until recently. The S.P.M.D.T.U. is still an active organization in Colorado and Northern New Mexico. The organization was founded to provide mutual aid to its members by pooling their resources to assist one another in times of need. (https://www.sangreheritage.org/explore/#w2gm-listing-6083)<br><br>http://www.spmdtu.org/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.375206,
+            37.1625302
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Capilla de Viejo San Acacio",
+          "description": "The Capilla de Viejo San Acacio is the oldest continually used non-Native American religious space in Colorado. As the symbolic and actual center of the Viejo San Acacio community, the church and cemetery (capilla y campo santo) are the location for ongoing cultural use and the site of repeated community gatherings since the village formed circa 1850. Additionally, due to representations of a regional folk art tradition as expressed through hand-carved gravestones in the cemetery, it is artistically significant. In the summer months a priest from the Sangre de Cristo Parish conducts a Mass, in Spanish, at each local mission church in the area.<br><br>https://www.sangreheritage.org/explore/#w2gm-listing-6087"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.50844,
+            37.2018328
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Garcia School",
+          "description": "The Garcia School is located in the original location of the Plaza de Los Manzanares, which was settled in 1849. It is one of only a couple original territorial adobe buildings that remains and still maintains its architectural integrity. The construction date is believed to be around 1913. The property was sold to Costilla County School District Number Two under the express condition that it be used for a public school. It closed in 1963, but later served as a community library and location for a Head Start program.<br><br>https://www.sangreheritage.org/explore/#w2gm-listing-6085"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.5374329,
+            37.0065324
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sacred heart mission in Garcia",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.538821,
+            37.0087478
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mesita Volcanic Area",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.6381091,
+            37.1070479
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "San Juan volcanic field",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2LR2RM8kaZQ5G6C1rrvMRd26i0rzu4sOuVr0fm1S5On-tE7lJ-urXX2obJkum1nSJT7jzt949QEztGaxV6Fn9hJmKaOX1ebuKoLcT3VxSPaEVl4KAu7JPUT_XdXrpRQ5qRii5D9s10Wx2wvnW2mjM8Xuo27Fojtjx_3JqzJ1aUoJGc6PvmzeIGoxrUOzWgUbqjJPi_ki9i-YSxjcfuuo-sB4bA-iKj0hiO8fCedqkSS_veplsenH-HwHvX-KzQp1kVMDxQMJ_7N32OQ4YbGHqohAD5McGG6TbGeaOCdYKe-CuK8YeTUypEZDu7SZZfYiKAgoxw3sTrb1l9HgO1DJH2ehStVuOcmQk1DM1CtADPLsAQvmXEpHfNXguIeFU_9g06UYWvk0VV6CoFerSO1ODMMJwbPY7VgFp6pxjjP96rSboWIijMoGfWo4laVBkOsa8nW7zGsrVhxlsFSwpkrrI6Y2NmMnilIVHdkaMwnQzu2FWeghwSY_ezh_90llmbg_KCPaBqki_RvK0wIhEHo6XekOU2iX5_eNKAc4VXKnAqPWgWEJ_ml8L_E6G_6WvJgg7wTPiEuiJ3NUTXFYCbL8Kukuo7E2nMZDvWDZQUClubl_EIpY6-yl6ssmlxkSBXA345oCmgTI0CjPqkUcI1asIBUAE3f0jB_d17d4VJKX-WcuB3H55T1k2-bg7GCCGEPuwMLtbmLvGB\" height=\"200\" width=\"auto\" /><br><br>VOLCANIC FIELD<br><br>Part of the San Juan Mountains in southwestern Colorado. It consists mainly of volcanic rocks that form the largest remnant of a major composite volcanic field that covered most of the southern Rocky Mountains in the Middle Tertiary geologic time. Within the region lie an abundance of caldera volcanoes, which comprise the San Juan Volcanic Fields. There are approximately fifteen calderas known in the San Juan Volcanic Fields.<br><br>The region began with many composite volcanoes that became active between 35 and 40 million years ago and were particularly eruptive in the time period around 35-30 million years ago. Around this time the activity changed to explosive ash-flow eruptions. Many of these volcanoes experienced caldera collapse, resulting in the fifteen to eighteen caldera volcanoes in the region today.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3ZsLdRM_zfojbzWK7u6NHZdhGUeSVYrsrLeumJvhouKbGBjXGmaVE-zB23UMGqeQ4c1fa14WXeqGcQejkBM2n4F3iMgBjTg3Brf6NsaA03zhIzp2Yvjr5RbWFUwdoU7yO5nBBICwLBBBJ5y7SeI0uDbVB9WdVvROJ2d6eMlrdEDLEHRaZBR7wsHbpZ6vwYRJvx0OtUaLOwSu7mnpAJVY31mPynvCpzdIUwqH8nais-6JRluvQru_nb-jUwGXL1M-tOjkoPiRMaDMrDEqCeMyLJ2mJClFOb32EaqJhdCmHriwi3_1Pp-rmFrH1nB6-n2HBk5bYyMMDiIUOv6yMqnhKRLxtlwOXhHoZbywyC5ZcYSIYKNzTbt3XGyW5uavCRc90Q5NcF0v4BJ272Pk3_ovZz5ceW_BUTuiedFvjkdLW-sCpxHMnBl0nk4UDQ0HQ0PnoSbJCp8aNVEG4U2JEWy9rSKvsJ6RQWmm-HEkcnX3sA8YI7qNdJhI6Uy1WF0-JZWvq7PumDkbDKpCXBFyvQxhbCBO3GJi4UnlYGgndv4lB3h0mpPE3X6GAhAyCSelSvzV7fgPgvk60exWxaxpYVyAx2y_iNuggG_HiQq8yRSDKYgSmfIbFKxqbIFvROKmH1yynKGX0Hf23L6DMYe1Hd7Gl7AFtpK0U3-JJi-ZQ4Y8DbCfX5VNCxn4hXe714kjEfAkUGYwsS5QSSDw\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2Z__AkI4mSWnYpjMn0YPfNo_-0KXw_od4l6grKWeRLq8z8ey6BFmQKVqBiv6i9KYEt9-hFwSJajbBesM4KP3PM2_CdU0oSmGYJiKE1BtysXGaxEh0d9gw35ER8FmnnGL7-uBDZEbtxmxnDmXWDDPS5IkfVjYvQb2H2V9vKumGhhigex9rdheTevh0ZRFYFL6cVKoJgKtRxgUcXd3_HOykUX1OggDcWwCt1axqTpC6iFaQU9-TjpkgcQIuPcGwawL7O9GqFWzn8RXMIDxfxoHkJteuyWWTfFAUKZSVe-SfDOUSY8DfmSAptYdprTILumpa-Bj0lkGclM7akfB9xjy6G2EGibyzO9LagJF9BfozqZwP5BW5MT4sae7RRk6hnBLtBIgDFgmRbkm0LqS2TvsksORPPYPenoti-DNRQH5agqPOklwvJDigilyUYFBK2km2HST_eQch6yhqzA71TK_wphAzSCZPpYEaz1fya_Okvem1aZRgph9TRxQQWVITasvDp-yI40xfkgsgx1Bqy-EQISVKqAqFAEeaRG6twsxejcU-0JxfufgQd4ZovDJD1lBlQDTjoT1NAfrDKCb6thPQtcIy0-fQ9AHs8Tp3Bm47XYHbt5yF523O-wO4PteH2M1_knT4GA8ywTf86WROm5f3uN4O5v2BoGGYZG8WoM9kZ6UVGDTDR8uc4yTLYA1j1HKpMA01TQZZH\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.7744601,
+            37.8932822
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wheeler Geologic Area",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2DGhhJ2wC4rPF8a3skQP5_smAoyOaB7oITSFZmNvPDdxGAS8e9rJt_y8yyyISgPrvx__La6miIHpCaaLGDyJCYkD2JL-v9BSxoVMm0V6eJUR2y7b0AAXNCftmuGL516MuECwebIaN3SwIEtiLuQy4cz5jh8hvby5LaDC2jlxkeNDstuXPloo6yv7DsIGSwDo8bPsR4hywF70hEouAt3pdUS1KDSnsuSkr9ISNSmHtuRU7LepTm-ONCnhomaadYJjrc2lkymdP7xbKHzIXpJ6YFBxeelkAvcYrOZPw4sLwsRgHmfu0ZidtzBJinf4Kusw-6dPqGRMftGCfw6oucELU4_v7MpoqHNajgD0n7JiXYzNQtB6e_UQH7SYAS7qfQ6rnhe2113iKchVVa-cmcQnmKBfSpD0nToHr6FphfYDXGPyTX4wBdryks2J9aErwMZ06ryAJXACXfMUuijpk18_IxHAifH9QCnMaktBmX9_W5DAW19QJLxL3H0UGnMYmMSCym1VoCw2E7wyq2NlDVNpmhz7zrp9bHe0EbS9TdUnTGH-jTFYE1Od84RitYyimxQY7XMljtrS14ZTdEgnkoKw-_-3vBi6PgZXX517DlihxAPpZRYqL1WedAY4lgvkbmXHy84tD008WURw31QGbeFhNUUXk3bLhxoOrN1MwXYBfpnsOUP8sdMIpraoEY_lanP_7BOQigEFsyng\" height=\"200\" width=\"auto\" /><br><br>GEOLOGIC AREA FROM LAYERS OF VOLCANIC ASH<br><br>Located in the La Garita Mountains of Mineral County. The ash is the result of eruptions from the La Garita Caldera approximately 25 million years ago.<br><br>The area was designated a National Monument from 1908 until 1950 and was Colorado's first National Monument. It is now part of the La Garita Wilderness and administered by the Rio Grande National Forest. Lying just below the crest of the range at an elevation of 11,960 feet (3645 m), it can be reached by an 8.4-mile hike on the East Bellows Trail (FS790), or by a difficult 14 mile four-wheel drive road.<br><br>The formations are named after Captain George M. Wheeler, who explored and surveyed this area in 1874 for the U.S. Army.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0ATcmG4SEAY8TP6X_eK14U2Rkh9dMQHfaAjLDN2EZA6mMCh6nmnGAQXrIitUDhtBIJziHAvn8tTnPN3i0cMcdFDU6S5UU6Qis5yhb71ULSI9z0EMjFBLryaPiZ1lZDy4-lxo-b_mgPsjtbv_Gkbuh2S0mSX1r-eYfOG8f6x5gJlCwmYhycpmvanzVGWwEGJrBnSSoq0JJmMxZRkGkkwTCJouVZEiBi07DKuizBlUgjYzdCHuj3HPTkiN987kPuP8YG3WuR2B62CbBP7QwHuV_ne7TkXjxoBuvc69WRLajpycANthqrmwhmodGHHGhZhIQAkQw3_-A7mo6RmPkM6Ufa3Cl1uObjj3yKrxjtwFMsIBuAc85BVMOtAr3TKWQ0CpQr4Qy5iIzZgxM9xTseV1d3dgwdvkeTPM8qN5n8YnHMvPqquFlmhu26AAXTDUhqUzpOeE6UmiPOl490YAUhXu8IuChkFewKWRByErXitzbkVeaAwKBWqXqllKIChcL39lKEQghgJXW0XMUMRK5pUT46u2FaYnCqYXN8fzpuFMDrw7S6pNwYumFamuiOzMYKJQV2ruuD7LTk2A1apbm-a-6ZhIRJv2POa3NR7VMr3T7spekfohedixo0Pflq8azB_US3Eh-9KCjIbsKx16sL9SacMdjko8JWdVCXj7GYWWueQZV2jDAFla2QsvPRb0RctrcGAR2cYcad\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2dBwiwxJXPZQ7tDJ_XeP_o61cBEdsTj4Ww1XUDLEcwVy4eWDDytOmurQXA9hfG-FMasTtCDXI-u1yMkjbo51g-2SsrGO2nfBhyw9WgT3XvVZ0t8F-ymN-9QWsny3Bh5fE3hMSSkwN_sMWMk_5TWougpQSVIwoxoPc5zwquy2bONuzKHeIjeWMQ6uJlV_jqhRccaRbLeAKrhJL1Fkg0RBPPPY-091VKWmBm6py5WZfqRkYILJd67zr7OSbqDm2Rw5MNmRa39qMOdeZSvboIozIo5eu1UZQpBa6eDs9ZAwoj6W1SQlnSa0fAQl9RYRl-_hkL_YPlCfUoCnbv0mMQqHpf6eI-gIGHKkpkS-VCKqmDPe8_GQDX2_7t7h3gKkFMyWJqw0z6FxQNwpTvPvgi3Ojh8Uf8TdVDd05CfHLhgraBOvAe87wXjLXnqzczXnlxAf8GLtfreWqVjM3298monl-jOjvr2JEXTggLth-2-LA0Dwvdyyr-zfBrtoRiaj6K6SbmYy4Z0A7_FRdchzgYVHrq2c6lZ9cayw9DNSVmyAzBafo_xPfc5TxkzH4J_mCgI0etchNgpzRT_aBwYfazZYO6t6Kmm1JK0gZfhFDPT_tzgxN2HFwwBK6tfYYS9RgaWr-gDUSNqAL3o9oxSok0mVgCwUWiFcYGS8HUtHpK6kXd1aMUTCgjxtXoWgeqTYm_onJS4SbOYnzlvw\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.783653,
+            37.881721
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "North Zapata Ridge",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0tITq2V3NzLfw7sOVogPcTGOUsn8Os4bYxxI8TvXVmAwZA6IJtMVnEeCVj7R61Ssmz_U3yNwUbAt4P1eF-J5ocgqE7mKGMNqsL_Gde0E1x1UtOdnIq0vaa68zvTRc3HoKmTZ9cQCvwYDe02D5c6v3tZRnVmpsm5UMm-4SfDAtbNIR2hmPPvWZl-kxp4_K8mD5_XZ_jGUU7eO_02P6OL5Ey3izgg5BUYPQchgSDYxuD1hlB0CEEB9OuVRyJgQdIRqD8Ja5waH2wPewjZzwjPwe719n_93kAw_n5mLKwMoqQq7D7O8a90_4tm_qkmdtg3GT__Qdi31wN9YVqjsxgb3bbVjXEz0pWv4kMLyGDOlCVK-335t6EtUQ0F3tVdhMb1S8S-pIjoGSxdANM2wwlJCtzakX0wjlKMyjSqUSOr3fYjtvyCW0hCqP-jfyuWrU_FhRgrilmF2mHVrGsiWq_Urs65hTXBbGGrC9MiOAA-jNuMVvMbRs4eDlCW6AhYxjM5Z_Pm-7e73EFd3yadFt1JaJbql938MAl2XysZD4sZJTWfAEusb4BNBuX2jX0lHOZ52lcb4Y6MN5H93un87tcsaypA96bAgyo7-ak5qkVT5_FlVarL-46yNdzhpcrvacgxKp-e9fKWmn5bCcjlcjyQGBz2v1M59aLLj4jmO-1Jv9gq3JE4vg8nGoWUl5cO5tgM4YaonC8trER\" height=\"200\" width=\"auto\" /><br><br>14ER<br><br>Trail that switchbacks up through gorgeous forests of pine and aspen before spitting you out into a meadow. There are stunning wildflowers along the way depending on the time of year. <br>The ridge is long, but has few very steep stretches, making for a leisurely hike. <br><br>The summit has extremely interesting black rocks. Circle the black rocks several times before sitting down and enjoying the awe inspiring views. The Crestones and the Sand Dunes are to the North and the gigantic north faces of Blanca and Ellingwood point are to the South.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2tee7GuoeXbHIZuzdkToCK8SayqVbzF1J7N2cc_Fd_a9fc65Ipv7WhBLNz43HBr2_ypr0q3zs8VmJmEy-BbW-SVgG0ByThH0J6xP-ZT0TT-Ez11dyosNze8Tdckh7E0TS0nJvyYDXIgxrr7GMSPL5J0rHqasPvdgUAGJDneE28YGM3bIDheMIOU64XZAQ3WiNM0ArtMuIM271dYqdGY85u6j0ezxBJteS8Gbu6XDbrFqfMpsBDj4h43d0VfIylVu_IaoeF5pPUP_NEf9cpffflu59mOw8P8jyWvoMq8pRlRkLCQLzkFP0UumdgErJI9YLV4WL6yO9XxA4tgbdhGuUlAikLFOl9Pz_GfgZ9A2b3D8BHkHnP7eHhRss8V6NTiUhIpm5ph6UJ1xUAp36SZLt-tPE4Za_hkt5FyC7a-P6M1fzuSn8fQ0ZKigmOv70rLM9ENNxpoIEDOCzR3oDEsMoMKtUmu_vUS-i8e0m-WCcvRIocWr6S4m834TMQR2BIAIwgsMd7OtAAGvO1dmk-tyhwSAMbM4N4yKIoAq06q19VmgrbPcGjXQWDNzbmiftg6yM66fcHvSm-0RD3_ld42fMuTXO1CX1yWKTdYKrpewcXSp-v7A6DAS8MYwlpsKU-ZB7n8FBXM1R6Ek24LpU07FpJSZ5M-SfqEGVWly9coXpPU4X5AVNvOP3RmIFiN4a3U1085L4dyCjIOQ\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4825,
+            37.684444
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Blanca Peak",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2S6p-M7NgJBpkwgD6FCDHZnaZohlgWZemUwb2IPao1J55o0OMNe8y83NUDEqHx3ni9OPTL2Cz6tzeslvg_-Gx1yvfUJsWd7rgg-0GdoNHyw1mchQiPu0dSPd7PtUS2PKNpA4oX8hI378nkJLSME8pySjlkcsvLEPZI7wv0BI_8pWcvdghUHQlbq2UM3cWxf7xxy85FtB0aD0d7PjK44iXGBQ81EGzvsnZ-CV5Zv2Th65oddGKsgYR0TRk11w8uBdJ1LMmF-5GQcMwtXaarN12jN4_Qao7bbgLH0oCMlH32BVYqxTEqyLpg-1Gwfb0s19gVx2CJw674stnMIiZf4iyP18HWrYnUthy84QcUms6vW_vgA4bHXM6ZWKNP0iFVJHL-_-j826yKhmMMHsatlx6WTrNDEiYnHtK7leHZgaB5M-ENkve30WgdnAZ3KDEgZ5LYr_lNxDGIMQNGbViFbaQD8lOqnCBCy6-jNfbyEqCqfzH-ZTuTyMKi8T9WK_o-fyGls2nol84p6yjSDG5D3JwwagfWW453Lm9AA9_ByAogSUhh21M8d64GwAASiGnYEZvJ8liphnHlRM5TVw3fItZwlbIZSWCQCDecjXwyp9sF55-3H7eJrHO08AmpS0Im_Gd9lcwHeinTi_2QDT4yO18zDJdLpY5uga0W_Ac2vMgIyT9vXVPLstJhBwKZcqnH7S7f44EtrFyiSw\" height=\"200\" width=\"auto\" /><br><br>14ER<br><br>The fourth highest summit of the Rocky Mountains of North America and the U.S. state of Colorado. The 14,351-foot peak is the highest summit of the Sierra Blanca Massif, the Sangre de Cristo Range, and the Sangre de Cristo Mountains.<br><br>The first recorded ascent of Blanca by the Wheeler Survey was recorded on August 14, 1874, but to their suprise they found evidence of a stone structure possibly built by Ute indians or wandering Spaniards. <br><br>Blanca Peak is known to the Navajo peoples as 'Tsisnassjini', White Shell Mountain, and is their Sacred Mountain of the East as they have 4 sacred mountains of which two are in CO, one in AZ and one in NM. <br><br>Blanca's west face rises up gradually from the Lake Como basin and is comprised of large boulder fields, rocky cliff bands and various sized snow fields of differing steepness. Blanca's sheer east face rises up steeply from the Huerfano Valley and is comprised of steep, loose rock and snow gulleys of various soundness.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2aSrfiL-d2_B2GTGaRLPtdm2SGnQQeVE1PpCb_pLA_6j7smPnkled-VpJV7UWbE8bl4XsLsnGdVzM2xycT2A2XTS2RWctweNiNANtI99hIFRcFvIA8L54GmWHMmTFQO8Y_aGhUILRaZTOiXGKIxkupv1uXkw4TAjaE_n2r8LbxKco39uwrBk2SzmTdG5Hb57DYyUJLnN21K5OSSqS-mshFP9gOH8ybfaNNTv1IdTctMmSzv72F5WppkUc84BXEtUj1ZBw0aHB66paXyIJ6mWlagZ46uaUubK-Hk4W3ohA5Gz6MyCPfqkrd4xJV_l9aQODcdMjvKRr5u_6R04-U3IPZTecc-LXT9He8Yk1AMr856TvAG_Q0MQJrn3fYBNBM0d_92dkqTJ0wbRXP4YMS4y2KoFW3-TN-o6jTsRTuHL7ezJYYJEl7Gx2a2dUMJ2R6iXea_f6LSVTTdlCM_dSvgT0T-Fe1Ec1p1j9D4Gj6wYmQYqZG2uCy_RBGN60ObrMlNwDxzMDCGUyEfa6hwMlPXn_UE9WmrZC9kiS8__3kY0RLfDiOKR6VPUMM5XHgS6_p8XzK0PJJ6B2YFu8c46IVN2mAtkqiMb6famUfFp7iUDg5-t24Vr1sgaE_vFrUiABPiC5pOFGraXgcJbdykkdHISPssV1To_0DdNOH2FQcNZZMDD6Ir8WgeQ4mftpMyD-h08IwekL1z9Rw\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2jVpYw0B8inisePO1el7hhYAEvhOg3QTwowrdh3JrcdefxN6iJJcbUYtwZSlLtW8QK-S5dzDs7cbSc_2_efH37b1G2qJ7FRdwrWzY80Er8wSO2B9I8g6qBlVUjkCC4lNP5VortZOjp24kkbu0CvlnUJrmOpwUMSAFdlNyp4Qp0UtImRNeKLycTIOAKZmkLLEE-IeNRryUqPPMprhx8rS9XwEULx4Cd4NlgJQwvBp6O5GVJcQbuFNgCfrfko9OqPMEaGxgT__qB1Kj5p6YiF9xWu8ZtrKPJJ-ZN8kB98ZrYcuwsSUMtODCh4vEiWvx9xeSDbCKHlDn5MrdQSU3YzlaMf6hBMkh4qK04EI7N5F5wiM8yPWlQNwRiJV1vyhxK9T8CQJYJaSH0mNCBwn7wkSI8NQ88VZ8NgQLN2fyUxDu_op4dcPaDpRE5lqCFD3BpoXBoWok86bDfW69HJMZfLjl_NrUN_vrb8oRv9cgFKGn467ewkKdEWKFewh76VAAxxNJhWUKeFlIywUE6lWafcHFnxgMfaihe8o44rd--ylRlpIMGjjNDR3Yqo-KZYMaa1pYNXpY4vupPaXa_Mt-K-S9gPnhwNa5kYTBHANDKPs_UBP8cBzgqRehvwTjWnZS3d4wPI94AvusQa5dSoA2AidGjd5oR3GJC6m4tkqkQZVd5uUfCRyLBHvEvlXU9iis-998WN-gf5ULd3g\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.485845,
+            37.577227
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Electric Peak",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2majt7_QDzy3RIBvhUwu79_4bZlo1iPQqGzK4RRBYshVXuVPmiwS2vcTpQmg5mQ37S2MFIHXa7IcwFEnHCtHUhKnOyk920E2N41OmgBXgGP_C8Xp7gfb_6wSAX29XU05yPcZkvSwLDfeeGSmqu91Gp6vxi8NiK3-XEC4n1frMyB636GbUsHmVW6Kxhca72rMkuP_NlCq__vVBMm_zi3oZKkUPjrt3hGsIeG9wV6XJUwT_ZNCnzO571FklFXATczwtGHHsekdkefl6-is6uv_Hiti7dRIGjF2SUlLyvTxnH7BDT6sCOfFHjN_fejuqd4Zei5nBYq-lO5CVGbUMJqhpq4MAqfb5wgOuS2Lg43Y8ZDQSjYzCO9Z6GU8cykysLa8xSarNJwKwLTEfgXOi4xfZc8Cr02g6fICqPepnWFAf-o4fmagR8PactBsaszdBVnEOft8zVjo5iefbNQJ5IkTY4jPMdhvWTGk2E6jfHekCpJldxcIZ8syCPZ-WmtdsFFY85wpsBGKeS3fhU3J5TtTm6Og0gQXS8ZQLiA93cFVTVBVgodERPkiD084_aK9Nie6wip99WfTKdqcA58RfAuwakPn4E0x65HRJ1uQqqeKqrMs9b3wGoA9hGyf5SPIKv-uYogjIFwKDz8Of5nsKf4Re8XRzZLEngOMbnzmLufEqfhN1-dh_VNZbA1q0_YDYzef-dJmEpLg8F2A\" height=\"200\" width=\"auto\" /><br><br>13ER<br><br>The 191st tallest peak in Colorado, is a distinguished mountain, easily viewed from the San Luis Valley. It, along with fellow bicentennial neighbor Cottonwood Peak, anchors the north-central Sangre de Cristo Mountains. Reigning proudly from its position on the range crest, it's the tallest mountain in the Sangres north of Rito Alto Peak. <br><br>Far from the fourteeners which draw so many to the area, you can find peace and isolation here. Among Major Creek's highlights are groves of tall aspen, numerous beaver ponds, some of which have redirected water onto the trail or even overtaken the trail entirely, and a small natural arch. Electric Peak is composed of angular, blocky sandstones and shales.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3uZwRVMsoCs_HIKb-xbJYLSGLd3ZWdyIMNsAytY57fRhDGIE-NpvXgCVQCOzGHQq2jTWeS791jfKP2kg26DV-crQTcmzfHMkyg96EH4vtNsw9HQwFBQxgECH7X8ed-bMZ6h9M4VHG3ZzwtlrUy02sdNtCOzKKPh2rR774TTdirhLUqCylpAXXhpy_c47M4RG__7nu9CAkvX6FTuKsZu2bUrVu3gphpllRX2j-2Q0MjjWMt6PeB8hosUGh7JZIS1Xp5Klez84raE3WXqaSJXXqkYR2IWY5v--wosRPO0qM2NbyAAC2gLH3QkGLMLEXC_S__KNyEnYUU4VBIugtj8Xespo5kJHmrIzV-0LarMSsWEYyDuLn3zhBBYOdk8er_SPGjYnljE6rAYISQRCFGjOrcOgO423yP4taXKvKjPTffbWcPfreLquLeE-Qf9gjG7RKXqKpYygLvEO8Xgmfn7lhne8MYhscl4gDcMQ8TCVu0nCiN-qOubzly6LsuJYKhHJd_gZRsOgcjEqtJyyQQmnylUhVFsPbXbISlHvdC0wmEv5pqmVLTiRIt0zLeqovBU_FBpo4z_UuWOviuyDS1cVy0NobcFm2uOKVj7n_2hVG0g4ClKPv1fwIkbIa2VIskvjInT5Mmx-nhv-xDo2EFRfJZTurqNkFoL9HrfoM2ua58eXYtjTMWmmmcN4MjeNTidzrRVV3qkOSgug\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1-wJSjv_I5RSTsgnCQGKiJ2P1tgBgmm6kU3twwnUGHlbPUUri8n6bmoveJu1xwh-jotFCde_Ag7St3kXQz1QgGLFBh1qp8_jHMGnC18W4kQShUyeyAC0HnYQ4PQ2FueaddRMg_KovmAXaIKdd1K-e-iSm9jxnvF4LVFek_JvPKXYdLRb8ogshLYSC9YnOi-5yEUXGKldt2JoxgdXjIlf-v2kmolw3Lq4M-62S1Ddhe5IH73Uov8VEYxR2nnwl3yolFTPFN0hhw7ZcHbUO6ToWf79gsx4pr_mB_xlYkdmFcbBZi6pXLfd7mRIQk3tCBWs0OZG9lwMS6lVi4oC5Z8zpLw495280uwwfXWIBLVDYH5JUkBRObtPoqeZrwPa0IqsZXtDs-aPjpzN_fiUXgbUfFqyFN-FLMBR8qFgVhMARKIAHWaJn8ZRlVisdtXIzGzkaAUzHG6JaXJ5vQ3PlnJmDD60_eBs5LHfU7QMqlnSDoJTYK3k2-Szycjl0vH5OBxWEohMzDQX4wl2CZ7o8g5CJX9QWfQi3cphkw8IX3tEvKd0d9-QfS4o-CASAJHKV1Nb1JHsDAdTWziRpZJk4meqjZjpH0aZ192LdkrQT2ubhsy-II2k-gg1B94SUsbqTIIAPGcJCC9i4B4mDSp-40aVZPFOvbj361DZx8NxFPOzISO7l64ckHWQoTWI5dHbgh4YBgYgl9xrT_UQ\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.708341,
+            38.181665
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Trickle Mountain",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA02moyjJnwpDo0RiJ24ku_8ipWhe71ds212NB0daSKtzuQUim47FEIhbYUj8B-IH9S4DLi33mSF4M5HqsmP6a5ezXizg63bmogINJkrAKn7XNm4CSLqhcQyJaIC-uJeEK7bW0WXDOetso_0ZQW-a4ezaPolSt5mnV12yUe5ubDBjLxXyp4EPn7cUd2UekVbRGUpmmMXr65Sb9q0xMMgFtE8Cn6jkcFwvlpWj5bm_JA7yRZEwzbio2ltgLIw7yX1hboOczf3ZZz4LP1A4EuFuoYpFyN7OXwlsLVx_mgPAVT3tFreyZnPu3eKB1vSO31jYJl30VzxAGMP7wzKW-9C4rV85jVxBupwKcfj5lIA0sNkx0o1jJ9EGVJvS67u6vPv9MGRpFEXMsgQmWZifNVPvnPW7YD1DL5yG_owaMsP2S3WBZlNdPZhPlpwenWqXjJIBnYMWrw8g6-zkUKLEXsx53HZiriOJdb7wK2sbcJPlW6FoNxltMy1JOB8DfCxriSZSZQKNJhhVPWdnFIgbLyeamhFnYKAt6j0Hy5tVwfDU6wB2Y-Pr1cVFzTKpb3C2cT6w5-FnrZnuBo-BH53XUNvcLwcve2ZpRWB6lFvKbFh1vFSZpJ-PKvizMt84Ut-9EWGGzcGIHX1gmRWWVsUtnjRIeRqxhxuyqrQ979O4rH7FtbBvwdl9yrg2m3M3qjwQ2RoFx4jOCMlTdDcTg\" height=\"200\" width=\"auto\" /><br><br>SITE OF HIGH BIODIVERSITY<br><br>Here, a scenic landscape of mesas and small mountains dissected by short canyons supports a mosaic of montane woodlands and grasslands. In Colorado, this type of terrain is more typical of lower elevations to the west<br><br>The vegetation of the Trickle Mountain area reflects its unusual setting. The mesa tops are dominated by an arid mixed-grass grassland of ring muhly and lichen. The higher elevations of Trickle mountain are covered by Bristle cone pine with Arizona fescue, while ponderosa pine with Arizona fescue or grasslands of mountain muhly, ring muhly, and Arizona fescue dominate the lower slopes. The valleys between the plateaus are mostly a winterfat/blue grama short-grass shrub-steppe that provides good habitat for Gunnison prairie dogs. The site also supports populations of two Colorado endemic plants: Weber’s catseye and rock-loving aletes.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA24bhyor7zRP4R69ru2qljKIpTBbuEgaHRwxlJLb_nPr5_hgEkJ9I1L2NxlsbAR7iLsbnT2DSHkDSMSZCaprh5yDmzPmXE46smsTZEaz_eXh-giokyYWVx8TNB03HQIdKSZbMfmiv4AVS9azOYAGsic8B-WqzLRRK_BAFjQn9QyIgeZBgegzh6yyk6-VBhI16AQy-rtZJ2Lfz767LMxlnqp1rvZLOF_hiRWVkE6d3YSSRS7a2MJY_mCBkqhOtsi8BAMD4DuUiv-wNXZJVSdNIKQzhugEi8gWODYJqAzPjIETIaQB4l_yfp-QoVdo7zCbwEKK3daPLqY_wayYKYNXfRB7QpoaaP4K1ZGzMo_SlLI7HbLSeloSbVYxkZWs4EVgESKRGmuEjRFNDRrmejsMwD-5IbHIfNl4wRS-0Ag6QDjPCUqQU7buB5fyf119bC3eK_KED2S5x-QRXeAHOfMDmHEdVnW20MVkEeIqBZfwv63WIwmKjdrH7xN1daLh4R2xX1cIKCLtdnPEc4k5oOaiQlbPbAj93rJZu2J5gdvi0SnknwCxPbTtOCcqfeI0vx3zJiDK2dLdyLKUB3AQbSbAFfVZHGpIq2nKU5X2hxF9xriPyUEQOFbqE-Y2AhlK6OG0b2xrT7cClp4y6GJplCbCkrnniSVAKOzthUYK7vqfNIGJcbb-WjhIPAdcbLT460MgxCSp5xUSxs8BQ\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3ApiHqkC4vNPddEZmd7n8ZZ3v3Tfv-H19es22Z6rn_j6yUniInd1Hhs5UPS9pOI_S37M3m4kZz6WQsq_znwaQIkazu63Qt6egNR6Z0YJMM9GxGm2tE3ppgp-ob2D_bhA6uCwN3Ayenh_ebEhAlJ5gFYNW9XXrA1Ly1LGSP7U4LKE2JApFaWD5eOcivch0R5HXtp6Cl8Ls9SbH9KqgoWEtk1UZU6gBuTyZNsUDURsQOcCbhjMRR36DtXUHpAYI9GpACUKLXj0wBasAvc4FRiqpDYQeDAgvXQgFPC7fCLX61HNsOpyeWCeXPvbFcavOy3zA0Ci6auwdh-1TTvrxG5JTyjElgt3gVrXH1jwV1NpQG_jAMC1XwFzDUexch6vU7e2_GOnJYdXWtDQSYFhT40SI_DeR-vwKufoNXRrGjthxPNqnhmmdv30vhdeMTMoZNvfKU6nKj8FL1vXoILJNrDeMk9JozzHz73kgsmA1AMY-3M8WDluiFV5hDWUTAsMkO3_m6aOrDUVQRN2rhwHJFlTf2IntbcUbeNiAmV1jkpfwAgQUpZm9-zq9BZU5bRJdUEben_T8Juf3WQpFu_PZml2nlbTCOZd8GyRMPWA5s4BV3cb51rowNFt1t437G8wuM-K-KQn7cmYnCY--YONCo_P4mMEk8fGj8rmw3SBu-a74MbfQkPqYqtcGEy4_YZPeuAP-mbUcs-iSvqg\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.395308,
+            38.156109
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mount Lindsey",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA09Yvc8WIywihKAdWIJBBTGoWTb_3RLtUHrAgJ-OLI0sTVpbGIOkZ2C5ao96tcCej_LVr9SsVWCxfSPICXm4-Kd5_Nu2-lyPgk848BLNALDz3yPfFxuh2cF3xbtcd-m0RqodS246nNlOgKbmmvjin2kP0UErj_JOtQWyPLaEYd8QOrBSaj6P369udXDJjRCCe9nLf2qVM5bIMQKKArN-DGxD16o0nhKxm9CGBmOQ9jJ7He4OyyuBWvq0Gntb1Y-MJgVYNeSOfwioRtr3K0sYKclmXhPRpCXXO9wyWry1u4GrQbkwhPN4BKFLD6ydg1y4D4I69Cbb-Wf88I9DH8WwU3-lhe1iwFDtu-B3R5crBYGmHEvzgzPnv9Qa1lKz9PKU2IOyZJkP4OVyqgjkhpQ-aAz3_-mmvM6FhTaVAPReunshHKw-AxrCTiR0gZNSTlGHDxt5US5wJWVCWqVtx4EKJaTcpaI0FtUBUOdcgMGICzm1BQYfJzmXyHSIZJLH_km1WIt7Kzi9fEtdKO98St9LmW8hArqiFG9Gd4UKGAls02bnkWfhiP34PcMUSuDubffGKsLcpmX3U9hZvy9BU6JAvJCWa9gPinqrc-xwfJ5Cyl3czbA2sZFKwv1zjPNl9TUbX478nObkNHeMIoWdnjrc4pZZldwulp0qA6o3OYPelPcge7SWovqUZiQY8uHxx6wbmJqgkkTibmp7A\" height=\"200\" width=\"auto\" /><br><br>14ER<br><br>Mount Lindsey is a high mountain summit on the Sierra Blanca Massif in the Sangre de Cristo Range of the Rocky Mountains of North America. The 14,048-foot fourteener is located in the Sangre de Cristo Land Grant, 10.8 miles north of the community of Fort Garland in Costilla County, Colorado, United States.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1deaeRpd653OdXjTZE84iqNyalEcTtmAYjxIovpcbsUKkDwdTZQwYnPrnqpjnjDa1eupRxZm4t2dkKbJxnTB8qQ1UKsu8itN7z3ryhSUCmwWYqk3VFsgK78ty8U60Y5GOARmcA9V6_EMEyO9wK1820eNdc__ku_MP5z8Whhy5_8t9JRDjkg0Mcgf33FmQLrJKzAVOhngnLqWn_jR1_g8H6k542wjDyAqzCVPCjJk6JFCnWALz_3GZ_2BURoZVz_OlIyx_jPbLDtMOJh_g10dV9jqfJrWbg4G7YozS-T9FGkEBENJUEwbFXBHP9I1eazw_1uspY5mJEntEpF_iyDVEaMXMauDuEo-AANWSr8OFBsuVCSyFgu5Xl9V37wHe5hESj8Q9T134BwyE-7rFPsrK7z8DXJ5e1DH3AKuFPQJud1gLR_6Dx88mrMXT3CMC3kLquIum4y_7D9k4Y5UEQ9r8awKASk90xaXLwed5wX39wU1xMAL02MkqQC8mdxhom5f9JBfqlD6lIy-nLTKeLF_OYiUgzgc7lTXFEFRcClLgKNfEKu31PnqzldwmfpXIeaZd5OPLZAoUdHdRMJyOYq_ua4bz10q2BDGQiUevN3yLIPdlytVf8N5TddJKWqHO0BfQPcDuAsvz2Rc5fvs5VgJGFVaNg-Er9JsO-fLq6mSNbtjvRfVfk-qH1xp1JxEedaPvO6Dj-uGKI\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0yPwZprqAw3U_l81wCeuAvuvnOuUKLr5EuE0NIgrBoIGW044CYs-VWRZoXX6GCO7O25oVTw5vso7MRvZdJmvea7jzxgDflL2oQN8fe20hXhZ4717hEsKI2US0Xf1TLaDrroDPSJ8douFzKCtS8QxV2SjZs77j6DEgesdwWG0w7PQps_4oulPbVI0zpHxz7lL5Jy47T4q9EhUOVHLGhuLpUuwupudvFJ9cign-kYeraG1xyWPZxULCck0rTK0e4ewJtNn0NqBx_3h3FlIpLSRDWAV4_2m2jBjHVQ5jHBLqK4mKGOXpyM03w1f8g7fyKFB9DaOv6LkNjyMnSBGCAFdqwFqqzvZm9Tr9khHI-HIu-MFpwSU3LWjkR_Akxc5Eoy0dFr6ErO-5Ok_B4i5yzQUCJF-y9FNijrB2z10UfxPtPEY7mxur1qPvDYc-MDPK60c6APvJEaASkPWugrERvfPrFXKToF1yoDB2OIZ1EK-d3TYfHmRl_IaBEfKsuETHwQBnc_2XkvtmoXQoMMl4oWJrFRgV1ADFTGV-0TftdH0pHkC5V5rzlleZgl_wkpdydQivdX4D_QeQEFXBRZ-cW4AYDlaS7UwLtPiKOC8nQykjILz6ogn-KXtiALfXe12BFGCEfZaf4oPMVSMbGVx0DJx-0w32u7WLZi2mRVXeArkLEYj2gk7eO1AOBQfhKdZlJo0o0nSQ6LsZJyw\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.440843,
+            37.584727
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Culebra Peak",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1BXNajgW-j4T4ZycnjRk1b2hPzdffNaZ6cHVP09iYG56ZJm5TwvA52pxAtwYHKsgdao-aIgXiNQnDVqSa4zr0KxQsXOixw-UI5tisBbowfpZEH4bqn37v0mOuA5TUzShGqXDGJ32V0Bl4RfpDRrSiaLA-5wE3WoQKvT9r8SKJFTKkFAU-kgZ0RvzYxM8n2JS7CumpUliWBiV8HJwoDQmhKnkbEFDIFaqhdLL77ITkpMMpZEaDhebwwvy72P27HVwxHdj4pQMWWVh3WSb5d7Jxt4HzlrJ5f1kzUuHfxyEYQAKDWmb_Q8VHWAXK9Jxp798W8NduenLKiNr4wZUbaOKeKFBTv3J6gMEuG1Q87B1UAcODSPoxwAdbOtPkHyePXVOuMJzkQuPGi94xXy8lS9MWT-j7hNeCQ8TdBbRmxTl3SMplpIbcfPP6n_1FZfqIqMCfiyFjeWqkVsSVFmSl9qmBr874xcagfwt_hiLAtUrvRtNWQuf1B6SWYxIN6B_pCXz_SR5QHWarxtUqbkq5wPcLoZuNYy-yzUcaW7uBoPij_G04jwnUmVK9-zfndz0TyNWsICWkJF2qgg2rb2SMohBbM5D-oGUyUzSyd__QylfaBrHD_wRyzw5doOsrFwmuARwT8d8MXesCv_AST38rb03lf_aHfrwVxwM3qf0Yj0I37cXoQTZ5uXlKKCqeh_zUbDvEEBPV4WOp5cg\" height=\"200\" width=\"auto\" /><br><br>14ER - PRIVATE PROPERTY - CIELO VISTA<br><br>Culebra Peak is the only 14,000-foot peak where climbers start by waiting for the guard to unlock the gate.<br><br>The mountain, which rises above the town of San Luis, just north of the New Mexico border, is the only fourteener in North America that lies entirely on private land. It sits in the middle of the 77,000-acre Cielo Vista Ranch. Anyone who wants to climb it must make a reservation, show up at the ranch gate promptly at 6 a.m. and present a check to the owner FOR $150.<br><br>While there are plenty of wildflowers down low, you're close to a desert - this mountain is more New Mexico than it is Colorado. Expect lots of pika and marmots, and be prepared for a bear sighting.<br><br>MORE INFO:<br><br>https://www.aspentimes.com/news/colorado-14er-for-sale-buy-culebra-peak-in-the-sangre-de-cristo-range-for-105-million/<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2ZQX4wKWvK5wwDWRnT8JSwJ1UdEvH02gv65GnZQi9EOsgRyrqzGYL5Z4yE_rItzajNRWOym6tX9IFQWz2RoSb-lQvlpAKMw2OqS-naIDPkb-cPbMgoPsN-yIo_gt3d8UjUb8XPiRA3p9iajH-BoJXdxhh2h4-Sxq6UcChYQ6FHpGHNRgz7hoH3s_zP__y28bF_Nfy4DxK_gBldjX67Bb95TqIWVs9c8L4bpzeOdM05kIA608Bxb-vwrxQuvBG1vP-ZNWAWzcc0wehPJFp2n6C2RN9RZ4vmKS4AG1_plpOhirAXZoXpmhwVVn5MM-jyM25rsIu1eujojkK6_Bv0BDULQrU2OWS8qpINZydOybYa9fD81Tdpo4wuwMrPSTUPG9nvHfZDO7KfZQjLyKXlk52He52tzwvV8SaWz4GHGTXxxXAp05FSyHfXHFLQB0mfdllx4cY6WJgH1UggQU1z4uDri0_j3T3fItLav5wNYyyNk0Lt6uMY2V5u_pXxRrR_u3_1jOY6RTdZVSu4tpwwc3RyuRqgWLSWXg0QY44A9Nlx9v4BW4Ou-po-pEbeKMNxcWjn73UOjl65xlgND1Z7h7IKyRbG5Lj-4rcywTBxoIvHduTi8c5lfPhBIl6fXQyItAo_cMySJcEUrMBZ7mZ5f60B31OsmesJmXrUkn8swMCWcgiE5ZkksTdI2q4tRbsUHhiVC6vE7Hus\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0P9CKM8H_2p7xc7yRQ6XbIJ457bb9me4SnQZLtY2cFR9VSCBEdkWMK_uh8QFw4gLHaxjdSRJjFOIOkAup9nbpYAm47cdQyWBpmK8tMu1NT2EI5VnK_w7wKEgw5wQczZVu-fPOmbsT06CCaWNhsiowNQQYxh-nG3-s9ZsU_HW68Av5rSW6s4a0NQj_c80EER4swmbJjDH6trJaFatRJ-I6T5YuuYdmhOQHyVZ35sJgIXN5xlLbYmQpzWdYJquX1LufhqALlyGsF9kQJDi7QV0HkISAGU3h8T63_2i-mdLdU_7cv22uGuZBATFaeZuYBNxI3Sq0KQ0dhWK_43Xqw_yuJETX_7B0o9Yk7pbVWmJdhlSmnrt-SSvEJumI5HuAzMrFgrOWNoxXODoQrtHzHcrmOTxBZH0AWAa39-TWo0oXCVxGMNbyGe_mNUphnOqX4a95Q14HJEtHd0OepFlGHueX3M9_jxHWole9EKH6HQ4pNYSCq_9o161Hb708g4iEA-kxppWWcbdOyKEuAqwTVwFJWUK9BiSHnBIFo-eBzA_YFA2RsV6ng2lFhcnr186_zuwTPoE5GDAGP_mIni9Y_Ke-0us6_WYlEUfNOevQDEPaTSP8foxgnkFu9x_Wc5jUcrJS_jgRnRJD4Wv1-tlEbfmnSX0yKM-MUko0xjgFaKxjWihuYmAYauxxdAYK1a0N6WjEdl9CqBN9G\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.185562,
+            37.122242
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pintada Mountain",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA23hPX1TBMZCPkE-l-anYi8hj-nopN0Es83AlKbAuPnX7fow7dYBKRIdDgjYCnBBv52m_o0bc1IizGjXfj135EDu9jakjc6ZxxjAqH8vjs72qqDQH8QRWaFArLVJQy907KBaRdSaAvRdEJBubuqJ4DCrmZ3ZMQFGPB5tHn_WwghscGJigBnRVUrox0XS7VtJ5A-mTy6iRUcN3aa1ajsSFuWQt_8iJyqmV73w7Av5ERtYGu3Vk0uSYatA3kKmpbrtvsa-ueb5XRifRBy2kxDL9bWh4EaF16YxBozG9xB9ANsTyoDooETWrP7G_zJbQGv7vjim4-OPzXtHotGpRqr0_roc7Efor1ilqp0DFLml6qOzEg-1_LmZVVVpZXGRrvFepe5k03Yqy_8hQzOoSDlP0LqQ9SSmen802dISTStWLBM_zzPlqIrpG33iN-vUAtvJzQhHqPdhxi4fLWzWGfQ1I0jAet-QUZC_35BSzBapEPV5jhNgpOoonAuu2PZNPS3s_ivcoXCCnN46xUQ8_ILqxNeGAqfyxB1u_8Y_6ZXBgtZqxsY18TrAW8Babfmw1RxJfAF5OqbbfXUJHVNpA0DmZmXjHFrYoarYjUN0FQDCEGlM6PjLXUEcbfxjPAbxBUrzTKWp-k1Xu3taySTlOqL8MG98-e5R23ZohnYb8eiLhNnfEbrbNlLkx_4RJWdKgCmQ2ljlSKLXUm06g\" height=\"200\" width=\"auto\" /><br><br>PEAK<br><br>ELEVATION 12,840'<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA09cg3MF0s8pzhp5Q1OEaaL3PInfGT9DAkz6XotoLD4nxzu_T_hpQL-xx7s2UMAMOmbbI42oYuaVyxxeeP9OKD2vv3BLKvitq9PorR7GrQ_Ea7BoYo5wh5L4_UjwPMBqeVQIhG3rc1YAV9SMrBiNSOF6yPbGSjcYgc9zatTco4xdTaxKvfEzLhOXvlIANSs_cpnkOUlkivrTLHr-ifom90-4DiMptuFcF5uVlDP4M0dBxm0xAbMeC5jigrcMQe2k7wWMKJxChcI5bxpH_asve1jip-NVP8GAf59KRkSRSmRshvgeElYACFcjj_miUeKL4rcxUTx1ASeFrSA-uYjMZGDDBdN-gLWqJTFYQBiau0AO_yBLyZCGmgbJkSwufhFQ9tuNQqcq0ZESbWmP5fO39epdGhf3yT8s8sohUfh2YrqUCHJcPYTrv583R1qgdPpgPw8bz-RgvIzI2WLxe0ysik0piYFaU7DDsQbhku3WXWIz9LjewbLluEiXX6KVhJ44CWzrK2dbtbzHWNi3Klazx3JSQkuRyWEirI8FjFii--tvzIjwRgtEJ725nCL0xYb0O45oi0F-H2Azct9igHBcdZuJkTpVsd4HiyDitJr77mF9JXc3YqN33883Bz_SBzE0o9z5RRYrRDCnuj0V6F57In3HkVDJzmi_MiuPPH2dfe7Ty0Dhz-6zo7_UDcdt1jcjc875K6r2xU5\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA09q30eEm5Bl67Vc8UAgguba2WRIKFnaNQ-HqfzP0BIiuXBKxOhD77qB4mhtIhgSSu3Okc_L6jV8oy7A6AsDSDCFVGSEY-T9TwaktvIAvnuanFYjwQ-d0o4WXYJKDbh3si8KcBuRhczOg2itmRvbARWYRUTXxYZ-RQYbP_cnECKdpD1Zt2K-KPzf31ONW6NFt3VZHAE-SwFg9zz8bUV6cZSa0GO2vVg8UoaUYBE2pJHujY99oYjYLlnJ0dONb63l3IyaKWYoKx_pQNddGrYCUdJfYkFjKjRq8Lh25LZgINNog2C52acBhefraVHsA-ctTQi3a8hurbulx9h8kBo-mUocoa-fqXDQwGCFXj0Mrl0JFAZckgALjlMMOovEVlDOWMNFsJLinFFX0botGfmfwNSvI8kUtWWH3IVOMBIsg_SJm5VvJ0jS_WXmADrxDmUvYGXXqAJAYG_rNF8AOYOeTm5fWzyULB2AwGIMRbvwwThJmMwyMLLeXai7ovo1A8Oz-KSr2T3tpFasSJYcD3opzcWcXTWxjFOTSBzdgUK9MmwPp22_A0uu8AUcJ7VAQwolGXvZl1y8zeGDJavnsTEeFVso5wSSm-P3ZY4wr7aEr__r6s7U9nNUTT0VWO6Wf-dmJyVGz7yPznrPy0nceHNMl61oDrZu5UIV3OvwqJjvkMiDysg8wZm0gh2aVtix2XWV7EE4Eg7gaNj0A\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.402259,
+            37.496672
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cottonwood Peak",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0bJwQsFm3Ot_bAQ-_JVuY7DQvEb0vpbRH_ID4FkNsnzxooYKOYXrijlZD-JFybP_bCu579HZ-YBmcUF-rHzN3gyFlVa9niiavsk-5IRuvwcN4R8wdHZgcqFpL5B-apKUI6JBHXw--ekUT1x1Q5USa6bPOhhwslR7jamyzIDllZ_Jdsu4bNRe1l6JQBn6uXq12lY3RXAFgAqustxY_vqyyuSVfc9sH2mE5SJL9oBH9cHhmkWIL6RcyxYmxbyYQBNPl0eboRHllfiY8CEeBaZtb3XKXQRkOoTl19DWHtMxy1R8cc9X5a0_1vQijtesznMnRE5SV_crCWq8dSFHBz28uWhpFCDJnmp8G7vGgQh4pS6cOtDP37onGUgclaty7vjKLYO9RNAEdPGOL_A0_tsSA5apGrhxEZtWqiuXtuIrbUxFc7nu-Qrt0ie_qOw_aWGJDEaUSY-d9R0IyNka0GkMIc5i6hrazKdEQTxITvtddJiQFNSVyhfhDDzY1DDjtCWlmW_xCgID_5CraSv8yZbEKLuSKQHRIg5aA9CMtYwYrtZ-VxFbEx0dwoIKRyDLE1TpZZQK5SJjmBvLDbNOpCB6ySQeMkrq_sWZ5ywu6fqRood5L9O7hSAmM7QZpglVsc5DPLzbQRh-ALNk_JkWbEqRf5lXaLf81WzN2Pnb2jNTtUo9-ejZqN_Ac5PJNgfNIRkaUbk-BcDkc1_A\" height=\"200\" width=\"auto\" /><br><br>13ER<br><br>Located within Colorado's Sangre de Cristo Wilderness, Cottonwood Peak towers over the San Luis and Wet Mountain valleys to the west and east. At 13,588 feet, Cottonwood ranks as the 195th highest peak in the state, barely making the cut as a Bicentennial, one of Colorado's highest 200 summits. The summit provides a unique view of southern Colorado, and the slopes below host a wide variety of flora and fauna.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA366oM65t9KzWI8Wa1z1mQNzgRws6vHT7L5IaJwzZ0kpRWNtBKgiDJrVYavBqlXbxa2HMhJmBNn7vio_XN0aJtE7Ikadc1I4luWw7Dmx2WweoP43f9M1ffcdrhPbXEg0x9Y8aeDDN6lOS9v9u1AAB5KyaA8yMlF1EMB_sVRbkDtlQcjjz2BDuHjOuPgDHLFu_VGpJj9B-T5s4bIsN9fveAO87qIAwgnD2LZ3NWH2wj5fuKfleO-3znwOAnOwsqJfeY14ggKd4w59D8i_SEUnAciA0nXHYUw1FXOIMdoL_xaKxsSSJaSzzG41NoMbEgpg8-awgZgYcjOjAXR3UOHKYVd1xgKZkGwWA0bwpbG_TGsrj7LyW945JI6eSCRatzLV13YpugZxKDXvn2vsdBroGWiTMNHNfCeq4lOn0rL0qc3SPUHHTVLLyqOW6MBE-XegBBDa2lv0CvJ1YBue6mk2jbStp3_pcXEeS2TmWi4UNnfMU46AJwqkWFLzoxS2B4jYl0CEHxzVmmUt3QkGZwCtc02_oK0cVhipZJK6grMyBm7GsigQT8wHNpAjAO-GYOwQueCRd9CEhC2q-EpwPlKuQY-xwPmG0M2qN-SwrZwI32h9o-A2WxV0Wbqu5pjfupr5PTb3F2ZgufS_-aBY08fbI9r1H4x5wbUcEp1xzlHLT9zPpK6uhPp28v0nO51wGz3X8JIEe5utyqohQ\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1algiPch9PvGMa6L7McckZnb6Ew25JYKpPNw2wy_eDZ7rHb1_8wQ5irnb7Dxe4fL1Fs7w7EbTx3KnEiIlH_mX1fAjB9M86dAS0ckhjCE6rmuB10YuUqJLB5AUogB6BTgi0S_JsGcmkKynibOS_S2hY0wZZ6ZUohp2lcxfORW5xOyCHfE3VADIpJvi-hxeM0LgVUzFVUdQi39U4QRd6ga-cav_21liiz6CvL7QhjxTpW5oqYHiqdqlNcyEn2wAJfRCtM0mDhGgAGCb4xjbyPHqijZXsGa1VvqilboNHTHRCa9tZ_bj5POzHPvwpXQIxFuqacIVPI5e7EYpDyiVKVQdnl3ZXLHZPgciFndS8yi9hDg41vaGLHe6gN3nerzf64rFHtL1OP8xW5eGLxLSW9biKGZ1ry1pX4XWeHZNE9fDuaz7lt8v8bnEWnaQWspnH_bGqjXFhkR4lb81P7okYc0N_NpJ-wtz8gvHDsAmxTzO2soJ8aefsd2y3rvaM9IrMem9RxLpFDtrGK3fYxhu_92zzpXX2jqNGy5pR2dbcZy5yowlFkSLiyjAM1zbj1Tucih93M5PuomWpv0cwf1uQ8eZMnAw9LgCGgEsUaalbDkdKaOi9qw0za8nT5E2Is00NVz-7rGFXF1DWDk3OuSFGAjlZVeI3p1qgCWGbIv7m5mP8CyYAqzrwuBPcjLfyAgiYdIj7RBBR99bb\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.756397,
+            38.219443
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Crestone/Baca Grande",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2GB2TbQsAiZbp2BOjGy-PnEF-KTIzZhp50Aj1qMNjd11YFNArWBJ1B66zsXAPvvYUVaMWDezLw7aCs0pshdVfAGErUYLJV9d3B88UT9PKVOFGWj0Mps9ru7s3Ev6PcldkbMpK_ihvKBsAeKHJV7dnN0dr6JUVKYtVH-NnxlXZh8p5hPsnebZDd8q3XKBD-Fn_ZiBL_QMtrXgxS7K1y_hZJH8KxKW9pJH6ggZfQ-X3R7tPbuGaN-8QmYsIV13nSRCbYoOFmowByudVCU2rO2HTdnZ2XnUZD3jMgtfTCmUK39hlg62vzM9MRa9CPe1a_khnJS54siH8kEWu9P2NFKcpJ3obBVHpUxceBr5-zUeeE6vd-gY3nlG41zF7U-KZIbjwZUxY12Qye-WhA-Wt_gZnYbKyidmK94pUsAgajlaIrdbPL_z-sjZPPMvZE7ugknOpROphqdTSoGtnt0hWzPe7g64afuWhutXuA-unQKve17k7PIT4EJTGI6gMWI_IkmJ-z5w7yLHhSOHxz2nbOpVPD8Bl6-hRdeqVKD2fyOUF7SBH3b6nTXw9lM6e_dQ57aZ0lJupdQ-dxgN86gneIB1lzPpovZO-jdUpjVsOzTMKW-FgBljfvpMJ17WHplfA9UeFqALrri_prGFXRwpF1EBo90pysTOrxdAVn1Z0jEfOpiEDRhFlXik55NtSehaNDC_bvJGnVj7z0kTPlaCI0l0TYif7wKG3pPHuTXpTNkokBIlTMnjcTu_-61rqjLvyAHIx-AgaaJmoftvxKuVlQD1Qyw8v_0P_2u8SSaZFOm5KlgPYaIIpc4iyPy0OcRobd4SrNWs25_8Q_XmCiZHlbopHgcvuI4N0ON0VZrKgMlvDySq1inq6Ngdz79mAvGui0XMKZAPa0xm3Q0J1uPfLYFt3p9ZFzKzVR9fjzPzK1z_1xuGC6rSAprKEq1K5Rv9_8yEdcTR2xwdF7B6MrssShO4AHMSp1j3Qwavbw\" height=\"200\" width=\"auto\" /><br><br>One of USA's most unique towns. Gas, stores, shops, restaurants, motels, B&Bs, Inns, golf, camping, RV park. Monasteries, churches, temples, dojos, ashrams, stupas, retreat centers, etc, Drive out into the Baca Grande and explore the creeks. There are countless great skywatching spots overlooking one of America's most active UFO hot spots!."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.700836,
+            37.992916
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Conejos Canyon",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0w7PAFxQewapEN6O3br4EbjZ86HeH-HSCEa52QglOeAC-v0g38He6rF36FMIARWD0tEKX-LGwIOhzLLmEpv1x5VU5mYKVLPInwTWOUSy8iDHupffrqs5DyFIDgj3sY9xnLPFi8ll4yl7K0iRApbBY_zHt9iC3Z-G7QDGU3GD55qVFcICHJhzCrxGrrZmN5nNM0glvk1tvJg6NXFtlFL6oaF26mD7-3AfheYqTrgp0fWSnZyMCLblu5eYgEzvvDWK8VVyZJxxS4cvdVGYTyHBiQJEouG-mhnPi7cuuMvpCcjZXVHDgPkSPrXrNwg2bOT9Ae9cZcvl9OsskdDiZhMlq92epjLGJH1MJOoSU_BLsS1o2oCk4jtdAskB5IH-v0nqaAl9sSBRaPm0jHnxxV_DWvX9bk4_Qj-_D3WOM-K_B-q-tq72VszV_LQswxHgYHpnkHgkbzypntvYuwO26fw4kn2QiWlp6H6-yPXYOtsYkrY1JQI6KKvhiJPqWHBOyUYBgzbzgk86SvpfBdb_yGnZti3VnJ0z5xCOrkcNQgwmfCbGVYckU_W4oDDfn5N6u9Q3Nrr6MpdC1wc55SmmHeIG2JUpHtYRhMsovIJOSq-iJrR0b8dZWZsNwwGZHswBJpCnuFJG5m9MUSRiM_Db0Fbrus4Y7lDT313_tjnJXM6b508TppadQfT98PGFtG5sHPPT32hImoORv4IZm2N9I4OxVxRqaarrQ3jjgQanoUAuccbns9SojP7jyTdg2NapcppJvBJ2z3xe34rFpM66OVCaggU-qcotDWmAlvj4vzpOcPeRaHPY2m1yOinD00jzATWDeTrk5RmTLMVI1CMMUmw_AIYrLd_0B-5sj6I5ALFn3Kc3ufVlazEsNn584vnUG0kvpzFJuvp0TIwf9UMKY6xC03CA5EQXu4hBzlea-TLER2ugb2X66e_vwCN21VlxELmON4DqOaYIjjPX1XKzJ9g0sJKvwcIEPYq1Fy\" height=\"200\" width=\"auto\" /><br><br>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.446874,
+            37.180592
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bishops Rock",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.343021,
+            37.483711
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Unexplained blow down area",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1W29Dp5P28avNy328edOw1eQsXBH_cmdDc0oEtwf4BGDyODeiEHchFiMh6kxvWbam5qIQz0bhcaHWjZ2q8fA-fj4H6NXoDtYqTM6vs03OYIXdNU5tOE8fd9b5MKdhldrCgRFYxpaF1X9gRgo_mscGEM9Tc5MqjNbhWXxFEV1ju_qkIgEIwFqiNzk5sT1QYJK9Lea5BjLR5aMg-Z5P73NO6cP4kXP32q0kxcvjlCsVAPbV2tMlfHth44-ep28RLy-3QWl8Lt2CbbG3INKbgzjYB0-jnvwjiu66j87dULWPgalt8zFKYof2uWPh5z6q6cD5TInV9c5_yr9AjLFPl4V6Lo93rirvcSDmgnmY9_X1Z-sADZpNefj85zt91ZWaYZrKNaKevfjDTyJp33lQT-j_tzNILrtlveWMNu4oYL-VjJ8DSKt2urW-4u93pDyvVxWvh4ngxAkSAEIWF3AlnyI9yABrWCLcs3w1cvlv9GudOSPejtkTq1EmHM41gi09zjcRUgEQFqx5kwrzvSpy01bwtoHpGH7yz2vzrS4MxXZE5evGPR3BfKo1s_zNroK2oFGzswTz_q-CGJesHx2XbvU6c70Ka0xUnYyWCVW5U8adhnVeLIgQ5Qkl18FtwOnqDab_l91iIns1s9N_EcYdF0llo4N2WmVOb_kXvo9V4kEFrGIRKGmSpChTgTmP_GjpWigQjYWazvkYe4X69xlD-KksEfaul10HMdLZ5jW_BGnxUAZg5dIVFZXp2ghqGdh5RMvua-FQugbmTVrJoWCnSnNyJrHWbSyEbItysKvt-niz9Eywt6o4U1nZun4EPOIYLbb5pdzq2h3oi_ayogmfmgXcwMVxErcnBlH9svBget0Q-Kq1cH1DQl_tYP79al3vMheDRb9nB5q_K8qalevMyssHs81-9aQf0CJ-ULJ63scqWQ_6QmoDCLeDhnODY3zznCGXtXaB7e4MqMXzKhisb2hK_aqN89mUrxjxB\" height=\"200\" width=\"auto\" /><br><br>Large acre-sized swath of trees flattened along the Continental Divide."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.708662,
+            38.094099
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Villa Grove Turquoise Mine",
+          "description": "Possibly the oldest mine in North America, this site has been mined by humans for almost 10,000 years."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.053085,
+            38.298593
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Portal Activity",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3rI4n88Jchp0eZVAfOfdMggr0n_puxqORIfG-c143o2uykuCraNUhjFCqhjTkNbbPFv3PTaVZ9fn1sjwJlJSNxlZmXNI5UAAokggyuUi88mrKgEOh0gH9ISkwteVWTlxHhrDBY2G9SLGvKwahtENXT3w1jFlPaJvOfpPdDtVkDlMZIZIABAxvzj8otyK5d8YYxIrO7vVRYSriRHZneys1s32HFEZShGa5lDu3gbJJk-UTTccvnC5HNeZPxYk3PMqHhVslcYNVrYouczNdALHiiyfGEDIMsmPMoqP60NAd2L8RMQO4ooqxl1eNMD5Hf9Eg_1xRHhNCzn8z32Hm6yt43O0iR_L_MVivyXC01m2PGyGST7MotI0bqZPnLhkrUx3lDZu-fVHVXBv09urQzpkjqkj35vzBUSJZ1mqMz2-VIp8hklL107zKMRWP_I9AdWtGYM4OSxn7GAJh-EHwY-fmV9-frbpTVRZ--D5bHuaptlGN_PPqzAMsxZiPKJVnpaXuieJjiQcXLe3HwYzYeplqKX0dow4TFcJub6HKG_PKdAyn6X-dvPh2kfcAbH4dZDnhRC25owu4OY37H9UU2Ghj2ePaK96NpSCFcBUQYAv6LhCSlVftZjBMCAIQe3RwcIWfoMMgEkb1mG_9TeuP2XnVmncAwB2EaznuEo4FZPfqwTdvrXEryPKm16KajyI3LHEdJnaQMZhBu6-1U88uSCnBk9psxTTEOiSP_3XXUbhiiPK9zSu4kSsH6Gu5JOWrt9owq2ocN-0F7xx2NNZqj9E2zjLg28lshM34B92-J81MGHu4QNGXeaJ6bU-vERtRHhl5g3sbOa7L5B-2rd93qiX9QIVbnNSYDIrBN3krEaGbo_FM_kr6m-n2nAtZqSX5jIvsE1w_wrbC-4wf5PEczaHo3GlbT9XDUcujNr7jDL07orqPrjedVqgeZCnv3urX8JoufZ8aHX0G0slDrhyr-Pkpc5nky4AwHIe7F\" height=\"200\" width=\"auto\" /><br><br>Large overhanging rock face on trail, about 1/4 mile from trailhead. Brilliant red orbs reported numerous times coming and going from rock face."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.669057,
+            38.029831
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Summitville Gold Mine",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2yHj_IY0AMRrAqci200-mrJ8qsWPrMODSLeGLIopEAhyhVqUeI8Y4QmOaCRfgpgBppsh-Zp3aLMTeIJ2wM6eHchI8r2HiiatL7P0YNxuoQENR0JJYD-YjXf0lcgw6ckZ6wUcDkk8ue9BMLeMUNsjHJJuw3OhvhtK1-vv70qS2ggkdSevIaVNjtTbHUgacODxe3Td5qSPbIx23wP9uR9wWwqlbD3TV61tNfd4PtepIev13g6jjVlo8oWMoBeBOWPWvoAX9sG7adZaVp8LE4PumHRX8eOSoxnL7UNvBkggxl8S49cVCpxDUqmY0j05wq3BUmrm24D6Gvk9XHmlWCa8KW_tLtlHUgbAaeIxnR1BLCjjOgblMTqgOObRhBjB8PocvNLSGhjAixRHJPYTkeX8CFiA9aZcsCG5MiJJwnbEzR45SOcDE89IY88jqVgEk-jG4a6VpiT0qI5FQ0JmJnoZj4GUcKSU6vg4A2Ua0eRyNl7oIQyLTqyGas8ErshKOtMMajZCDMBPgzTt54UVa7XcUm5LxJYyt69E35HyvB7zIThNF42WaJY9RZF_RJ1MmOORCq7PLnaORdlO6QEOMqiaTkR0WVi4CECtbq0D8uOUejf_0PXGy2GJVNVOh2W29h_mmW_sspjQhtZL4yGWs5BHn9M349kgYnGppmNTuNxFEiJt9IepuYD5Rpfk-NfHKySWxc0fLqvhLHPW-q01fr1tsrzE2C7UeQEgsFaP8HET0zx-6fzByBj6NWiIgT_2wKHUJvds5NyqsIpkEJJNeCKC1Bh49fuZMSFKVnUIKtcSjC3WPPjZwNNf5yjr_Nxxb5KEeZh94lsBxbpe8LFWY-j2e4rygYgNJBF6zu0E5enoa6fA3BqMPXDTtF9w4U1taLweOQt_YE41QJWKL08AAOqxvv0g2_WAx_BX9gFHj9Iwx7fL8KjYAXxRPuuCTOH8AdXJgM5rwHEHTd6RI22q3HmYdEPm_0__85-7ba\" height=\"200\" width=\"auto\" /><br><br>Site of repeated alleged UFO craft and being visits with the mine site caretaker during the winter months in the mid 1960s."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.594312,
+            37.432341
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Punche Valley",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.798997,
+            37.0102369
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kiowa Hill",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8039061,
+            37.0883485
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Plaza de San Luis de la Culebra",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.423947,
+            37.1870506
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "La Vega",
+          "description": "Largest Commons in United States. Only Mexican Era land grant commons in Colorado.<br><br>http://townofsanluisco.org/vega.html"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.4232256,
+            37.19495
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rio Grande Headwaters",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.3910874,
+            37.6841884
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Blanca Wetlands, BLM",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2Z0P9wFSSGowJM-BjkFMLQSgAabJHDD2ebj3-SQ6APUrUktwY5_Uv5l_T3y_MymFONqAb_1zum2sPaY6ctNw_F6Z1XbO2Ilq7MvgUF_7t9DW3E5oD7141wUUXMw20WudXQaa3k7BdfEXxF5rsJFE5wG5ztRu2Y6UEjP_XDMrt5fPepoK81O9WCE3aRVBD28f14Aioyu48VWZZt2Ai9hTlb1URBDEnesInRNMXrsKF5c3BvmlkV2OzEGwhmRgMv9K-bCjbqnT2KlTYSTdqFFKuFXKkA92SJ6R_7C71jB7BmS-lKX0va0Qq-5eWvEjtg4hDXIEUnfZkh5XXnypnittIR20f64m5C3pMYSW2uSBOvDNBNDs3QUJCL5d_rF8lqw4j1NKXn1cu_wAdnvfA56EazNJyMXmYM6jX_CfWd8ZcYsY9AYwnNfzERXSQNaQpWo2SZSoAp2cH6LrJcPaHs4kKK2_wCKt4FZtkurIlqEweYzriOP8vKyiV-mIkJ85P-Fdzft4KAXnHqefPX_94dDIEjh2ls8ijOz7yDtl5lx3yMpKdZlWji2aioPcHefM44BYxNzI-EBDMtCzc-0wNdhoDzOiAsARy2ZIEh13gU7O6C4jUEjtL9G8qXktfcLng8ckN794nvHORXXComZQy9UsJ1_-1I7bIP2L_YjUi0RW4Zc2KhMFmtgKpA3-3M-x2k_95YP648mKdDHXlasxz_defpO_Lz9FUeJsbhCt3q7TaAKojqpKCQ1yNaMe-nufHl0V5GPBPMkekPXvH4F3G9p2ufJmWoJrjI-5wxEMfz9bdXSQsjuyWOOGWC6vPtpw6nVixlp2b56Zx1cjwC4XGksxy9rBMz-WPOOJUSSvwJmxs_SrwtVaFia1EvV0XOMYh7_CMbFl2nkNSTZKGBP4fTuQgmYCHA6fQIMs3elPj4pcOLdWcEGQD3Tjd-DEbji7JcIuPBWrTK02SjYDBFuRNc0I-dbyJi5AWINX_-v9HmvDRfeWHlVQKa_dsRtennRj-6jV4q\" height=\"200\" width=\"auto\" /><br><br>WILDLIFE REFUGE<br><br>The Blanca Wetlands Area of Critical Environmental Concern, or Blanca Wildlife Habitat Area, is an area of the San Luis Valley in Colorado, United States, that serves as a refuge for birds, fish and other wildlife. It is about 11 miles (18 km) northeast of Alamosa on County Road 25. The wetlands had been completely destroyed by pumping and diversion of water for irrigation. Starting in 1965 the Bureau of Land Management began to restore them, and they have become an increasingly important ecological habitat for shorebirds, waterbirds and other wildlife and native plants.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0F_xsSAt1_WZ5tSxcvM_qTvSDZbOKWo9p2q-l_affUoPzm3XDaEALQlUJ6ba3RgTQsAqhAcdoFv7Ik5ANErgI7XyO49YkmTFLYeMzzFOtUtSP6HZLkrvesDjZ6GQ3hFvs3QLHZ65Flx77VVoe845MbVbz7NkHAcQNLmu7dfTh5z4C0EdyCk7eKj2ummUKabQf0_vuM8XqoWtCf5qW7chAl4e8Vm2Pt7E3Yh8CirUex6nSQzz01b1BpFUMsJ7hGbV2a6Go2XV6OLzT3ptF8smY8zwRt-ATO8O-DVSvCgBsfgT8Rbr8xBMSoPuz02mGu-U-nRWMuOJR-O5YmpSRVyzF4LvUcSO1STbCwQw9vppQhHEsgIPh-ZiAYsWBQi3y5mLJ9j7j9rFFuBeYHGxGY17dXYM58iUdyVwsnXBpw3CCTC3WS2s4Lt1ZDUp9yBzWamh1OSGgcJgbZF3695ryPKAoTIpsyUMCV-E-U4X_SW7UggtYAb9VuPG-m_kCu8kNRqAT6n9OuhBHr8_tWROascCrf-cNFz3q7xC8JEH_Hyvn9qnwOHt652vL7AuCeQWMYppOXtg9VK7l1o3F02az6SbEnvfYjRPMPdfPAHTE-ryot4lz3xTyKw9HA1auCn5cd7Jywwy5TagfjnJ9NVIt3TM9sZrrzpci4UL_JTfCcyJaAx7c-aeevXcqz4dLx9bzbYWYb8strjnheyQ02XQe3d8pWuPmCWw1RJbT0o98zMMXeJgx26_c18J73RfdTxeGANjDvCYENvt0samHNAem1JnjfVXjSns3fNISONxxr_4pWuAfoeGI07_1ViQA4rbv2DCaX34Z9gKFH9BQZ4FiLe2lADAERTBohjGdx8ThIzm2SfMPIo1zXAuGDwsZRsHuBSO73e8XOtTNMflW3hQVMdTXtjcUMOv54vOb7AXzOhlh_WLZJ_ym11Q7agb-l8jtYhrsqi9jJbRzyUCl5pjsf0DjuWuhvUx5FsF0NTS-uyETJeOsBVfc8iw1fURVdUEKOj7rSeQ\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.71185,
+            37.5624097
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "San Luis Lake",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3We7bVvk4RU55rZkmWZRFPyAfrDI9DHYqOOf9om5N-cvHp9IAjR16jXvodyKl_JIKHDB04x_Qbpyp9ALsJAyRqAozhzmS09CbCiPW2gHVym4mbkAohyLRUNmEBpOLU9e6p4WNFaGSg-77ig-rZ4WeExvr_Mv-F1exHR-TFzVWYu0JRcJckhzX1jSYFkhPg7hkJievjkOlAT3Q3esZZH1r7pKKbi_8hyGX4AGx5Ah_XLwGladKEDieIXEKIIxvynuqE3efhub0pqFrJPiuC8OA3b1wbqaln0UY4otC5BM7Wctv3E8BK29w5UqsXcXN40Y7oGYIfokoJnpMKzZfuYu786wJ5IT3BNfVuHV_M2a0GDIgvSbjHPKJer7LdjUGOC-y4jKmzrp0o3QOP5vLWi_EPcJB3MniudcKUetIkPneEPKYX6dKEpEYjKfMQNzW8wwqkJsH3O2FOFZh4yTAWikNhpl38aElKP2qRgO_YCkKfkwkpUxjFjQ-_JPUDpXxq9A-T4soi_mt4sQQTZvACW9F-IyAWmHzqCo60d_l7Epa5dSwS_Rx_Tlkr04_vc5N_HEV8bG-s4w6dk-39qg8pMrajDsnP4Sn5UFKIjT1QvfRSP5nNegonlXCjz1uqqDfUXCtqntAue97ThQc50dZ5pWDIWL4Ba9bECkeBX_yHbs-COUF-tSyMU9qEEbrj1NSl5LXqMd4tC2nJ-w\" height=\"200\" width=\"auto\" /><br><br>LAKE<br><br>Intermittent lake which is sometimes allocated small quantities of water from the hydrologically managed San Luis Closed Basin drainage.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1JXwtnx6AANZY9h8h_5Hi3FTEHo-VZDqWTrd0hF8-vIJOd6AvxialPhrcUdkAba-tMNsmS-MG_SWtPRfki8DAVLsXxZex2BGmIW6FMKWgFn4q4uz8_JdLPKkDmWrizDb8kEDk75BU5txy9bUIqtAgpClE7BKw_IoIGdeznXydhUhc7wR0BvfI2Hg06TfvS7NrXmlUr1V_Xd222OMybxWJSaEZzbnNcaYeHWBQHeH3GULAzfLRMa3TXKy9kZfo2NcBzxhZ2zbyguaKN6PDk6HO58nc2yuyXxI8SSFjVMGL_SprsAcqNqzehe7Nxz3_XcnGBsj2hRnNfjtW2rRvG9NF9hD8bJYmM21HII4jIj-EV-VAaulhqU_E7ctRQSLUrnzo6mIAQAtkCeERhESJginrkP3XJUtJ6OlzKav2DS1orN7rr0RcvNzSgA8R5Kmkbycn12LAl64rpzbMrF6bg6jBoTPpZrz6G2sh8qxj4lGLKDTcDXq5HJAtaY3Xc8lgmmBwHnwKCQJ8xVffmsioUelQiM6roczTYYFH7qHbJqNqjfiJg-k3ktQ3W1PdgLDd4N8BranaOD_ba_O8VsF5yY-x6Qe6C2YYjCUTvJRxwIdAowkfETKqw8mG0vLPOv_tk76iFmdEW--oDV-cbVG6x0aDGU-aIH7u6vd34A_wkGBkgEF5YY7b2NWDHVPi7ynL7G-BoCFOOmexnig\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2Memj1VfJfh7YCF_k_qyRSYPXTLWDQI28AVI9Rd7HGZE0kJ6lEk9SpvbpEmjJniJS1CDUAgBgzHugZIHjs6st2kQzJHQ-Kd8HkXRXZ9HCZa8aupsM3yCFvE27IeEz0aJ11xYdXvCFWARTUDQE0yCSmM4dmDX1XY7PmC_lyBfmw458xYeSmzhbxoKdOhSgJAB8mRdBgBPOeZIJnbzinGagFmROi4xPQCskStmpd09_X9u894R-BQDSfojlnMKnAeLmcZXcVmtU1Y3zKi0lfmLY_XgL5kc5tLPUV5btV-eRBXRP4-shdqSSSLq0hxlwqpX2XEDwWMAeOZNWcwLPwC2jmeSeB6pqu_Im-8bV91whbUJZP12L-0OkFhX4mkSGE3lAG6zSbVDdn9boucm-bojhMNYYEtXwKPgH1MpWlBw1QbI_JEwkL5BZqKbAB7peJ_yLioysbsOANWQREa2RxsbAPyU-aaoLrv2UdOp1FZ13y0ZbN-EbJp3HsEwEJwPnnPb5H3kjKvMBkP2qW38Lm-Z9xbYRJ2rudT5bGa2yDh9a0iMKoqYO1RwCdDn3fEn07q3hb5MwVdwsWd6-8z-CBhROMFpcta32tRhD5yPDn9NJ076fK-SnfDGhFoOPjEaNpilI3nvgVO42V12mZSzTigcIYcejlTXoOiIWeSRJhKe-DCIDScEkTle2f3HvE8tozJf-DBdGN7ArxJA\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.721528,
+            37.6740321
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Zapata Falls",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1EkFXLXRgphTmh69yvyrloz4zTl4W-3-RfL7R7i_yD16HIid4qKD3Vac7WuxVNQEv9jxRPCiud1dqquBEVzxpiU_VbAILR2uF50mQz4Ww7s6MtmxtuEhBAKNblwkWwmpSpc5jIPz9-zMabnSeZi1vTjgNtNMgrOhFvClhVjjE5FeUjKIRC6ySXMLFLDSprG6m31WVTShR5kmt6n6Br7P9MIMeN4iXZx8FuAza4NvFZFEg4dZyJx2i7SA_nWOauQp7fWILsJUqq0dW6HzqvogXqOfTv5ocQATKKwHPeeDDc039zxNnjNwHJwvyckrskD1mti__Wg6EXzZQQXwEzuX1XDDb-uwH-AXG5MiA7x9k8xJqsMsPDdsNCV97ECKLd-n_fTf0yeyGnAkvAlDOxjXKQT1qzP5_a8NpHKxIUR3XXSDgfDbiqTUvP-rNGv79me2y6vIGHTeYDsgse42-IacnMDf0pNvIbP9GaOusZ2K9HSq3CPR-gJJtPXVqjBMkQ3x8-YPlED3zwZruJ8H30pQUz6ExMC88EZ-Lr9eG-x2Qbfz0war4m05sdqRJBhQdUcw8yb35jGk7GMxDMT2ArLWCArjNXl4xDBKd1IaTvWnOyYJmKSdiWmcFCFy17mkMoTrAOTlBCtdUk8S2U8aCmbUAV2j3sbYlf1gn-AIZrz4CH8tKKNGCKIfotDrr1nJMcWChzAc-PlLoFlQ\" height=\"200\" width=\"auto\" /><br><br>WATERFALL<br><br>Snowmelt from the San Juan Mountains flows through a thirsty landscape across the San Luis Valley to one of the longest rivers in the country: The Rio Grande. Nearby, Zapata Falls — a secluded 25-foot waterfall sheltered in a rocky crevasse.<br>https://www.colorado.com/articles/hidden-colorado-gem-zapata-falls<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3vAtZjgh8Orc5Iqi-o4QSVqte1ZzajvzITZyK70IooZ67nNkH6ncD8KcmR_mfJAjXx5CaJxDqBnyPeTF-BMBwTJqpuJSthGaCPRkOr0I7ueYGo9yVFeDOoblqKDrCxVJB3DfC9XPmYOe-wygq6wRrfUEhIvd7I-1nwnD5SLYjiwMFn8wofKTeLvXnveUluV4s3HemtvMEp21fQfrZovKvf_7CtsRP5lHr_gDJWoV1Ai91nsq-sJ0WPDY8E5R503CE1pWuBOMl7pLII81RDDAYfyymca0DZe79E7Bd3pLnDL2b9nhvDUhTg-emUXvkRVxDjU53EGxtjoByzo9NDLrWts6vfmz9Vh95wC0j7avzNj8to37n-6390GsiPBC6jWYKTmc_gvauYFo0kD1ena0B5c3dmCThtBzj4jwgxDz01Mphi_te6OgkIDE5qwiFwXtUPpKKvi0MyVAje1p55ikx_06eqvAR4Uxc_NvtRVO438gVJM32QoYZJ1xMP7wPJeEwEg2h0B0bi67BT_UdouvQw2VYM0_N8lzxE-Bn0C4OcIC1gnBehGjvAuUstxgtQQlGDqAFfayjXBuLVCYnSevhSV60ly9WgEJ9R21stZ2wgqTYcRBpthgj4knUAe40tLXTewcT1yvVs2CAbIEtExPC_vdBEhNjNBFNQ5STe14VxT0hWQwPu-enxCAPSldEyV-d4EsaaOtf0BA\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2MV4HzbWU7yTw_xSQPyJrw2TdBhKou3ygW3aPI8j4QIua0-mY2Gj8U0npCzKSHiC7qASdKbGGK1WMBSO5Mdat0ApukcNdGSgrALPUv_zhRaO0-cbDnITCb1cfY2QBLUqUnhaprF7hwSBNccKcGkIjPLsSqzKcZUtHsLcvT0_7Do2Gl0taFM7x3ysx6VrbWB9z-ID203YTdaJm9IFTuPh0_842YxBbEwtpsMsjHYmhEuvV17lHvgoERbLJUmuGLJXwGzgxmq2Byt-SmBnBUmeo5LYV_l7ivZhpzZv2IoaPkXgOAyybdDbwwnLQWdglSq0TMqvUMv6DL4519zkMDt6FFUVAvy-xf1QnTLO2NJXwnarmQ-RHjOXnEc9Td5Lo87nFE5PbIU8I5zirLGI4nGxqxTMDnP6hX6kFVxTiOSXXwj-aUhj5EgnqvKgFVOcVPyh1f89jKt4yU3YlQHx6eCnHMrgMPhqNw1idibKwGjEBsjxwwCxzfkBWaVZrii0KKihQSlPF7JA4mM24nKDkevYiRSrqMVTES_zyqxZktUNTm0fPJ9oC9RQ2tl7nVjzg2BCXipHZrGvGnZntpcnF6JXWdM_VUACXeP7JsRcykcXrkHsm8fL98S1bq6keHY_e5lvbASrTtAIfNdPUjTOCUd7B3EoJQSKAZgponcp1hUvmvZBdeg1A-STbvL0DOh0E45KUrH-xNzDF8rA\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.553069,
+            37.618892
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mineral Hot Springs",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA3TDfKAb-OuiRwaZtEaDCxHqiEWrydvgm9pvLw9aWLcZbWWIn2DiU56B2-ZSY_DNVMLdwYMpOSHvKlqBKceL2N_ho2oUGr9hi_Lq8z0FHXUeQZ4YQwTQADu1O6nrzBWibHdLBf2VLmj2thMLckglNB_GfOKydKoKdSClpymwrJk56_QWDALi5_XktgM_972F0MevAQLDL94zr_TNGp1qUE8FYpIPLv9en1IjnZrJpy8plynM5DBT0SvWCEN2Un8VVJbGSv92P4rK7aqBgl7EN00gjBo9yz7BGSEw-Xtm00KyliPINvHX6YME8vnYVJA_2YVkp_nmzhknondAinnDXTTNeorGMvHIh8TeSFaBRc4oHOnLGAXeS_1lO6T8rYYApCcuA4mmMw5xuRa0H_-suBBnhuIQ5UCEY16qKtIQaHyL6l-zh2YZYkuNqXETKeSj3zPlVTk59grFtGEcfJPS9-ZNn9bz1dPEAS_jVSRkA4XbakXouQuf8hBttLpRk3r06s__Ch-582rEPLiIpkSDD7alHljAOYSOYK7db7hsPmjhEeu5pqnpzZeknbRgy8-35oF6P8ANBmXKoUSliTJ_ArjT3sFcDln_FUvE-adfjeeoClNnmO6UVSrY1jF7wTkV8-I4Z-RKWbiZSi_bp0Zetg6gW_jQO0Ds3LfBzjRTIjjPKdh9eQzdhISZ35APHvX-bu1NMcmy52bVQ\" height=\"200\" width=\"auto\" /><br><br>HOT SPRINGS<br><br>Mineral Hot Springs is a platted subdivision but nearly all lots are now owned by the owner of \"Joyful Journey\", a destination spa. <br><br>There have been some facilities at Mineral Hot Springs for most of its history although they have not always been attractive or open to the public including a covered swimming pool, a motel, a cafe, a hotel, and a gas station. Joyful Journey, a modern spa, now occupies the facilities which have been remodeled and modernized.<br><br>If not tapped, and hydrostatic pressure is sufficient, the springs emerge from low mounds deposited by the springs. They were a favorite resort of Native Americans who valued the hot water and mud for the healing of wounds.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1x2VNEhkih9_ojG6TIbuedxZVZIfCGCbgDVScAsjpixk94CGIN2pPHAvELeaM32IL5lloWXA6cvA-HedDDAVjNd8pKlD_dGjtx1RJjRSIKcgakNm1_svcPiBdB1C1ZQLi_zRsk2bsn96Gwp3qhzx9qGVQQ1-W60ku0dahD98_X67qoenlQUDKKs9gqCwSFzlndl9NPcMVg8Py6PUK9222DDWSRHAYda7_JCLOQGCcF6qo5oWa2DVIwaxM-AYblYXshXX1sa5cjO0gX941HFjgoDw-VhGdMynpJuLnCkruXTL8yDixCXHQ6rAhvpsD6AkyqfvynSW7dE93-ye9JPqT7ISB-9VNoyUkIlw_qPjL4NvfTJGWT47aG2j9By1L7MiAg1ljr4PMcSbmamiIQzZwRM6yi82v4BdFiyHAZQHdt1oVXbEEQU_Nsp_xo2w8_lgt6ymZP7jm5dOpnIUvlI7-WTNBH-OVZtLJ8aMMaFqKJz7JST9edT_52XUWjpxcV-u6z5QAwbcF-9w0mJTqXR7I7i3lWFwmMAiLby-QuLGlTEJxIoByEkpSVtnmZjecSXPK9p-PcrmMQWkQT_JVT7JDMznM00qI6jCP932j1tVm8ENAWCFjMBOr_QSqkm5D8FvPrZ64fKtoydPF72HVxbuV3YeH91rVYQW3KNnZTy_GRnmJ3fI5VOMQuiqWz125kM18mIm511Z36Mg\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2WuG0BmMXBmd6Omzj0JGgeqhWpTOuIr_WBoYFLGekAXIu2nVS7qxUfrGhaQJhyQmJkWTq2UUBmjNeqlMTBh3PVOfcdVR6OTnB_6IPS-42tSre-3L2cvczSczCZABCAiMJpd_DIMeGz6pdcs4vGgsH477DB8uLCFb8tvliaBwpT7AYu67qKlS4muveRkVS-3VGaPZotvGBV92OCnSeqBGBzB8OB0D3IF0EN17MyEisD09LpgIxRWIptAi8se1z8sXtseJr6M63xLHEEAJLsxx71RHYUCvROWortVqRPvxwQBLqWQbjLoh2k5w_TdhiOcSjXuqb1OkZdZOCpquwskkBacx7SMNQqmnDisrqkeO0U_CrQ_H5Pye3RCZgSQd9Y5lzewICeib1nuiCutSl9ErgU_2u00s3x_0_-LVC--9SdES--utmcIae9nk7dOkg_bAdrfT6lGFBg5RFZjgoZC9EfGo20ICQrcm-4im3K1IVQc1Lx83yUSA1xiGGLPA9Bvz9yeQguP_fbG-nmhtiMLF0801Uq9jH8yYKCHVqgp6SBb-8DdeG_9fLui26Ll9f9vgy4CE35L6uDbkBzKYrUiVxrNHrF7agdoV1DeoTEvyIozx28IiNG8uUNtD61iztFKzt0ET6iz2xknFxp_tJw48rEaEQ7h282vTb9zJKZCZ3TfS5ZNYNaTsNnrONhIvbEPdvzgPknqIK4oA\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.925847,
+            38.168888
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "King Turquoise Mine",
+          "description": "The King's Manassa turquoise mine, or more accurately the \"King Turquoise Mine\", is located near Manassa, Colorado. It is one of the many turquoise deposits which was actively mined by Native Americans for centuries. I.P. King rediscovered the mine in 1890, and the King family has operated it ever since. It was originally called the Lick Skillet Mine. The Manassa turquoise mine produces an incredibly wide range of colors and qualities, from deep emerald greens to deep sky-blue. The best stones feature a rich golden-brown matrix with some spider-webbing.<br><br>The mine is not currently active, so Manassa turquoise is quite rare on today's market.<br><br>https://www.mindat.org/loc-6088.html"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.7601643,
+            37.1758258
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Monte Vista National Wildlife Refuge",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA1SSf-3MkJ18D3TEfBXIOQbH3RouMs0vX79BoZsM6a2v1-5jdAHPc8OHJPqsc8riJv4dfje6o5jafUPtxj-5bkcWRY0ldzS_jlzP0vK8gXoOnXbKwO6LA0pensJeocF-8AQ-772cPZ3aNzzMIpmgHq5CW11fLf74yxibCzzMkuG-9qCkFP-Yge29jqbxnzr66qaTE3D2WzNlOOkzhzpYVKihnNe2-f1YGr6bVNAc2vxy56_TRCkWrkajdxbq_z9IAEOoqZPfoMxHtq8mzUnCy4Fjs87xCW5KPIwQ2QZl5eHm7x3zUufWWtR77KRKYur7ia7NJBwHGbffi7P0L_m_-aVQn025QTpyVyPa43n3LvDxRiH3J55MKjK10PR023OgjP4kAp78wNTAeP-CzoiXpccGVVubEl39Z1PYZFeUZQAQBBAEQBnWOCBJ7i1oGHsgrmVDPQoKrdwMUoBEWYyYgBNt8kT7ny8mFhxnr6KNalpBwQ7rKVfygXFAQWnwwDqF771G8UBWMdN8tLrfaLC3wLDyIYHZxrmCRT2VIjtlSm8QmAoEFS1wW_LGcIkF3wyzia6nzk63r07hTCxVnUO-1BWrG8hedas0Zh5iKaT7iU1GT1K0J6pRKDhqJV7uREyEvUKh-Hk0ijo3Syc5e3rfhuHmTQKVSrDvZd6RL4opb_Glyq8z1EbyzYw288-mdLgPusFJet-sjbe\" height=\"200\" width=\"auto\" /><br><br>WILDLIFE REFUGE<br><br>The site was historically an agricultural area and thus water is intensively managed on the refuge, especially in comparison to the nearby Alamosa refuge. Irrigation includes numerous dikes and other water control structures that provide water to a patchwork of diverse wetland habitats ranging from shallow wet meadows to open water. The refuge includes Artesian wells, pumped wells and irrigation canals, some dating to the \"ditch boom\" of the 1880s. <br><br>The refuge is a major stopover for migrating greater sandhill cranes moving between their wintering area around Bosque del Apache National Wildlife Refuge in New Mexico and breeding grounds in the northern United States and southern Canada. Up to 20,000 cranes pass through in the spring and again in the fall. Three remaining endangered whooping cranes from a failed attempt to establish a wild migratory population in the 1980s can be seen migrating with their foster species, the sandhill crane. <br><br>Beginning in the l980s, a herd of elk began using the refuge. At present, several hundred elk may be seen on the refuge seeking winter food and sanctuary from hunting pressure on nearby public lands.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA11kRkQ3-4QN1K1MdLzLb2dDi3TPNTHxMgAtA-rbI2h8CD3vr0xaQegAx--f2eGrE-IKh2dRqrOsJPjBPr3SkZebYZHdbAIrf2Zu4QRZHLkX7pG_4xmQG2aSBsDFFQigbtfJAsS5ieIlWYmlkiSuhk8_t7hssAp2zcnPMkaU7UImCx36Mu7kpwvA_pNksXpvLn6o-QxGLHw7ThkqWJLF7LTbqBmgCHu3l-ni6OB2r8J-AGjx-Fhy_0gNN9YyKJna_9jkwsMxWbVY7jZwSw8sMy7_xmd0bzXcoQKVTwCWJNTOuZfhMjGtuvUE_0FW6x9gG01bjoblKl_aY9SG2RqL6n9DiC9DWioX32DVLjjjLNHQtDAzqfEuBgjJiCjw_X3r-3S_eLjFLH1-t9w9E02bnOKYxSZirfId3Fhhr4SALOJLeWlxAC2Gjbww_I50L_DnKDN2_u4QPKKMhSFX2aVXYHufT5XKfxGnx8Sf3VIZ6GQuHVdTo-zcgMPV7d3wX2diUzKmJtXUKXyOv_yhfMPajQR8PUyQzDqcoKorEW_LUEWqWcML615GmdHwO20JL2LCtCTGlchms-AUP92L9TCa4uhjRD466mG-JT73UByKw5TbWI2FpAPA47QnsHk2BHhyplsqQAFutxv239VPOxQrrPtLCzFj3lFihqxg_XMkhMI63pVjGjP6Qw7ZDg-Idx_1Tlu4xA-0HYwcQ\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA2At8SSJiV4TK9lkhj8UJBcXlq5PrHWrba81QK22CE65m1NypM2NNGqvzp37UVrO5G4kzdQ6O1fSPVqZV32Used7xNg8DNj1Bw0Tz7HojfPwRRcadUB40vV5Ws1MzZ_WNaojVxfx0zLSoivllWvSvxENssc8twqKnkFe7QnmNvRtLiFxmpURTbldF2jfb68zEaOlGuKCWUKKaFquMPe1783yMDnGBDCvyPa3zeepO3z6x-Olua_jFhk8bJDZzfWqn7SjlCf_aDilBdpZNrFqmstdS4OvcLzQcq0vnpVVb57EUblRaXfrXi3qpE2mjjtXDiWaYHjcEGoCai12k16ugIIhTJZD0uApnrwyP5_Zl7Ww9P-PkuihBoRE2RkyZfBpLV4u-TCV4Nu7LzGJHRUVZ6W5C5s3tqdEyizCgcANHL6iQQ_6W5_h-78G3VvAjmAeNUhxTKJsT6iR9VbceJwW5Ocu1IbEHi9uYTPWCqO4pvyg3Tn5BK7G97SAI8lINfoFmsjsJz-wA3j5favW9VUpFoqAhHPJ2M2Es_0hNZaEhwhV9gBQeqjZ36cSdLWGpORUSvTdOOk2Y318RktYrHXM95Msx5rGYJQiS-jY6s36YRB9TzD_0NYwfFzRI29hDhs8Uw8gteF31U_mb3GDZm5G3lby1hcLzNwirfC_MCc6B096i5Ynppjm2P0AIlp1XvssXPUOQrHPUI6\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.1478584,
+            37.4854201
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "San Luis Hills HP",
+          "description": "<img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA277YWdPq_-5ncnu5IqF8MjlTh3_9lndJcm1NMIR6O-wzvHHozWLYIY5N88_rCvoi1q1uSgCnb6ylPEj0v09f6CxqYx_Jk-Av71silz_i3gr4CkxRNeuQH3Wo71IuKxsIwlKo7hQofFZb-7bluf90ITrq-PvfZ5QFaayBeGEjqK67s8vT6_xW-bBGFRGD-3WnJUKR1S2qiGVlV4ezBCCuX3DTju9FKfBxDvrH4VChW81uPTuvRj9fjnRlgFhqOWdBetwNNNBmagEjZdBr1Ro_790CIfAs9BeLye_j33n5JXH_7JK7bMFon8omWlactWYmFipgF0Hd-W6PugeCEnrroVcK9XwmF1vGLEopTfobs5t5bIdQeL66df-L-jnBXRssI6IVn1TOvNGpYWZ2VUuoU6uv653_5P66Q3WmiNAdto-isbjepKyFUV-y3xn67354mTs6f1NUE6qvHscv5Wy788C_mD1x5UNtuiqwL6zMJ_cEGzJ9j-X96deH7rjJD8wBDWpNlxHlYMd_OpynzzsUYox5-Q0P-fOhCo6gzkwlzKVih8xMG84juy6cBinE0uaaZHHAyD3C3cQ8KN9xd9t_MABWdLMQ2GdhuLaX2dZdKAPQ2qFTi69ucXzFyc5p6xnXNJ0S8d-Zx4DnQ_E9POMHHJFwAZncnGyG1Sy0IR-JiM_o8CgZNaanXXisvC8O6Dphh-dipVRQpHdw\" height=\"200\" width=\"auto\" /><br><br>HILL AREA<br><br>The San Luis Hills WSA is characterized by a series of hills, which rise abruptly above the broad San Luis Valley. Most of the hills are rounded, although some cliffs occur in the northern portion of the WSA. John James Gulch and numerous smaller drainages provide topographic screening and create many opportunities for solitude.<br><br>Distant views of Sangre de Cristo and San Juan mountain peaks, across the broad and sparsely-populated San Luis Valley, create a wonderful image of vastness. Vegetation, which is sparse due to the arid climate, consists mainly of low-growing desert shrubs and grasses, pinyon and juniper. Fauna is also sparse due to lack of water, but includes mule deer, antelope, various raptors, and various songbirds. https://www.blm.gov/visit/san-luis-hills-wsa<br><br><img src=\"https://lh3.googleusercontent.com/umsh/ALX7VA0vWHo3SWs7QBL-1Nu0xansHMghpN1nzm1gvPxZkvgve-H9XUenNAk--UneHj-OFjWo786g2OAUU5m4FdgKIU_3NhMWPUpo__XMuuTkJ7klIloGS7L1DNJ_2KHqPGXc165XwIey84rAU1Eb_ev4ezyr41I00Xq5fuwrTusg0BuuR7bUSC8eoyCQnXh4KB4t6ap8gaFo6yHNBuEXJdA-aBNvEIyqztK53C5CQmsNC6c6YYG2nETr74w0wwiC34hDA8m7KeMbDJlkfTCa2EW8ZY2T5fb4oFMHfT4pOig9MVpogdhqxqRpRCSfyZTDFYWclx8ZEEgLT8JUcRmjfMf7rLP94A4ROiuqnVkcpDny6tahUuO_oIPPYjiyPsZjWCoUy90iXG6bW1HJxU-RrYrkHAvvETOucWtP8RWzVrfOFLIVqCgLq2Ns0ac8Sg-8GFlvrFtTu9k54yUuFRCOif5R-P4Hhd0T-ImJqrbdjtCprYRqcpgnQXbdOQSbwBgtNV_amIVXqgq0w6RHZAutMmRM1M9jkQ43LllcgKr2V3xaxvvaAnhK2rUZ8agNzTcva-Oj2EtDu66kQeCNO1zQVjOHFsOLtJGKBvun2lXmS7NAU8j-LXLzplsfSyw5B6CdQNsN9eBLFOtMn8xTwYyPsDex-mHv8D1GyZr_ppJjyBd3HwLaFRiUyS790GsN1PVzZkzIN2lxMVdTVFAzqQ\" height=\"200\" width=\"auto\" />"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.700031,
+            37.2475
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Homelake Veterans' History Museum",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.0982963,
+            37.57567068
+          ]
+        }
+      }
+    ]
+  }
